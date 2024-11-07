@@ -88,12 +88,44 @@ def set_user_settings(user_id : int, language : str):
         print(f"An error occurred: {e}")
         return False
     
+### get a random word
+def get_a_word():
+    with open("504_words_v2.json", "r") as file:
+        data = json.load(file)
+        lesson = random.choice(data["lessons"])
+        word  = random.choice(lesson["words"])
+        return word
+    
+### get two random words with definition
+def get_three_words():
+    with open("504_words_v2.json", "r") as file:
+        data = json.load(file)
+        lesson = random.choice(data["lessons"])
+        word1  = random.choice(lesson["words"])
+        word2  = random.choice(lesson["words"])
+        word3  = random.choice(lesson["words"])
+        return [word1, word2, word3]
     
 ### send a audiofile to users
 async def podcast(update: Update, context: ContextTypes.DEFAULT_TYPE):
     print("User {} requested audio.".format(update.effective_user.first_name))
     print(update.message)
     await context.bot.send_audio(chat_id=update.effective_chat.id, audio=open('./audio/504_lesson1.mp3', 'rb'),title="504 Lesson 1", thumbnail='./audio/504_podcast.jpeg', caption="Podcast by https://www.504words.com", protect_content=True )
+    
+
+### send a quiz/poll to user from the words
+async def quiz(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    print("User {} requested quiz.".format(update.effective_user.first_name))
+    
+    ### get a word
+    question_list = get_three_words()
+    correct_word  = random.choice(question_list)
+    correct_option_id = question_list.index(correct_word)
+    await context.bot.send_poll(chat_id=update.effective_chat.id, 
+                                question=correct_word['word'], 
+                                options=[x['definition'] for x in question_list ],
+                                is_anonymous=False, type='quiz',
+                                correct_option_id=question_list.index(correct_word))
     
     
 async def daily_review(update: Update, context: ContextTypes.DEFAULT_TYPE):
@@ -164,12 +196,6 @@ def fetch_news(url, date: str = None, categoty: str = 'general'):
         print(f"An error occurred: {e}")
         return None
     
-def get_a_word():
-    with open("504_words_v2.json", "r") as file:
-        data = json.load(file)
-        lesson = random.choice(data["lessons"])
-        word  = random.choice(lesson["words"])
-        return word
     
 # Basic user information collection
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
@@ -284,7 +310,7 @@ async def start_learning(update: Update, context: ContextTypes.DEFAULT_TYPE):
     print("User {} started learning.".format(update.effective_user.first_name))
     
     word  = get_a_word()
-    await context.bot.send_message(chat_id=update.effective_chat.id, text=f"Word: {word['word']}\nDefinition: {word['definition']}\nPhonetic: {word['phonetic']}\n\nExample: {word['examples'][0]} " + f"\n\n🗻🗻🗻🗻🗻")
+    await context.bot.send_message(chat_id=update.effective_chat.id, text=f"Word: {word['word']}\nDefinition: {word['definition']}\nPhonetic: {word['phonetic']}\n\nExample1: {word['examples'][0]} \n\nExample2: {word['examples'][1]} " + f"\n\n🗻🗻🗻🗻🗻")
     # await update.message.reply_text(f"Word: {word['word']}\nDefinition: {word['definition']}\nPhonetic: {word['phonetic']}\n\nExample: {word['examples'][0]}")
      
     
@@ -409,6 +435,7 @@ def main():
     application.add_handler(CallbackQueryHandler(get_news, pattern='^news$'))
     application.add_handler(CallbackQueryHandler(settings, pattern='^language$'))
     application.add_handler(CallbackQueryHandler(podcast, pattern='^podcast$'))
+    application.add_handler(CallbackQueryHandler(quiz, pattern='^quiz$'))
     
     # Start the bot
     application.run_polling(allowed_updates=Update.ALL_TYPES)
