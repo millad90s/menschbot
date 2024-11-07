@@ -1,0 +1,1276 @@
+{
+    "lessons": [
+      {
+        "lesson_number": 1,
+        "words": [
+          {
+            "word": "abandon",
+            "definition": "to leave completely and finally; to give up",
+            "phonetic": "/əˈbændən/",
+            "fa": "ترک کردن",
+            "examples": [
+              "He had to abandon the car when it broke down in the middle of nowhere.",
+              "The building was abandoned after the fire."
+            ]
+          },
+          {
+            "word": "keen",
+            "definition": "sharp or eager; having a strong interest",
+            "phonetic": "/kiːn/",
+            "fa": "مشتاق",
+            "examples": [
+              "She is very keen to start her new job.",
+              "The dog has a keen sense of smell."
+            ]
+          },
+          {
+            "word": "jealous",
+            "definition": "feeling or showing envy of someone or their achievements and advantages",
+            "phonetic": "/ˈdʒɛləs/",
+            "fa": "حسود",
+            "examples": [
+              "He was jealous of his brother's success.",
+              "She felt jealous when she saw her friend with a new car."
+            ]
+          },
+          {
+            "word": "tact",
+            "definition": "the ability to say or do the right thing without offending anyone",
+            "phonetic": "/tækt/",
+            "fa": "درایت",
+            "examples": [
+              "He handled the situation with great tact.",
+              "It takes tact to manage a delicate negotiation."
+            ]
+          },
+          {
+            "word": "oath",
+            "definition": "a solemn promise, often invoking a divine witness, regarding one's future action or behavior",
+            "phonetic": "/oʊθ/",
+            "fa": "سوگند",
+            "examples": [
+              "He took an oath to tell the truth in court.",
+              "The president swore an oath of office."
+            ]
+          },
+          {
+            "word": "vacant",
+            "definition": "empty; not filled",
+            "phonetic": "/ˈveɪkənt/",
+            "fa": "خالی",
+            "examples": [
+              "The house has been vacant for two years.",
+              "There was only one vacant seat on the bus."
+            ]
+          },
+          {
+            "word": "hardship",
+            "definition": "severe suffering or difficulty",
+            "phonetic": "/ˈhɑːrdʃɪp/",
+            "fa": "سختی",
+            "examples": [
+              "The family faced financial hardship after the father lost his job.",
+              "Living in the desert can be a great hardship."
+            ]
+          },
+          {
+            "word": "gallant",
+            "definition": "brave and noble; showing special respect to women",
+            "phonetic": "/ˈɡælənt/",
+            "fa": "شجاع",
+            "examples": [
+              "The gallant knight saved the princess from the dragon.",
+              "He was gallant in his effort to protect the villagers."
+            ]
+          },
+          {
+            "word": "data",
+            "definition": "facts or information used for analysis",
+            "phonetic": "/ˈdeɪtə/",
+            "fa": "اطلاعات",
+            "examples": [
+              "The scientist collected data for her research.",
+              "The data shows a significant increase in sales."
+            ]
+          },
+          {
+            "word": "unaccustomed",
+            "definition": "not used to something; unfamiliar",
+            "phonetic": "/ˌʌnəˈkʌstəmd/",
+            "fa": "عادت نکرده",
+            "examples": [
+              "He was unaccustomed to the cold weather.",
+              "She felt unaccustomed to the new routine."
+            ]
+          },
+          {
+            "word": "bachelor",
+            "definition": "a man who has never been married",
+            "phonetic": "/ˈbætʃələr/",
+            "fa": "مجرد",
+            "examples": [
+              "He remained a bachelor all his life.",
+              "The bachelor lived alone in a small apartment."
+            ]
+          },
+          {
+            "word": "qualify",
+            "definition": "to become eligible or competent; to meet the criteria",
+            "phonetic": "/ˈkwɑːlɪfaɪ/",
+            "fa": "واجد شرایط شدن",
+            "examples": [
+              "She needs more experience to qualify for the job.",
+              "He did not qualify for the race because he missed the deadline."
+            ]
+          }
+        ],
+        "story": "The gallant bachelor took an oath to never abandon his people, even during times of great hardship. He was unaccustomed to giving up and used his keen mind to gather data on how to improve their lives. Despite the struggles, his tact and determination helped him qualify as a respected leader.",
+        "story_url": "https://example.com/lesson1-story"
+      }, 
+      {
+        "lesson_number": 2,
+        "words": [
+          {
+            "word": "sinister",
+            "definition": "giving the impression that something harmful or evil is happening or will happen",
+            "phonetic": "/ˈsɪnɪstər/",
+            "fa": "پلید",
+            "examples": [
+              "There was something sinister about the dark, abandoned house.",
+              "His sinister smile made everyone in the room uneasy."
+            ]
+          },
+          {
+            "word": "tempt",
+            "definition": "to entice or try to persuade someone to do something, especially something wrong",
+            "phonetic": "/tɛmpt/",
+            "fa": "وسوسه کردن",
+            "examples": [
+              "The smell of freshly baked cookies tempted him to eat more than he should.",
+              "She was tempted to skip school and go to the beach instead."
+            ]
+          },
+          {
+            "word": "corpse",
+            "definition": "a dead body, especially of a human being",
+            "phonetic": "/kɔːps/",
+            "fa": "جسد",
+            "examples": [
+              "The police found a corpse in the abandoned building.",
+              "He was shocked when he saw the corpse lying on the ground."
+            ]
+          },
+          {
+            "word": "recline",
+            "definition": "to lean back or lie down in a relaxed position",
+            "phonetic": "/rɪˈklaɪn/",
+            "fa": "تکیه دادن",
+            "examples": [
+              "She likes to recline in her chair and read a good book.",
+              "He reclined on the couch, exhausted from the day's work."
+            ]
+          },
+          {
+            "word": "inhabit",
+            "definition": "to live in or occupy a place",
+            "phonetic": "/ɪnˈhæb.ɪt/",
+            "fa": "زندگی کردن",
+            "examples": [
+              "Many unique animals inhabit the Amazon rainforest.",
+              "The old castle is said to be inhabited by ghosts."
+            ]
+          },
+          {
+            "word": "numb",
+            "definition": "unable to feel anything, usually due to cold or shock",
+            "phonetic": "/nʌm/",
+            "fa": "بی‌حس",
+            "examples": [
+              "Her fingers were numb from the frigid air.",
+              "He felt numb with shock after hearing the bad news."
+            ]
+          },
+          {
+            "word": "frigid",
+            "definition": "extremely cold in temperature",
+            "phonetic": "/ˈfrɪʤəd/",
+            "fa": "بسیار سرد",
+            "examples": [
+              "The frigid wind made it difficult to stay outside for long.",
+              "They camped in the frigid mountains during winter."
+            ]
+          },
+          {
+            "word": "shriek",
+            "definition": "a loud, high-pitched scream",
+            "phonetic": "/ʃrik/",
+            "fa": "جیغ کشیدن",
+            "examples": [
+              "She let out a shriek when she saw the spider.",
+              "The eerie shriek echoed through the dark forest."
+            ]
+          },
+          {
+            "word": "dismal",
+            "definition": "dark, gloomy, and depressing",
+            "phonetic": "/ˈdɪzməl/",
+            "fa": "تاریک",
+            "examples": [
+              "The weather was dismal, with heavy rain and dark clouds.",
+              "He felt dismal after receiving the bad news."
+            ]
+          },
+          {
+            "word": "peril",
+            "definition": "serious and immediate danger",
+            "phonetic": "/ˈpɛrəl/",
+            "fa": "خطر",
+            "examples": [
+              "The hikers knew they were in great peril when the storm hit.",
+              "He risked his life, unaware of the peril that awaited him."
+            ]
+          },
+          {
+            "word": "wager",
+            "definition": "to bet or gamble on the outcome of an event",
+            "phonetic": "/ˈweɪʤər/",
+            "fa": "شرط",
+            "examples": [
+              "He placed a wager on his favorite team to win the match.",
+              "I wouldn't wager too much money on that horse."
+            ]
+          },
+          {
+            "word": "conceal",
+            "definition": "to hide or keep something secret",
+            "phonetic": "/kənˈsiːl/",
+            "fa": "پنهان کردن",
+            "examples": [
+              "She tried to conceal the surprise gift from her friend.",
+              "The thief managed to conceal the evidence from the police."
+            ]
+          }
+        ],
+        "story": "The sinister atmosphere of the abandoned mansion tempted the curious explorers to enter. They were careful not to shriek when they stumbled upon a corpse lying in a dismal room. One of them tried to recline on an old chair, but the frigid air made him numb. As they explored further, they realized they were in great peril. Suddenly, they heard a loud shriek echo through the halls, and they decided it was time to leave before it was too late.",
+        "story_url": "https://example.com/lesson3-story"
+      },
+      {
+        "lesson_number": 3,
+        "words": [
+          {
+            "word": "devise",
+            "definition": "to plan or invent something complex by careful thought",
+            "phonetic": "-",
+            "fa": "طرح ریختن",
+            "examples": [
+              "The engineers will devise a new plan to improve traffic flow in the city.",
+              "She had to devise a strategy to solve the problem efficiently."
+            ]
+          },
+          {
+            "word": "essential",
+            "definition": "absolutely necessary; extremely important",
+            "phonetic": "/ɪˈsɛnʃəl/",
+            "fa": "لازم",
+            "examples": [
+              "It is essential to drink water regularly to stay hydrated.",
+              "Basic first aid skills are essential for everyone to learn."
+            ]
+          },
+          {
+            "word": "wholesale",
+            "definition": "the selling of goods in large quantities at low prices to be retailed by others",
+            "phonetic": "/ˈhoʊlˌseɪl/",
+            "fa": "عمده",
+            "examples": [
+              "The store buys products wholesale to sell them at a profit.",
+              "He decided to start a business selling clothes at wholesale prices."
+            ]
+          },
+          {
+            "word": "typical",
+            "definition": "having the usual qualities or features of a particular type of person or thing",
+            "phonetic": "/ˈtɪpəkəl/",
+            "fa": "کلیشه‌ای",
+            "examples": [
+              "A typical breakfast in this country includes eggs and toast.",
+              "It's typical for traffic to be heavy during rush hour."
+            ]
+          },
+          {
+            "word": "expensive",
+            "definition": "costing a lot of money",
+            "phonetic": "/ɪkˈspensɪv/",
+            "fa": "گران",
+            "examples": [
+              "This car is too expensive for us to afford.",
+              "Jewelry made of gold is often very expensive."
+            ]
+          },
+          {
+            "word": "persuade",
+            "definition": "to cause someone to do something through reasoning or argument",
+            "phonetic": "/pərˈsweɪd/",
+            "fa": "قانع کردن",
+            "examples": [
+              "She managed to persuade her parents to let her go to the concert.",
+              "The salesman tried to persuade me to buy the more expensive model."
+            ]
+          },
+          {
+            "word": "minimum",
+            "definition": "the least or smallest amount or quantity possible or required",
+            "phonetic": "/ˈmɪnəməm/",
+            "fa": "حداقل",
+            "examples": [
+              "You need to spend a minimum of $50 to get free shipping.",
+              "The minimum age to vote in this country is 18."
+            ]
+          },
+          {
+            "word": "annual",
+            "definition": "occurring once every year",
+            "phonetic": "/ˈænjuəl/",
+            "fa": "سالانه",
+            "examples": [
+              "We have an annual family reunion every summer.",
+              "The company’s annual report is released in March."
+            ]
+          },
+          {
+            "word": "blend",
+            "definition": "to mix or combine two or more substances together",
+            "phonetic": "/blɛnd/",
+            "fa": "مخلوط کردن",
+            "examples": [
+              "Blend the ingredients until they are smooth.",
+              "The artist likes to blend different colors in her paintings."
+            ]
+          },
+          {
+            "word": "visible",
+            "definition": "able to be seen",
+            "phonetic": "/ˈvɪzəbəl/",
+            "fa": "قابل‌رؤیت",
+            "examples": [
+              "The stars are not visible during the day.",
+              "The damage to the car was clearly visible after the accident."
+            ]
+          },
+          {
+            "word": "scarce",
+            "definition": "insufficient for the demand; in short supply",
+            "phonetic": "/skɛrs/",
+            "fa": "کمیاب",
+            "examples": [
+              "Fresh water is becoming scarce in some regions.",
+              "During the drought, food was scarce in the village."
+            ]
+          },
+          {
+            "word": "talent",
+            "definition": "a natural aptitude or skill",
+            "phonetic": "/ˈtælənt/",
+            "fa": "استعداد",
+            "examples": [
+              "She has a talent for playing the piano.",
+              "His talent for drawing was evident at a young age."
+            ]
+          }
+        ],
+        "story": "In a typical annual meeting, the manager tried to persuade the team to focus on blending essential ideas with visible results. They discussed how to minimize costs because resources were scarce and expensive. The talent of the employees would be used to devise new wholesale strategies that would make the company more competitive.",
+        "story_url": "https://example.com/lesson3-story"
+      },
+      {
+        "lesson_number": 4,
+        "words": [
+          {
+            "word": "dense",
+            "definition": "closely packed together; thick",
+            "phonetic": "/dɛns/",
+            "fa": "انبوه",
+            "examples": [
+              "The forest was so dense that sunlight could barely reach the ground.",
+              "The crowd was dense, making it difficult to move through."
+            ]
+          },
+          {
+            "word": "circulate",
+            "definition": "to move continuously through a system or area",
+            "phonetic": "/ˈsɜrkjəˌleɪt/",
+            "fa": "به‌گردش درآوردن",
+            "examples": [
+              "The air conditioning system helps to circulate cool air throughout the building.",
+              "Rumors began to circulate about the company's future."
+            ]
+          },
+          {
+            "word": "descend",
+            "definition": "to move or fall downward",
+            "phonetic": "/dɪˈsɛnd/",
+            "fa": "پایین آمدن",
+            "examples": [
+              "The plane began to descend as it approached the airport.",
+              "The hikers carefully descended the steep mountain path."
+            ]
+          },
+          {
+            "word": "vanish",
+            "definition": "to disappear suddenly and completely",
+            "phonetic": "/ˈvænɪʃ/",
+            "fa": "ناپدید شدن",
+            "examples": [
+              "The magician made the rabbit vanish from the hat.",
+              "The sun vanished behind the clouds."
+            ]
+          },
+          {
+            "word": "enormous",
+            "definition": "very large in size or amount",
+            "phonetic": "/ɪˈnɔrməs/",
+            "fa": "عظیم",
+            "examples": [
+              "The bridge was built to withstand enormous amounts of weight.",
+              "They bought an enormous house with a beautiful garden."
+            ]
+          },
+          {
+            "word": "vapor",
+            "definition": "a gas formed by something that is usually a liquid or solid",
+            "phonetic": "/ˈveɪpər/",
+            "fa": "بخار",
+            "examples": [
+              "Water vapor is a major component of clouds.",
+              "The kettle produced a lot of vapor as it boiled."
+            ]
+          },
+          {
+            "word": "predict",
+            "definition": "to say what will happen in the future",
+            "phonetic": "/prɪˈdɪkt/",
+            "fa": "پیش‌بینی کردن",
+            "examples": [
+              "It is difficult to predict what the weather will be like tomorrow.",
+              "Scientists predict that the new technology will change the industry."
+            ]
+          },
+          {
+            "word": "villain",
+            "definition": "a character whose evil actions or motives are important to the plot",
+            "phonetic": "/ˈvɪlən/",
+            "fa": "آدم شرور",
+            "examples": [
+              "The villain in the movie had a complex backstory.",
+              "The hero fought bravely against the villain to save the city."
+            ]
+          },
+          {
+            "word": "utilize",
+            "definition": "to make use of something in an effective way",
+            "phonetic": "/ˈjutəˌlaɪz/",
+            "fa": "استفاده کردن",
+            "examples": [
+              "We need to utilize all available resources to complete the project.",
+              "The new tool allows farmers to better utilize their land."
+            ]
+          },
+          {
+            "word": "eliminate",
+            "definition": "to remove or get rid of something",
+            "phonetic": "/ɪˈlɪməˌneɪt/",
+            "fa": "از بین بردن",
+            "examples": [
+              "The new policy aims to eliminate waste in the workplace.",
+              "She decided to eliminate sugar from her diet."
+            ]
+          },
+          {
+            "word": "humid",
+            "definition": "having a high amount of moisture in the air",
+            "phonetic": "/ˈhjuməd/",
+            "fa": "مرطوب (آب‌وهوا)",
+            "examples": [
+              "The air was so humid that it felt sticky.",
+              "The rainforest is known for its hot and humid climate."
+            ]
+          },
+          {
+            "word": "theory",
+            "definition": "an explanation of something that is based on facts but has not been proven",
+            "phonetic": "/ˈθɪri/",
+            "fa": "نظریه",
+            "examples": [
+              "Einstein's theory of relativity changed our understanding of physics.",
+              "There are many theories about what happened to the lost civilization."
+            ]
+          }
+        ],
+        "story": "The dense forest was filled with enormous trees and thick vapor rising from the humid ground. As the hikers descended the mountain, they had to utilize their knowledge to navigate through the challenging terrain. One of them had a theory about the mysterious villain who was said to inhabit the woods. The group circulated the story among themselves, and some even predicted that they would see the villain. Suddenly, they heard a noise, and one of their group seemed to vanish. They decided it was best to eliminate any unnecessary risks and head back before darkness fell.",
+        "story_url": "https://example.com/lesson4-story"
+      },
+      {
+        "lesson_number": 5,
+        "words": [
+          {
+            "word": "explore",
+            "definition": "to examine or investigate thoroughly",
+            "phonetic": "/ɪkˈsplɔr/",
+            "fa": "بررسی کردن",
+            "examples": [
+              "Scientists continue to explore the depths of the ocean.",
+              "We decided to explore the city on foot."
+            ]
+          },
+          {
+            "word": "majority",
+            "definition": "the greater number or part; more than half",
+            "phonetic": "/məˈʤɔrəti/",
+            "fa": "اکثریت",
+            "examples": [
+              "The majority of the class voted for a field trip.",
+              "A majority of the population supports the new law."
+            ]
+          },
+          {
+            "word": "evade",
+            "definition": "to escape or avoid, especially by cleverness or trickery",
+            "phonetic": "/ɪˈveɪd/",
+            "fa": "طفره رفتن",
+            "examples": [
+              "He tried to evade the question during the interview.",
+              "The suspect managed to evade the police for weeks."
+            ]
+          },
+          {
+            "word": "burden",
+            "definition": "a heavy load, especially one of responsibility",
+            "phonetic": "/ˈbɜrdən/",
+            "fa": "بار (مسئولیت)",
+            "examples": [
+              "Caring for an elderly parent can be a heavy burden.",
+              "The financial burden of college can be overwhelming for students."
+            ]
+          },
+          {
+            "word": "tradition",
+            "definition": "a custom or belief that has been passed down through generations",
+            "phonetic": "/trəˈdɪʃən/",
+            "fa": "سنت",
+            "examples": [
+              "It is a tradition in our family to open gifts on Christmas Eve.",
+              "The village still follows ancient traditions."
+            ]
+          },
+          {
+            "word": "assemble",
+            "definition": "to gather together in one place for a common purpose",
+            "phonetic": "/əˈsɛmbəl/",
+            "fa": "تجمع کردن",
+            "examples": [
+              "The students were asked to assemble in the auditorium.",
+              "Workers began to assemble outside the factory gates."
+            ]
+          },
+          {
+            "word": "rural",
+            "definition": "relating to the countryside rather than the town",
+            "phonetic": "/ˈrʊrəl/",
+            "fa": "روستایی",
+            "examples": [
+              "She enjoys the peaceful life in rural areas.",
+              "The rural community is known for its close-knit relationships."
+            ]
+          },
+          {
+            "word": "debate",
+            "definition": "a formal discussion on a particular topic in a public meeting or legislative assembly",
+            "phonetic": "/dəˈbeɪt/",
+            "fa": "مناظره",
+            "examples": [
+              "The debate over climate change continues to be a hot topic.",
+              "They had a lively debate about the future of technology."
+            ]
+          },
+          {
+            "word": "probe",
+            "definition": "to investigate or examine thoroughly",
+            "phonetic": "/proʊb/",
+            "fa": "واکاویدن",
+            "examples": [
+              "The journalist tried to probe deeper into the politician's past.",
+              "Scientists are using new technology to probe the mysteries of the universe."
+            ]
+          },
+          {
+            "word": "reform",
+            "definition": "to make changes in order to improve something",
+            "phonetic": "/riˈfɔrm/",
+            "fa": "بازسازی کردن",
+            "examples": [
+              "The government plans to reform the education system.",
+              "He spent years trying to reform his bad habits."
+            ]
+          },
+          {
+            "word": "topic",
+            "definition": "a subject that is discussed, written about, or studied",
+            "phonetic": "/ˈtɑpɪk/",
+            "fa": "موضوع",
+            "examples": [
+              "The topic of the lecture was artificial intelligence.",
+              "They chose a controversial topic for their research paper."
+            ]
+          },
+          {
+            "word": "campus",
+            "definition": "the grounds and buildings of a university or college",
+            "phonetic": "/ˈkæmpəs/",
+            "fa": "پردیس (دانشگاه)",
+            "examples": [
+              "The university has a beautiful campus with lots of green spaces.",
+              "Students can live on or off campus during their studies."
+            ]
+          }
+        ],
+        "story": "The majority of students assembled on the campus to debate the topic of education reform. One student tried to evade questions about rural education while another explored the burden of tuition fees. The professor, known for his love of tradition, probed the students' arguments and suggested reforms to make learning more accessible.",
+        "story_url": "https://example.com/lesson5-story"
+      },
+      {
+        "lesson_number": 6,
+        "words": [
+          {
+            "word": "employee",
+            "definition": "a person who is hired to work for a company or organization",
+            "phonetic": "/ɛmˈplɔɪi/",
+            "fa": "کارمند",
+            "examples": [
+              "The company has over 500 employees working in different departments.",
+              "Every employee is expected to follow the company rules."
+            ]
+          },
+          {
+            "word": "comprehensive",
+            "definition": "complete and including everything that is necessary",
+            "phonetic": "/ˌkɑːmprɪˈhensɪv/",
+            "fa": "جامع",
+            "examples": [
+              "The report provides a comprehensive analysis of the data.",
+              "He received comprehensive training before starting his new job."
+            ]
+          },
+          {
+            "word": "defect",
+            "definition": "a fault or imperfection in something",
+            "phonetic": "/ˈdifɛkt/",
+            "fa": "نقص",
+            "examples": [
+              "The product was recalled due to a manufacturing defect.",
+              "A minor defect in the design caused the device to fail."
+            ]
+          },
+          {
+            "word": "detect",
+            "definition": "to discover or identify the presence of something",
+            "phonetic": "/dɪˈtɛkt/",
+            "fa": "تشخیص دادن",
+            "examples": [
+              "The alarm system can detect any unusual movement.",
+              "Doctors were able to detect the disease early."
+            ]
+          },
+          {
+            "word": "undoubtedly",
+            "definition": "without a doubt; certainly",
+            "phonetic": "/ənˈdaʊtɪdli/",
+            "fa": "بی‌شک",
+            "examples": [
+              "He is undoubtedly the best player on the team.",
+              "This decision will undoubtedly benefit the company."
+            ]
+          },
+          {
+            "word": "thorough",
+            "definition": "complete with regard to every detail; careful and meticulous",
+            "phonetic": "/ˈθɜroʊ/",
+            "fa": "کامل",
+            "examples": [
+              "The inspector conducted a thorough examination of the building.",
+              "She gave a thorough explanation of the project."
+            ]
+          },
+          {
+            "word": "popular",
+            "definition": "liked or admired by many people",
+            "phonetic": "/ˈpɑːpjələr/",
+            "fa": "پرطرفدار",
+            "examples": [
+              "He is one of the most popular teachers at the school.",
+              "This song has become very popular among teenagers."
+            ]
+          },
+          {
+            "word": "approach",
+            "definition": "to come near or closer to something or someone",
+            "phonetic": "/əˈproʊʧ/",
+            "fa": "نزدیک شدن",
+            "examples": [
+              "We need to find a new approach to solve this problem.",
+              "As we approached the city, we could see the skyline."
+            ]
+          },
+          {
+            "word": "defraud",
+            "definition": "to illegally obtain money from someone by deception",
+            "phonetic": "/dɪˈfrɔd/",
+            "fa": "فریب دادن",
+            "examples": [
+              "He was arrested for trying to defraud the bank.",
+              "The company was accused of defrauding its investors."
+            ]
+          },
+          {
+            "word": "client",
+            "definition": "a person or organization that uses the services of a professional person or company",
+            "phonetic": "/ˈklaɪənt/",
+            "fa": "مشتری",
+            "examples": [
+              "The lawyer met with her client to discuss the case.",
+              "Our company aims to provide the best service to every client."
+            ]
+          },
+          {
+            "word": "deceive",
+            "definition": "to make someone believe something that is not true",
+            "phonetic": "/dɪˈsiv/",
+            "fa": "فریب دادن",
+            "examples": [
+              "He tried to deceive his friends by pretending to be someone else.",
+              "The advertisement was designed to deceive customers."
+            ]
+          },
+          {
+            "word": "neglect",
+            "definition": "to fail to care for or give proper attention to someone or something",
+            "phonetic": "/nəˈglɛkt/",
+            "fa": "کوتاهی کردن",
+            "examples": [
+              "He was accused of neglecting his responsibilities at work.",
+              "If you neglect your health, it could lead to serious problems."
+            ]
+          }
+        ],
+        "story": "The company conducted a thorough investigation to detect any defects in the product. An employee, who was undoubtedly popular among his colleagues, found a comprehensive solution to address the issue. The manager praised the new approach, but warned everyone not to neglect their duties. Unfortunately, one client claimed they had been deceived and accused the company of trying to defraud them.",
+        "story_url": "https://example.com/lesson6-story"
+      },
+      {
+        "lesson_number": 7,
+        "words": [
+          {
+            "word": "preserve",
+            "definition": "to keep something in its original state or in good condition",
+            "phonetic": "/prəˈzɜrv/",
+            "fa": "حفظ کردن",
+            "examples": [
+              "We need to preserve our natural resources for future generations.",
+              "The museum works hard to preserve ancient artifacts."
+            ]
+          },
+          {
+            "word": "denounce",
+            "definition": "to publicly declare something or someone to be wrong or evil",
+            "phonetic": "/dɪˈnaʊns/",
+            "fa": "متهم کردن",
+            "examples": [
+              "The politician was quick to denounce the corruption scandal.",
+              "She denounced the violence in her community."
+            ]
+          },
+          {
+            "word": "torrent",
+            "definition": "a strong and fast-moving stream of water or other liquid",
+            "phonetic": "/ˈtɔrənt/",
+            "fa": "طوفان",
+            "examples": [
+              "The heavy rain turned the small creek into a torrent.",
+              "He faced a torrent of criticism after his speech."
+            ]
+          },
+          {
+            "word": "capsule",
+            "definition": "a small case or container, especially one used to hold medicine",
+            "phonetic": "/ˈkæpsuːl/",
+            "fa": "کپسول (دارو)",
+            "examples": [
+              "She took a vitamin capsule every morning.",
+              "The medicine is available in both tablet and capsule form."
+            ]
+          },
+          {
+            "word": "unforeseen",
+            "definition": "not anticipated or predicted",
+            "phonetic": "/ˌʌnfɔrˈsin/",
+            "fa": "پیش‌بینی‌نشده",
+            "examples": [
+              "We had to cancel the event due to unforeseen circumstances.",
+              "The project faced unforeseen delays."
+            ]
+          },
+          {
+            "word": "resent",
+            "definition": "to feel bitterness or indignation at a circumstance or person",
+            "phonetic": "/rɪˈzɛnt/",
+            "fa": "آزرده‌خاطر شدن",
+            "examples": [
+              "She began to resent her boss for the constant criticism.",
+              "He resented the way he was treated at the meeting."
+            ]
+          },
+          {
+            "word": "postpone",
+            "definition": "to delay or put off an event to a later time",
+            "phonetic": "/poʊstˈpoʊn/",
+            "fa": "عقب انداختن",
+            "examples": [
+              "We had to postpone the meeting until next week.",
+              "The concert was postponed due to bad weather."
+            ]
+          },
+          {
+            "word": "gloomy",
+            "definition": "feeling or showing sadness or depression; dark and overcast",
+            "phonetic": "/ˈglumi/",
+            "fa": "غمگین و مأیوس",
+            "examples": [
+              "The weather was gloomy, with dark clouds and no sunshine.",
+              "He felt gloomy after hearing the bad news."
+            ]
+          },
+          {
+            "word": "molest",
+            "definition": "to bother or annoy someone in an aggressive or inappropriate way",
+            "phonetic": "/məˈlɛst/",
+            "fa": "مزاحم شدن",
+            "examples": [
+              "The man was arrested for trying to molest a passerby.",
+              "It is important to teach children how to handle situations where someone might try to molest them."
+            ]
+          },
+          {
+            "word": "massive",
+            "definition": "large and heavy; great in size or scope",
+            "phonetic": "/ˈmæsɪv/",
+            "fa": "عظیم",
+            "examples": [
+              "They built a massive bridge across the river.",
+              "The earthquake caused massive damage to the city."
+            ]
+          },
+          {
+            "word": "consent",
+            "definition": "permission for something to happen or agreement to do something",
+            "phonetic": "/kənˈsɛnt/",
+            "fa": "رضایت دادن",
+            "examples": [
+              "She gave her consent to the medical procedure.",
+              "The parents must give their consent for the trip."
+            ]
+          },
+          {
+            "word": "unique",
+            "definition": "being the only one of its kind; unlike anything else",
+            "phonetic": "/juˈnik/",
+            "fa": "منحصربه‌فرد",
+            "examples": [
+              "Each person's fingerprints are unique.",
+              "The artist's style is very unique and recognizable."
+            ]
+          }
+        ],
+        "story": "The massive storm created a torrent of rain that no one had foreseen. People tried to preserve what they could, but the damage was extensive. The authorities had to denounce those who molested emergency workers during the rescue efforts. Despite the gloomy conditions, many volunteers worked tirelessly to help. A unique capsule containing important documents was found, and everyone had to give their consent before it could be opened. The event had to be postponed due to safety concerns, and some people began to resent the delays.",
+        "story_url": "https://example.com/lesson7-story"
+      }
+      ,{
+        "lesson_number": 8,
+        "words": [
+          {
+            "word": "exaggerate",
+            "definition": "to make something seem larger, more important, or more valuable than it actually is",
+            "phonetic": "/ɪgˈzæʤəˌreɪt/",
+            "fa": "اغراق کردن",
+            "examples": [
+              "He tends to exaggerate his achievements to impress others.",
+              "The news report exaggerated the severity of the storm."
+            ]
+          },
+          {
+            "word": "valid",
+            "definition": "based on truth or fact; legally acceptable",
+            "phonetic": "/ˈvæləd/",
+            "fa": "معتبر",
+            "examples": [
+              "Please make sure your passport is valid before traveling.",
+              "He had a valid reason for being late to the meeting."
+            ]
+          },
+          {
+            "word": "obvious",
+            "definition": "easily seen, recognized, or understood",
+            "phonetic": "/ˈɑbviəs/",
+            "fa": "واضح",
+            "examples": [
+              "It was obvious that she was upset.",
+              "The answer to the question was so obvious that everyone knew it."
+            ]
+          },
+          {
+            "word": "security",
+            "definition": "measures taken to ensure safety or protection",
+            "phonetic": "/sɪˈkjʊrəti/",
+            "fa": "امنیت",
+            "examples": [
+              "The airport has strict security measures.",
+              "They hired a security guard to protect the building."
+            ]
+          },
+          {
+            "word": "amateur",
+            "definition": "a person who engages in an activity for pleasure rather than as a profession; a beginner",
+            "phonetic": "/ˈæməˌtɜr/",
+            "fa": "تازه‌کار",
+            "examples": [
+              "He is an amateur photographer who enjoys taking pictures on weekends.",
+              "The amateur team played surprisingly well against the professionals."
+            ]
+          },
+          {
+            "word": "reluctant",
+            "definition": "unwilling and hesitant to do something",
+            "phonetic": "/rɪˈlʌktənt/",
+            "fa": "بی‌میل",
+            "examples": [
+              "She was reluctant to accept the job offer.",
+              "He felt reluctant to speak in front of the large crowd."
+            ]
+          },
+          {
+            "word": "weird",
+            "definition": "strange or unusual",
+            "phonetic": "/wɪrd/",
+            "fa": "عجیب",
+            "examples": [
+              "He had a weird dream last night.",
+              "The movie was so weird that I couldn't understand it."
+            ]
+          },
+          {
+            "word": "prominent",
+            "definition": "important, well-known, or easily noticeable",
+            "phonetic": "/ˈprɑmənənt/",
+            "fa": "برجسته",
+            "examples": [
+              "He is a prominent figure in the art world.",
+              "The scars on his face were quite prominent."
+            ]
+          },
+          {
+            "word": "survive",
+            "definition": "to continue to live or exist, especially in difficult conditions",
+            "phonetic": "/sərˈvaɪv/",
+            "fa": "زنده ماندن",
+            "examples": [
+              "They managed to survive the harsh winter conditions.",
+              "Only a few plants survived the drought."
+            ]
+          },
+          {
+            "word": "variety",
+            "definition": "a range of different things; diversity",
+            "phonetic": "/vəˈraɪəti/",
+            "fa": "تنوع",
+            "examples": [
+              "The store offers a variety of fruits and vegetables.",
+              "There is a great variety of books in the library."
+            ]
+          },
+          {
+            "word": "mediocre",
+            "definition": "of only average quality; not very good",
+            "phonetic": "/ˌmidiˈoʊkər/",
+            "fa": "متوسط",
+            "examples": [
+              "The movie was mediocre, and I wouldn't recommend it.",
+              "His performance was mediocre compared to the other athletes."
+            ]
+          },
+          {
+            "word": "bulky",
+            "definition": "large and difficult to handle or store",
+            "phonetic": "/ˈbʌlki/",
+            "fa": "جاگیر",
+            "examples": [
+              "The sofa was too bulky to fit through the door.",
+              "He wore a bulky coat to keep warm in the snow."
+            ]
+          }
+        ],
+        "story": "The amateur athlete tried to survive the competition despite his mediocre skills. He had a weird habit of exaggerating his achievements, but it was obvious that he needed more training. The security at the event was tight, and only those with valid passes could enter. A prominent coach noticed the athlete's potential and offered to help, though the athlete felt reluctant at first. With a variety of training methods and bulky equipment, he started to improve.",
+        "story_url": "https://example.com/lesson8-story"
+      },
+      {
+        "lesson_number": 9,
+        "words": [
+          {
+            "word": "document",
+            "definition": "a piece of written, printed, or electronic matter that provides information or evidence",
+            "phonetic": "/ˈdɑkjəmɛnt/",
+            "fa": "سند",
+            "examples": [
+              "He signed the document to finalize the agreement.",
+              "Make sure to save your document before closing the file."
+            ]
+          },
+          {
+            "word": "vicinity",
+            "definition": "the area near or surrounding a particular place",
+            "phonetic": "/vəˈsɪnəti/",
+            "fa": "حوالی",
+            "examples": [
+              "There are several restaurants in the vicinity of the hotel.",
+              "A new park is being built in the vicinity of our neighborhood."
+            ]
+          },
+          {
+            "word": "century",
+            "definition": "a period of 100 years",
+            "phonetic": "/ˈsɛnʧəri/",
+            "fa": "قرن",
+            "examples": [
+              "The castle has stood for over a century.",
+              "We are living in the 21st century."
+            ]
+          },
+          {
+            "word": "miniature",
+            "definition": "a very small, detailed representation of something",
+            "phonetic": "/ˈmɪniəˌʧʊr/",
+            "fa": "مینیاتور",
+            "examples": [
+              "He collects miniature models of classic cars.",
+              "The artist painted a beautiful miniature portrait."
+            ]
+          },
+          {
+            "word": "challenge",
+            "definition": "to invite someone to engage in a contest or to question the truth of something",
+            "phonetic": "/ˈʧælənʤ/",
+            "fa": "به چالش کشیدن",
+            "examples": [
+              "The coach challenged the team to improve their performance.",
+              "She decided to challenge the unfair rule."
+            ]
+          },
+          {
+            "word": "lack",
+            "definition": "to be without or deficient in something",
+            "phonetic": "/læk/",
+            "fa": "کم داشتن",
+            "examples": [
+              "The project was canceled due to a lack of funding.",
+              "He lacks confidence when speaking in public."
+            ]
+          },
+          {
+            "word": "resist",
+            "definition": "to withstand the action or effect of something",
+            "phonetic": "/rɪˈzɪst/",
+            "fa": "مقاومت کردن",
+            "examples": [
+              "She couldn't resist eating the delicious cake.",
+              "The material can resist high temperatures."
+            ]
+          },
+          {
+            "word": "rage",
+            "definition": "violent, uncontrollable anger",
+            "phonetic": "/reɪʤ/",
+            "fa": "خشم",
+            "examples": [
+              "He was shaking with rage after hearing the news.",
+              "Her rage subsided after a few moments of silence."
+            ]
+          },
+          {
+            "word": "conclude",
+            "definition": "to bring something to an end; to finish",
+            "phonetic": "/kənˈklud/",
+            "fa": "تمام کردن",
+            "examples": [
+              "They concluded the meeting with a summary of the discussion.",
+              "The investigation concluded that the accident was unavoidable."
+            ]
+          },
+          {
+            "word": "undeniable",
+            "definition": "unable to be denied or disputed; unquestionably true",
+            "phonetic": "/ˌʌndɪˈnaɪəbəl/",
+            "fa": "انکارناپذیر",
+            "examples": [
+              "It is undeniable that climate change is affecting the planet.",
+              "The evidence presented in court was undeniable."
+            ]
+          },
+          {
+            "word": "source",
+            "definition": "a place, person, or thing from which something originates",
+            "phonetic": "/sɔrs/",
+            "fa": "منبع",
+            "examples": [
+              "The river is the main source of water for the town.",
+              "She found a reliable source for her research paper."
+            ]
+          },
+          {
+            "word": "ignore",
+            "definition": "to refuse to take notice of or acknowledge; disregard intentionally",
+            "phonetic": "/ɪgˈnɔr/",
+            "fa": "بی‌توجهی کردن",
+            "examples": [
+              "He tried to ignore the distractions and focus on his work.",
+              "She ignored the warning signs and continued on her way."
+            ]
+          }
+        ],
+        "story": "In the vicinity of the ancient castle, historians discovered a document that had been hidden for a century. It contained undeniable evidence about the source of a long-forgotten treasure. Despite the challenge of interpreting the miniature text, they couldn't ignore the significance of their find. However, they had to resist the urge to act in rage when unforeseen problems arose, and they concluded their research with great care.",
+        "story_url": "https://example.com/lesson9-story"
+      },
+      {
+        "lesson_number": 10,
+        "words": [
+          {
+            "word": "tendency",
+            "definition": "an inclination toward a particular characteristic or type of behavior",
+            "phonetic": "/ˈtɛndənsi/",
+            "fa": "تمایل",
+            "examples": [
+              "He has a tendency to forget things when he is busy.",
+              "There is a tendency for prices to rise in the summer."
+            ]
+          },
+          {
+            "word": "underestimate",
+            "definition": "to think that something is less important or smaller than it really is",
+            "phonetic": "/ˈʌndəˈrɛstəmət/",
+            "fa": "دست کم گرفتن",
+            "examples": [
+              "Don't underestimate the importance of studying for the exam.",
+              "She underestimated how much time the project would take."
+            ]
+          },
+          {
+            "word": "menace",
+            "definition": "a person or thing that is likely to cause harm; a threat or danger",
+            "phonetic": "/ˈmɛnəs/",
+            "fa": "تهدید",
+            "examples": [
+              "The growing pollution in the city is a menace to public health.",
+              "The wild animal posed a menace to the nearby village."
+            ]
+          },
+          {
+            "word": "mount",
+            "definition": "to climb up or increase in amount",
+            "phonetic": "/maʊnt/",
+            "fa": "بالا رفتن",
+            "examples": [
+              "The pressure began to mount as the deadline approached.",
+              "He decided to mount the horse and ride into the sunset."
+            ]
+          },
+          {
+            "word": "masculine",
+            "definition": "having qualities or appearance traditionally associated with men",
+            "phonetic": "/ˈmæskjələn/",
+            "fa": "مردانه",
+            "examples": [
+              "His deep voice and strong build gave him a very masculine appearance.",
+              "The new cologne had a distinctly masculine scent."
+            ]
+          },
+          {
+            "word": "feminine",
+            "definition": "having qualities or appearance traditionally associated with women",
+            "phonetic": "/ˈfɛmənən/",
+            "fa": "زنانه",
+            "examples": [
+              "Her dress had a soft, feminine design.",
+              "The room was decorated in a very feminine style."
+            ]
+          },
+          {
+            "word": "compete",
+            "definition": "to strive to win or gain something by defeating others",
+            "phonetic": "/kəmˈpit/",
+            "fa": "رقابت کردن",
+            "examples": [
+              "Athletes from around the world will compete in the tournament.",
+              "They had to compete for the last spot on the team."
+            ]
+          },
+          {
+            "word": "victorious",
+            "definition": "having won a victory; triumphant",
+            "phonetic": "/vɪkˈtɔriəs/",
+            "fa": "پیروز",
+            "examples": [
+              "The team was victorious in the championship game.",
+              "She felt victorious after overcoming so many obstacles."
+            ]
+          },
+          {
+            "word": "excel",
+            "definition": "to be exceptionally good at or proficient in an activity or subject",
+            "phonetic": "/ɪkˈsɛl/",
+            "fa": "(در کاری) عملکرد بسیار خوبی داشتن",
+            "examples": [
+              "She excels in mathematics and science.",
+              "He always tries to excel at whatever he does."
+            ]
+          },
+          {
+            "word": "dread",
+            "definition": "to feel great fear or anxiety about something",
+            "phonetic": "/drɛd/",
+            "fa": "بیم داشتن",
+            "examples": [
+              "She dreads going to the dentist.",
+              "He had a feeling of dread about the upcoming exam."
+            ]
+          },
+          {
+            "word": "numerous",
+            "definition": "many; a large number of",
+            "phonetic": "/ˈnumərəs/",
+            "fa": "متعدد",
+            "examples": [
+              "Numerous people attended the event despite the rain.",
+              "The project faced numerous challenges along the way."
+            ]
+          },
+          {
+            "word": "flexible",
+            "definition": "capable of bending easily without breaking; adaptable",
+            "phonetic": "/ˈflɛksəbəl/",
+            "fa": "انعطاف‌پذیر",
+            "examples": [
+              "The material is strong yet flexible.",
+              "You need to be flexible with your plans in case something changes."
+            ]
+          }
+        ],
+        "story": "The numerous athletes gathered, each with a tendency to feel nervous before the competition. Some tried to mount their confidence, while others couldn't help but dread the upcoming event. One competitor, known for his masculine strength, was determined to excel. However, he had underestimated the skill of his flexible, feminine opponent. In the end, she emerged victorious, proving that one should never underestimate a strong challenger.",
+        "story_url": "https://example.com/lesson10-story"
+      }
+
+    ]
+  }
+  

@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "telegram504bot"
+version = "0.1.0"
+description = "The Telegram 504 Bot is a Python-powered, interactive bot designed for seamless integration with Telegram, built with a robust dependency management and environment setup using Poetry. This bot is configured for smooth installation and deployment, making use of python-telegram-bot for Telegram interactions, SQLite for database functionality, and dotenv for secure environment variable handling."
+authors = ["Milad Saedi <millad90s@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+python-telegram-bot = "^21.6"
+python-dotenv = "^1.0.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

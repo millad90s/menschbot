@@ -164,3 +164,4 @@ cython_debug/
 .env
 note
 user_data.db
+__pycache__/
