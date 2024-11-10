@@ -16,26 +16,42 @@ from datetime import datetime, timedelta
 import json
 import random, os
 import logging
+import urllib.request
+
 
 ### set which language to want to learn , English or Deutsch 
-keyboard_setting = [
-    [InlineKeyboardButton("English 🇬🇧", callback_data='english'),
-     InlineKeyboardButton("Deutsch 🇩🇪", callback_data='deutsch') ],
+keyboard_setting_level = [
+    [
+        InlineKeyboardButton("Easy 🇬🇧", callback_data='easy_level'),
+        InlineKeyboardButton("mid 🇩🇪", callback_data='deutscmid_level'),
+        InlineKeyboardButton("Hard 🇬🇧", callback_data='hard_level')
+    ],
+    [
+        InlineKeyboardButton("Sport", callback_data='Sport'),
+        InlineKeyboardButton("Health", callback_data='Health'),
+        InlineKeyboardButton("Tech", callback_data='Tech')
+    ],
+    [
+        InlineKeyboardButton("Back", callback_data='Back_menu'),
+        InlineKeyboardButton("Confirm", callback_data='Setting_confirm'),
+    ]
 ]
 keyboard = [
     [
-        InlineKeyboardButton("New Word 🤓 ", callback_data='word'),
-        InlineKeyboardButton("Review 🤓 ", callback_data='review'),
+        InlineKeyboardButton("Word 🤓 ", callback_data='word'),
         InlineKeyboardButton("quiz 💯 ", callback_data='quiz')
     ],
+    # [
+    #     InlineKeyboardButton("Grammar 🤓 ", callback_data='grammar'),
+    #     InlineKeyboardButton("Quiz 🤓 ", callback_data='Quiz')
+    # ],
     [
         InlineKeyboardButton("News 📰", callback_data='news') ,
         InlineKeyboardButton("Podcast 🤓", callback_data='podcast')
     ],
-    [
-        InlineKeyboardButton("Setting 💯", callback_data='setting'),
-        InlineKeyboardButton("Lang 🇩🇪", callback_data='language'),
-    ],
+    # [
+    #     InlineKeyboardButton("Setting 💯", callback_data='setting')
+    # ],
     [InlineKeyboardButton("Donate 😍", callback_data='donate', url="https://paypal.me/millad90s?country.x=DE&locale.x=en_US")]
 ]
     
@@ -88,15 +104,25 @@ def set_user_settings(user_id : int, language : str):
         print(f"An error occurred: {e}")
         return False
     
+
+### get a podcast url
+def get_podcast_url():
+    with open("504_words_v2.json", "r") as file:
+        data = json.load(file)
+        lesson = random.choice(data["lessons"])
+        lesson_url  = lesson["podcast_url"]
+        return lesson_url, lesson["lesson_number"]
+    
 ### get a random word
 def get_a_word():
     with open("504_words_v2.json", "r") as file:
         data = json.load(file)
         lesson = random.choice(data["lessons"])
-        word  = random.choice(lesson["words"])
+        word  = random.choices(lesson["words"])
         return word
     
 ### get two random words with definition
+### Todo : get three random unique words 
 def get_three_words():
     with open("504_words_v2.json", "r") as file:
         data = json.load(file)
@@ -106,13 +132,29 @@ def get_three_words():
         word3  = random.choice(lesson["words"])
         return [word1, word2, word3]
     
+    
 ### send a audiofile to users
 async def podcast(update: Update, context: ContextTypes.DEFAULT_TYPE):
     print("User {} requested audio.".format(update.effective_user.first_name))
     print(update.message)
-    await context.bot.send_audio(chat_id=update.effective_chat.id, audio=open('./audio/504_lesson1.mp3', 'rb'),title="504 Lesson 1", thumbnail='./audio/504_podcast.jpeg', caption="Podcast by https://www.504words.com", protect_content=True )
+    my_url, lesson_number = get_podcast_url()
+    audio_file = urllib.request.urlopen(my_url)
+
+    await context.bot.send_audio(chat_id=update.effective_chat.id, audio=audio_file, title="504 Lesson "+str(lesson_number), thumbnail='https://englishpodcast.fra1.cdn.digitaloceanspaces.com/504/504_podcast.jpeg', caption="Podcast by Platform124", protect_content=True )
+    
+### handle grammar menu and show grammar keyboard
+async def grammar(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    print("User {} requested grammar.".format(update.effective_user.first_name))
+    reply_markup = InlineKeyboardMarkup(keyboard)
+    await context.bot.send_message(chat_id=update.effective_chat.id, text="Comming Soon", reply_markup=reply_markup)
     
 
+### handle grammar_quiz menu and show grammar keyboard
+async def grammar_quiz(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    print("User {} requested grammar.".format(update.effective_user.first_name))
+    reply_markup = InlineKeyboardMarkup(keyboard)
+    await context.bot.send_message(chat_id=update.effective_chat.id, text="Comming Soon ...", reply_markup=reply_markup)
+    
 ### send a quiz/poll to user from the words
 async def quiz(update: Update, context: ContextTypes.DEFAULT_TYPE):
     print("User {} requested quiz.".format(update.effective_user.first_name))
@@ -125,7 +167,11 @@ async def quiz(update: Update, context: ContextTypes.DEFAULT_TYPE):
                                 question=correct_word['word'], 
                                 options=[x['definition'] for x in question_list ],
                                 is_anonymous=False, type='quiz',
-                                correct_option_id=question_list.index(correct_word))
+                                correct_option_id=question_list.index(correct_word),
+                                explanation=correct_word['examples'][0])
+    
+    reply_markup = InlineKeyboardMarkup(keyboard)
+    await context.bot.send_message(chat_id=update.effective_chat.id, text="Select an option:", reply_markup=reply_markup)
     
     
 async def daily_review(update: Update, context: ContextTypes.DEFAULT_TYPE):
@@ -149,7 +195,7 @@ async def daily_review(update: Update, context: ContextTypes.DEFAULT_TYPE):
         await update.message.reply_text("You need to start learning first.")
         
         
-def fetch_news(url, date: str = None, categoty: str = 'general'):
+def fetch_news(url, date: str = None, categoty: str = 'entertainment'):
     try:
         if date is None:
             date = datetime.now().strftime('%Y-%m-%d')
@@ -167,16 +213,19 @@ def fetch_news(url, date: str = None, categoty: str = 'general'):
             
             response = requests.get(complte_url)
             logging.info(f"News fetched: {response.status_code}")
-            data = random.choices(response.json()['data'], k=3)
+            data = random.choices(response.json()['data'], k=10)
             if response.status_code == 200 and data.__len__() > 0:
                 data2 = [dict(des, teaching=gpt_en_words_definition(des['description'])) for des in data]
                 response_json = json.dumps(data2)
-            
+
+                ### store the json in the json file  as list , not string 
                 with open(f"news_{date}.json", "w") as file:
-                    json.dump(json.loads(response_json), file)
-                    # store the result in the variable callled news_data
-                    news_data = response_json
+                    logging.info(f"news_{date}.json file created")
+                    
+                    file.write(response_json)
+                    news_data = json.load(file)
                     return news_data
+
             elif response.json()['data'].__len__() == 0:
                 logging.info(f"No news found for date: {date}")
                 ### read news from yesterday if there is no news for today
@@ -199,7 +248,7 @@ def fetch_news(url, date: str = None, categoty: str = 'general'):
     
 # Basic user information collection
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
-    print("User {} started the conversation.".format(update.effective_user.first_name))
+    print("User {}  by ID {} started the conversation.".format(update.effective_user.first_name, update.effective_user.id) )
     # await update.message.reply_text("Welcome! I’m here to help you learn 504 essential words. Type /word to get started!")
     user = update.effective_user
     user_data = {
@@ -262,6 +311,26 @@ async def word(update: Update, context: ContextTypes.DEFAULT_TYPE):
     #         f"Word: {word['word']}\nDefinition: {word['definition']}\nExample: {word['example']}")
 
     
+### handle admin_sen_allow , admin can send a message to all users
+async def admin_sen_allow(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    ### check if it's coming from admin id 
+    print("User {} requested help.".format(update.effective_user.first_name))
+    if str(update.effective_user.id) != os.getenv('ADMIN_ID'):
+        await update.message.reply_text("You are not allowed to use this command.")
+    else:
+    ### read all users id from database 
+        conn = sqlite3.connect(os.getenv('DB_PATH'))
+        c = conn.cursor()
+        c.execute("SELECT user_id, first_name FROM users")
+        users = c.fetchall()
+        conn.close()
+        for user in users:
+            try:
+                await context.bot.send_message(chat_id=user[0], text=f"""Dear user {user[1]} , Admin sent you a message:\n\n{update.message.text.split(maxsplit=1)[1]}""") #    update.message.text)
+            except Exception as e:
+                print(f"Error sending message to user {user[0]}: {e}")
+            
+            
 # Track user interactions
 async def track_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
     print("User {} sent message: {}".format(update.effective_user.first_name, update.message.text))
@@ -309,7 +378,7 @@ async def donate(update: Update, context: ContextTypes.DEFAULT_TYPE):
 async def start_learning(update: Update, context: ContextTypes.DEFAULT_TYPE):
     print("User {} started learning.".format(update.effective_user.first_name))
     
-    word  = get_a_word()
+    word  = get_a_word()[0]
     await context.bot.send_message(chat_id=update.effective_chat.id, text=f"Word: {word['word']}\nDefinition: {word['definition']}\nPhonetic: {word['phonetic']}\n\nExample1: {word['examples'][0]} \n\nExample2: {word['examples'][1]} " + f"\n\n🗻🗻🗻🗻🗻")
     # await update.message.reply_text(f"Word: {word['word']}\nDefinition: {word['definition']}\nPhonetic: {word['phonetic']}\n\nExample: {word['examples'][0]}")
      
@@ -330,7 +399,7 @@ async def settings(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await context.bot.send_message(
         chat_id=chat_id,
         text="Select a language:",
-        reply_markup=InlineKeyboardMarkup(keyboard_setting)
+        reply_markup=InlineKeyboardMarkup(keyboard_setting_level)
     )
 async def get_news(update: Update, context: ContextTypes.DEFAULT_TYPE):
     print("User {} requested news.".format(update.effective_user.first_name))
@@ -427,15 +496,18 @@ def main():
     application.add_handler(CommandHandler("start", start))
     application.add_handler(CommandHandler("help", help))
     application.add_handler(CommandHandler("word", word))
+    application.add_handler(CommandHandler("admin_send_all", admin_sen_allow))
     application.add_handler(MessageHandler(filters.TEXT & ~filters.COMMAND, track_message))
     application.add_handler(CallbackQueryHandler(show_user_data, pattern='^view_data$'))
     application.add_handler(CallbackQueryHandler(start_learning, pattern='^word$'))
     application.add_handler(CallbackQueryHandler(donate, pattern='^donate$'))
     application.add_handler(CallbackQueryHandler(daily_review, pattern='^daily_review$'))
     application.add_handler(CallbackQueryHandler(get_news, pattern='^news$'))
-    application.add_handler(CallbackQueryHandler(settings, pattern='^language$'))
+    application.add_handler(CallbackQueryHandler(settings, pattern='^setting$'))
     application.add_handler(CallbackQueryHandler(podcast, pattern='^podcast$'))
     application.add_handler(CallbackQueryHandler(quiz, pattern='^quiz$'))
+    application.add_handler(CallbackQueryHandler(grammar, pattern='^grammar$'))
+    application.add_handler(CallbackQueryHandler(grammar_quiz, pattern='^grammar_quiz$'))
     
     # Start the bot
     application.run_polling(allowed_updates=Update.ALL_TYPES)
