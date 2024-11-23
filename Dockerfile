@@ -15,4 +15,4 @@ COPY . .
 
 
 # Specify the default command to run the app (update as needed)
-CMD ["python", "main2.py"]
+CMD ["python", "main.py"]
