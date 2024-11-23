@@ -1,26 +1,18 @@
-# Use the official Python image as the base
-FROM python:3.12
+# Use an official Python image as the base
+FROM python:3.13-slim
 
-# Set environment variables
-ENV PYTHONUNBUFFERED=1
-ENV PATH="/app/.local/bin:$PATH"
-
-# Set the working directory
+# Set the working directory inside the container
 WORKDIR /app
 
-# Copy the requirements file and install dependencies
-COPY pyproject.toml poetry.lock /app/
+# Copy requirements.txt to the working directory
+COPY requirements.txt .
 
-# Install Poetry
-RUN pip install poetry && \
-    poetry config virtualenvs.create false && \
-    poetry install --no-dev --no-interaction --no-ansi
+# Install dependencies from requirements.txt
+RUN pip install --no-cache-dir -r requirements.txt
 
-# Copy the rest of the application code to the container
-COPY . /app
+# Copy the rest of the application code to the working directory
+COPY . .
 
-# Expose any necessary port (if your bot listens to a webhook, for example)
-# EXPOSE 8443  # Uncomment if you're using webhooks
 
-# Start the bot
-CMD ["python", "main.py"]
+# Specify the default command to run the app (update as needed)
+CMD ["python", "main2.py"]
