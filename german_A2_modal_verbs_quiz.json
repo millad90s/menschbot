@@ -1,0 +1,61 @@
+{
+    "quiz_title": "German Modal Verbs Quiz",
+    "questions": [
+        {
+            "question": "Ich __________ heute ins Kino gehen, aber ich habe keine Zeit.",
+            "english_translation": "I would like to go to the cinema today, but I don't have time.",
+            "choices": ["kann", "möchte", "soll", "muss"],
+            "correct_answer": "möchte",
+            "explanation": "'Möchte' expresses a desire or wish to do something."
+        },
+        {
+            "question": "Du __________ die Hausaufgaben machen, bevor du spielen kannst.",
+            "english_translation": "You must do your homework before you can play.",
+            "choices": ["kannst", "musst", "willst", "sollst"],
+            "correct_answer": "musst",
+            "explanation": "'Musst' indicates obligation: you must do your homework first."
+        },
+        {
+            "question": "Er __________ gestern nicht zur Arbeit gehen, weil er krank war.",
+            "english_translation": "He could not go to work yesterday because he was sick.",
+            "choices": ["konnte", "wollte", "durfte", "musste"],
+            "correct_answer": "konnte",
+            "explanation": "'Konnte' expresses ability in the past: he was unable to go to work."
+        },
+        {
+            "question": "Wir __________ mehr Sport treiben, um fit zu bleiben.",
+            "english_translation": "We should do more sports to stay fit.",
+            "choices": ["können", "sollen", "mögen", "müssen"],
+            "correct_answer": "sollen",
+            "explanation": "'Sollen' expresses a recommendation or suggestion."
+        },
+        {
+            "question": "Ihr __________ hier nicht parken! Das ist verboten.",
+            "english_translation": "You are not allowed to park here! That is forbidden.",
+            "choices": ["dürft", "könnt", "wollt", "sollt"],
+            "correct_answer": "dürft",
+            "explanation": "'Dürft' indicates permission: you are not allowed to park here."
+        },
+        {
+            "question": "Sie __________ mitkommen, wenn sie möchten.",
+            "english_translation": "They can come along if they like.",
+            "choices": ["können", "dürfen", "müssen", "sollen"],
+            "correct_answer": "können",
+            "explanation": "'Können' expresses ability or possibility."
+        },
+        {
+            "question": "Ich __________ früher jeden Tag zur Schule laufen.",
+            "english_translation": "I had to walk to school every day in the past.",
+            "choices": ["konnte", "wollte", "musste", "durfte"],
+            "correct_answer": "musste",
+            "explanation": "'Musste' expresses necessity or obligation in the past."
+        },
+        {
+            "question": "Wir __________ heute einen Ausflug machen, aber das Wetter ist schlecht.",
+            "english_translation": "We would like to go on a trip today, but the weather is bad.",
+            "choices": ["möchten", "sollen", "müssen", "können"],
+            "correct_answer": "möchten",
+            "explanation": "'Möchten' expresses a desire: we would like to go on a trip."
+        }
+    ]
+}

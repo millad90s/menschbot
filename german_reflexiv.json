@@ -1,0 +1,660 @@
+{
+    "reflexive_verben": [
+      {
+        "question": "Ich .... (sich freuen) auf das Wochenende.",
+        "choices": ["freue mich", "freue mir", "freuen mich", "freuen mir"],
+        "correct_answer": "freue mich",
+        "explanation": "The correct form is 'freue mich' because 'ich' (I) requires 'mich' as the reflexive pronoun in the accusative case.",
+        "focus": "pronoun and verb conjugation",
+        "case": "accusative"
+      },  
+      {
+        "question": "Er .... (sich setzen) auf den Stuhl.",
+        "choices": ["setzt sich", "setzt ihn", "setzen sich", "setzt sichs"],
+        "correct_answer": "setzt sich",
+        "explanation": "The verb 'setzen' is reflexive here, and 'er' (he) takes 'sich' as the accusative reflexive pronoun.",
+        "focus": "pronoun and verb conjugation",
+        "case": "accusative"
+      },
+      {
+        "question": "Wir .... (sich erinnern) an die schöne Zeit.",
+        "choices": ["erinnern uns", "erinnere mich", "erinnern sich", "erinnert uns"],
+        "correct_answer": "erinnern uns",
+        "explanation": "The subject 'wir' (we) takes 'uns' as the reflexive pronoun, and 'erinnern' matches the conjugation.",
+        "focus": "pronoun and verb conjugation",
+        "case": "accusative"
+      },
+      {
+        "question": "Sie .... (sich die Haare kämmen).",
+        "choices": ["kämmt sich", "kämmt mir", "kämme sich", "kämmt ihr"],
+        "correct_answer": "kämmt sich",
+        "explanation": "The correct form is 'kämmt sich' because 'sie' (she) requires 'sich' as the accusative reflexive pronoun.",
+        "focus": "pronoun and verb conjugation",
+        "case": "accusative"
+      },
+      {
+        "question": "Ich .... (sich etwas vorstellen) nicht.",
+        "choices": ["stelle mir", "stelle mich", "stellen mir", "stellt sich"],
+        "correct_answer": "stelle mir",
+        "explanation": "'Sich etwas vorstellen' requires the dative case for 'mir' because it's reflexive with 'etwas' as the accusative object.",
+        "focus": "dative pronoun",
+        "case": "dative"
+      },
+      {
+        "question": "Ihr .... (sich duschen) jeden Morgen.",
+        "choices": ["duscht euch", "duscht sich", "duschst euch", "duschen euch"],
+        "correct_answer": "duscht euch",
+        "explanation": "For 'ihr' (you all), the reflexive pronoun is 'euch,' and 'duscht' is the correct verb conjugation.",
+        "focus": "pronoun and verb conjugation",
+        "case": "accusative"
+      },
+      {
+        "question": "Ich muss .... (sich beeilen), um den Zug zu erreichen.",
+        "choices": ["mich beeilen", "mir beeilen", "mich beeilt", "mir beeilt"],
+        "correct_answer": "mich beeilen",
+        "explanation": "'Mich' is the accusative reflexive pronoun required with 'beeilen' when the subject is 'ich' (I).",
+        "focus": "pronoun",
+        "case": "accusative"
+      },
+      {
+        "question": "Wir .... (sich die Hände waschen) vor dem Essen.",
+        "choices": ["waschen uns", "waschen uns die Hände", "wasche mir die Hände", "wäscht sich die Hände"],
+        "correct_answer": "waschen uns die Hände",
+        "explanation": "For 'wir,' the reflexive pronoun 'uns' is used with 'waschen' to show 'washing hands' as a shared action.",
+        "focus": "pronoun and dative case",
+        "case": "dative"
+      },
+      {
+        "question": "Er .... (sich überlegen), was er sagen soll.",
+        "choices": ["überlegt sich", "überlegt sichs", "überlege mir", "überlegt ihm"],
+        "correct_answer": "überlegt sich",
+        "explanation": "'Überlegen' is used reflexively here with 'sich' in the accusative, matching 'er' (he).",
+        "focus": "pronoun and verb conjugation",
+        "case": "dative"
+      },
+      {
+        "question": "Sie .... (sich etwas wünschen).",
+        "choices": ["wünscht sich", "wünscht ihr", "wünsche mir", "wünscht mir"],
+        "correct_answer": "wünscht sich",
+        "explanation": "For 'sie' (she), the dative reflexive pronoun 'sich' is used with 'etwas' as the accusative object.",
+        "focus": "pronoun and dative case",
+        "case": "dative"
+      },
+      {
+        "question": "Du .... (sich ausruhen) nach der Arbeit.",
+        "choices": ["ruhst dich aus", "ruhst dir aus", "ruhe mich aus", "ruhen sich aus"],
+        "correct_answer": "ruhst dich aus",
+        "explanation": "For 'du,' the correct reflexive pronoun is 'dich,' and the verb form is 'ruhst.'",
+        "focus": "pronoun and verb conjugation",
+        "case": "accusative"
+      },
+      {
+        "question": "Ich .... (sich entscheiden), nach Berlin zu ziehen.",
+        "choices": ["entscheide mich", "entscheide mir", "entscheidet sich", "entscheiden mich"],
+        "correct_answer": "entscheide mich",
+        "explanation": "The pronoun 'mich' is correct here because 'ich' (I) requires the accusative reflexive form.",
+        "focus": "pronoun and verb conjugation",
+        "case": "accusative"
+      },
+      {
+        "question": "Er .... (sich rasieren) jeden Morgen.",
+        "choices": ["rasiert sich", "rasiert sichs", "rasiere sich", "rasieren mir"],
+        "correct_answer": "rasiert sich",
+        "explanation": "'Sich' is used here with 'er' (he) in the accusative to mean 'he shaves himself.'",
+        "focus": "pronoun",
+        "case": "accusative"
+      },
+      {
+        "question": "Wir .... (sich freuen) auf den Urlaub.",
+        "choices": ["freuen uns", "freuen uns auf", "freut euch", "freuen sich"],
+        "correct_answer": "freuen uns",
+        "explanation": "For 'wir,' the reflexive pronoun is 'uns' and the verb form 'freuen' matches 'we'.",
+        "focus": "pronoun and verb conjugation",
+        "case": "accusative"
+      },
+      {
+        "question": "Er .... (sich die Hände waschen) vor dem Essen.",
+        "choices": ["wäscht sich", "wascht sich", "wäscht mir", "wasche sich"],
+        "correct_answer": "wäscht sich",
+        "explanation": "'Sich' is used with 'er' (he) and the verb 'waschen' to show a reflexive action with hands.",
+        "focus": "pronoun and verb conjugation",
+        "case": "dative"
+      },
+      {
+        "question": "Ich .... (sich beschweren) über das Essen.",
+        "choices": ["beschwere mich", "beschwert mir", "beschwere mir", "beschwert mich"],
+        "correct_answer": "beschwere mich",
+        "explanation": "'Mich' is the correct reflexive pronoun in the accusative for 'ich' (I) with 'beschweren.'",
+        "focus": "pronoun and verb conjugation",
+        "case": "accusative"
+      },
+      {
+        "question": "Sie .... (sich entscheiden) für das rote Kleid.",
+        "choices": ["entscheidet sich", "entscheidet mir", "entscheide sich", "entscheidet sichs"],
+        "correct_answer": "entscheidet sich",
+        "explanation": "'Sich' is the reflexive pronoun used with 'sie' (she) in the accusative.",
+        "focus": "pronoun and verb conjugation",
+        "case": "accusative"
+      },
+      {
+        "question": "Du .... (sich für den Kurs anmelden) online.",
+        "choices": ["meldest dich an", "meldet sich an", "meldest dir an", "melde mich an"],
+        "correct_answer": "meldest dich an",
+        "explanation": "For 'du,' the reflexive pronoun is 'dich' in the accusative and the correct verb form is 'meldest.'",
+        "focus": "pronoun and verb conjugation",
+        "case": "accusative"
+      },
+      {
+        "question": "Er .... (sich auf das Examen vorbereiten).",
+        "choices": ["bereitet sich vor", "bereitest dich vor", "bereitet mir vor", "bereiten sich vor"],
+        "correct_answer": "bereitet sich vor",
+        "explanation": "'Sich' is used with 'er' (he) in the accusative, matching the reflexive structure of 'sich vorbereiten.'",
+        "focus": "pronoun and verb conjugation",
+        "case": "accusative"
+      },
+      {
+        "question": "Sie .... (sich etwas merken).",
+        "choices": ["merkt sich", "merken mich", "merke mir", "merkt euch"],
+        "correct_answer": "merkt sich",
+        "explanation": "The reflexive verb 'sich etwas merken' uses 'sich' in the dative case with 'sie' (she).",
+        "focus": "pronoun and dative case",
+        "case": "dative"
+      },
+      {
+        "question": "Ich .... (sich anziehen) und gehe los.",
+        "choices": ["ziehe mich an", "ziehe mir an", "zieht mich an", "ziehe dich an"],
+        "correct_answer": "ziehe mich an",
+        "explanation": "  👕 The correct form is 'ziehe mich an' because 'ich' (I) requires 'mich' as the accusative reflexive pronoun.",
+        "focus": "pronoun and verb conjugation",
+        "case": "accusative"
+      },
+      {
+        "question": "Ich .... (sich kämmen) und mache mich fertig.",
+        "choices": ["kämme mich", "kämme mir", "kämmst mich", "kämme sich"],
+        "correct_answer": "kämme mich",
+        "explanation": "'Kämme mich' is correct because 'ich' (I) requires  💇‍♂️ 'mich' as the accusative reflexive pronoun.",
+        "focus": "pronoun and verb conjugation",
+        "case": "accusative"
+      },
+      {
+        "question": "Ich .... (sich die Zähne putzen).",
+        "choices": ["putze mir", "putze mich", "putzt mich", "putze sich"],
+        "correct_answer": "putze mir",
+        "explanation": "  🪥 The verb 'sich die Zähne putzen' requires the dative pronoun 'mir' when used with 'ich' (I).",
+        "focus": "pronoun and verb conjugation",
+        "case": "dative"
+      },
+      {
+        "question": "Dann .... (sich setzen) ich in den Sessel.",
+        "choices": ["setze mich", "setze mir", "setzt mich", "setze sich"],
+        "correct_answer": "setze mich",
+        "explanation": "'Setze mich'  🪑 is correct because 'ich' (I) requires 'mich' as the accusative reflexive pronoun for 'sich setzen.'",
+        "focus": "pronoun and verb conjugation",
+        "case": "accusative"
+      },
+      {
+        "question": "Ich .... (sich ausruhen) und entspanne mich.",
+        "choices": ["ruhe mich aus", "ruhe mir aus", "ruhst dich aus", "ruht sich aus"],
+        "correct_answer": "ruhe mich aus",
+        "explanation": "'Mich' is the  😌 correct accusative pronoun for 'ich' with the reflexive verb 'sich ausruhen.'",
+        "focus": "pronoun and verb conjugation",
+        "case": "accusative"
+      },
+      {
+        "question": "Ich .... (sich treffen) heute mit einer Freundin.",
+        "choices": ["treffe mich", "treffe mir", "triffst dich", "treffen sich"],
+        "correct_answer": "treffe mich",
+        "explanation": "'Mich' is the  🤝 accusative reflexive pronoun used with 'ich' for 'sich treffen.'",
+        "focus": "pronoun and verb conjugation",
+        "case": "accusative"
+      },
+      {
+        "question": "Ich .... (sich duschen) am Morgen.",
+        "choices": ["dusche mich", "duscht mir", "duschst mich", "duschen sich"],
+        "correct_answer": "dusche mich",
+        "explanation": "'Mich'  🚿 is the correct reflexive pronoun in the accusative for 'ich' (I) with 'sich duschen.'",
+        "focus": "pronoun and verb conjugation",
+        "case": "accusative"
+      },
+      {
+        "question": "Ich .... (sich die Haare waschen).",
+        "choices": ["wasche mir", "wasche mich", "wäscht mir", "waschen mich"],
+        "correct_answer": "wasche mir",
+        "explanation": "For  🧴 'sich die Haare waschen,' the dative pronoun 'mir' is required with 'ich' (I).",
+        "focus": "pronoun and verb conjugation",
+        "case": "dative"
+      },
+      {
+        "question": "Ich .... (sich im Spiegel ansehen).",
+        "choices": ["sehe mich an", "sehe mir an", "siehst mich an", "sehe sich an"],
+        "correct_answer": "sehe mich an",
+        "explanation": "'Mich'  🪞 is the accusative reflexive pronoun needed for 'ich' in the phrase 'sich ansehen.'",
+        "focus": "pronoun and verb conjugation",
+        "case": "accusative"
+      },
+      {
+        "question": "Ich .... (sich beeilen), damit ich pünktlich bin.",
+        "choices": ["beeile mich", "beeile mir", "beeilt mich", "beeile dich"],
+        "correct_answer": "beeile mich",
+        "explanation": "'Mich'  ⏰ is the accusative reflexive pronoun for 'ich' in the reflexive verb 'sich beeilen.'",
+        "focus": "pronoun and verb conjugation",
+        "case": "accusative"
+      },
+      {
+        "question": "Ich .... (sich duschen) morgens.",
+        "choices": ["dusche mich", "duscht mich", "duschen mir", "dusche mir"],
+        "correct_answer": "dusche mich",
+        "explanation": "'Mich' is the accusative reflexive pronoun used with 'ich' for 'sich duschen.' 🚿",
+        "focus": "pronoun and verb conjugation",
+        "case": "accusative"
+      },
+      {
+        "question": "Du .... (sich waschen) jeden Tag.",
+        "choices": ["wäschst dich", "wäschst dir", "wäscht dich", "wascht mir"],
+        "correct_answer": "wäschst dich",
+        "explanation": "'Dich' is the accusative reflexive pronoun used with 'du' for 'sich waschen.' 🧼",
+        "focus": "pronoun and verb conjugation",
+        "case": "accusative"
+      },
+      {
+        "question": "Ich stehe auf und .... (sich anziehen).",
+        "choices": ["ziehe mich an", "ziehe mir an", "ziehst sich an", "zieht mich an"],
+        "correct_answer": "ziehe mich an",
+        "explanation": "'Mich' is the accusative pronoun needed for 'ich' in 'sich anziehen.' 👕",
+        "focus": "pronoun and verb conjugation",
+        "case": "accusative"
+      },
+      {
+        "question": "Er .... (sich ausziehen) und geht ins Bett.",
+        "choices": ["zieht sich aus", "ziehe mir aus", "zieht mich aus", "ziehen sich aus"],
+        "correct_answer": "zieht sich aus",
+        "explanation": "'Sich' is the accusative reflexive pronoun used with 'er' for 'sich ausziehen.' 👚",
+        "focus": "pronoun and verb conjugation",
+        "case": "accusative"
+      },
+      {
+        "question": "Sonntags .... (sich baden) ich.",
+        "choices": ["bade mich", "bade mir", "baden mich", "badet sich"],
+        "correct_answer": "bade mich",
+        "explanation": "'Mich' is the accusative pronoun for 'ich' used with the reflexive verb 'sich baden.' 🛁",
+        "focus": "pronoun and verb conjugation",
+        "case": "accusative"
+      },
+      {
+        "question": "Das Brandenburger Tor .... (sich befinden) in Berlin.",
+        "choices": ["befindet sich", "befindet mir", "befinde mich", "befindet dich"],
+        "correct_answer": "befindet sich",
+        "explanation": "'Sich' is the accusative reflexive pronoun needed with 'es' (it) in 'sich befinden.' 🏛️",
+        "focus": "pronoun",
+        "case": "accusative"
+      },
+      {
+        "question": "Die Schüler .... (sich beschweren) über den Test.",
+        "choices": ["beschweren sich", "beschweren euch", "beschwert mir", "beschwert sich"],
+        "correct_answer": "beschweren sich",
+        "explanation": "'Sich' is the accusative reflexive pronoun for 'sie' (they) in 'sich beschweren.' 😤",
+        "focus": "pronoun",
+        "case": "accusative"
+      },
+      {
+        "question": "Wir .... (sich freuen) auf die Ferien.",
+        "choices": ["freuen uns", "freut euch", "freuen sich", "freut uns"],
+        "correct_answer": "freuen uns",
+        "explanation": "'Uns' is the correct pronoun with 'wir' in the reflexive verb 'sich freuen.' 🎉",
+        "focus": "pronoun",
+        "case": "accusative"
+      },
+      {
+        "question": "Wie geht es dir? .... (sich fühlen) du dich besser?",
+        "choices": ["Fühlst", "Fühl mir", "Fühle dich", "Fühlst dir"],
+        "correct_answer": "Fühlst dich",
+        "explanation": "'Dich' is the accusative pronoun required with 'du' in 'sich fühlen.' 😊",
+        "focus": "pronoun",
+        "case": "accusative"
+      },
+      {
+        "question": "Sie .... (sich informieren) über die Sehenswürdigkeiten.",
+        "choices": ["informieren sich", "informiert mich", "informiert mir", "informiere mich"],
+        "correct_answer": "informieren sich",
+        "explanation": "'Sich' is the correct reflexive pronoun for 'sie' (they) in 'sich informieren.' 🗺️",
+        "focus": "pronoun",
+        "case": "accusative"
+      },
+      {
+        "question": "Interessiert .... (sich interessieren) ihr für Geschichte?",
+        "choices": ["euch", "sich", "mir", "mich"],
+        "correct_answer": "euch",
+        "explanation": "'Euch' is the correct pronoun for 'ihr' in 'sich interessieren.' 📚",
+        "focus": "pronoun",
+        "case": "accusative"
+      },
+      {
+        "question": ".... (sich kämmen) dich bitte!",
+        "choices": ["Kämm", "Kämme", "Kämmt", "Kämmst"],
+        "correct_answer": "Kämm",
+        "explanation": "'Kämm dich' is the imperative form with the pronoun 'dich' in 'sich kämmen.' 💇‍♂️",
+        "focus": "imperative",
+        "case": "accusative"
+      },
+      {
+        "question": ".... (sich legen) wir uns an den Strand?",
+        "choices": ["Legen", "Legt", "Lege", "Leg"],
+        "correct_answer": "Legen",
+        "explanation": "'Legen wir uns' is correct in the reflexive phrase 'sich legen.' 🏖️",
+        "focus": "imperative",
+        "case": "accusative"
+      },
+      {
+        "question": "Mein Vater .... (sich rasieren) nicht mehr.",
+        "choices": ["rasiert sich", "rasierst dich", "rasiert mich", "rasieren mir"],
+        "correct_answer": "rasiert sich",
+        "explanation": "'Sich' is the accusative reflexive pronoun needed with 'er' in 'sich rasieren.' 🪒",
+        "focus": "pronoun",
+        "case": "accusative"
+      },
+      {
+        "question": ".... (sich setzen) Sie, bitte!",
+        "choices": ["Setzen", "Setzt", "Setzt euch", "Sitze"],
+        "correct_answer": "Setzen",
+        "explanation": "'Setzen Sie sich' is the formal imperative form for 'sich setzen.' 🪑",
+        "focus": "imperative",
+        "case": "accusative"
+      },
+      {
+        "question": "Er .... (sich stellen) auf den Stuhl.",
+        "choices": ["stellt sich", "stelle mir", "stellt dir", "stellt mich"],
+        "correct_answer": "stellt sich",
+        "explanation": "'Sich' is the accusative pronoun used with 'er' in 'sich stellen.' 🪜",
+        "focus": "pronoun",
+        "case": "accusative"
+      },
+      {
+        "question": "Triffst du .... (sich treffen) morgen mit Beate?",
+        "choices": ["dich", "sich", "euch", "mir"],
+        "correct_answer": "dich",
+        "explanation": "'Dich' is the correct pronoun for 'du' in 'sich treffen.' 🤝",
+        "focus": "pronoun",
+        "case": "accusative"
+      },
+      {
+        "question": "Ich bin vom Rad gestürzt und habe .... (sich verletzen).",
+        "choices": ["mich verletzt", "mir verletzt", "mich verletze", "mich verletzen"],
+        "correct_answer": "mich verletzt",
+        "explanation": "'Mich' is the accusative pronoun used with 'ich' in 'sich verletzen.' 🤕",
+        "focus": "pronoun and verb conjugation",
+        "case": "accusative"
+      },
+      {
+        "question": "Wir müssen .... (sich verabschieden).",
+        "choices": ["uns verabschieden", "mir verabschieden", "mich verabschiede", "euch verabschieden"],
+        "correct_answer": "uns verabschieden",
+        "explanation": "'Uns' is the correct pronoun for 'wir' in the phrase 'sich verabschieden.' 👋",
+        "focus": "pronoun",
+        "case": "accusative"
+      },
+      {
+        "question": "Ich möchte .... (sich vorstellen).",
+        "choices": ["mich vorstellen", "mir vorstellen", "sich vor"],
+        "correct_answer": "mich vorstellen",
+        "explanation": "'Mich' is the correct accusative reflexive pronoun used with 'ich' in 'sich vorstellen.' 🗣️",
+        "focus": "pronoun and verb conjugation",
+        "case": "accusative"
+      },
+      {
+        "question": "Du .... (sich die Haare bürsten) morgens.",
+        "choices": ["bürstest dir", "bürstest dich", "bürste mir", "bürstet sich"],
+        "correct_answer": "bürstest dir",
+        "explanation": "'Dir' is the dative reflexive pronoun used with 'du' in 'sich die Haare bürsten.' 🪮",
+        "focus": "pronoun and verb conjugation",
+        "case": "dative"
+      },
+      {
+        "question": "Ich habe .... (sich die Haare kämmen) heute Morgen.",
+        "choices": ["mir die Haare gekämmt", "mich die Haare gekämmt", "mich die Haare kämme", "mir die Haare kämme"],
+        "correct_answer": "mir die Haare gekämmt",
+        "explanation": "'Mir' is the dative reflexive pronoun used with 'ich' in 'sich die Haare kämmen.' 💇‍♀️",
+        "focus": "pronoun and verb conjugation",
+        "case": "dative"
+      },
+      {
+        "question": "Ich .... (sich etwas anziehen) eine Jacke.",
+        "choices": ["ziehe mir an", "ziehe mich an", "zieht sich an", "ziehen mir an"],
+        "correct_answer": "ziehe mir an",
+        "explanation": "'Mir' is the dative reflexive pronoun for 'ich' in 'sich etwas anziehen.' 🧥",
+        "focus": "pronoun and verb conjugation",
+        "case": "dative"
+      },
+      {
+        "question": "Du .... (sich etwas ausziehen) die Schuhe.",
+        "choices": ["ziehst dir aus", "ziehst dich aus", "zieht sich aus", "ziehen mir aus"],
+        "correct_answer": "ziehst dir aus",
+        "explanation": "'Dir' is the dative reflexive pronoun for 'du' in 'sich etwas ausziehen.' 👟",
+        "focus": "pronoun and verb conjugation",
+        "case": "dative"
+      },
+      {
+        "question": "Ich .... (sich die Zähne putzen) jeden Morgen.",
+        "choices": ["putze mir", "putze mich", "putzen sich", "putzt mir"],
+        "correct_answer": "putze mir",
+        "explanation": "'Mir' is the dative reflexive pronoun used with 'ich' in 'sich die Zähne putzen.' 🪥",
+        "focus": "pronoun and verb conjugation",
+        "case": "dative"
+      },
+      {
+        "question": "Hast du .... (sich wehtun)?",
+        "choices": ["dir wehgetan", "dich wehgetan", "sich wehgetan", "mich wehgetan"],
+        "correct_answer": "dir wehgetan",
+        "explanation": "'Dir' is the dative reflexive pronoun used with 'du' in 'sich wehtun.' 🤕",
+        "focus": "pronoun and verb conjugation",
+        "case": "dative"
+      },
+      {
+        "question": "Die Zeiten .... (sich ändern) schnell.",
+        "choices": ["haben sich geändert", "haben mir geändert", "hat sich geändert", "hat mich geändert"],
+        "correct_answer": "haben sich geändert",
+        "explanation": "'Sich' is the correct reflexive pronoun for 'die Zeiten' with the verb 'sich ändern.' 🔄",
+        "focus": "pronoun and verb conjugation",
+        "case": "accusative",
+        "level": "B1"
+      },
+      {
+        "question": "Wo kann man .... (sich anmelden) für den Kurs?",
+        "choices": ["sich anmelden", "mir anmelden", "dir anmelden", "euch anmelden"],
+        "correct_answer": "sich anmelden",
+        "explanation": "'Sich' is the accusative reflexive pronoun needed with 'man' in 'sich anmelden.' 📝",
+        "focus": "pronoun",
+        "case": "accusative",
+        "level": "B1"
+      },
+      {
+        "question": "Schau .... (sich anschauen) mal im Spiegel an!",
+        "choices": ["dich", "dir", "mir", "sich"],
+        "correct_answer": "dich",
+        "explanation": "'Dich' is the accusative pronoun needed for 'du' in 'sich anschauen.' 🪞",
+        "focus": "pronoun",
+        "case": "accusative",
+        "level": "B1"
+      },
+      {
+        "question": "Schnallen Sie .... (sich anschnallen) bitte an!",
+        "choices": ["sich", "mir", "euch", "dich"],
+        "correct_answer": "sich",
+        "explanation": "'Sich' is the accusative reflexive pronoun for 'Sie' in the formal imperative 'sich anschnallen.' 🚗",
+        "focus": "pronoun",
+        "case": "accusative",
+        "level": "B1"
+      },
+      {
+        "question": "Er .... (sich ärgern) über seinen Fehler.",
+        "choices": ["ärgerte sich", "ärgert mir", "ärgert dir", "ärgert sich"],
+        "correct_answer": "ärgerte sich",
+        "explanation": "'Sich' is the accusative reflexive pronoun needed for 'er' in 'sich ärgern.' 😠",
+        "focus": "pronoun and verb conjugation",
+        "case": "accusative",
+        "level": "B1"
+      },
+      {
+        "question": "Ich möchte mich bei dir .... (sich bedanken).",
+        "choices": ["bedanken", "bedanke", "bedankt", "bedankst"],
+        "correct_answer": "bedanken",
+        "explanation": "'Sich' is required in 'sich bedanken,' with the infinitive 'bedanken' used here. 🙏",
+        "focus": "infinitive",
+        "case": "accusative",
+        "level": "B1"
+      },
+      {
+        "question": "Wir müssen .... (sich beeilen), sonst verpassen wir den Zug.",
+        "choices": ["uns beeilen", "mich beeilen", "euch beeilen", "sich beeilen"],
+        "correct_answer": "uns beeilen",
+        "explanation": "'Uns' is the reflexive pronoun for 'wir' in 'sich beeilen.' ⏰",
+        "focus": "pronoun and verb conjugation",
+        "case": "accusative",
+        "level": "B1"
+      },
+      {
+        "question": "Du musst dich mehr .... (sich bewegen)!",
+        "choices": ["bewegen", "bewegst", "bewege", "bewegt"],
+        "correct_answer": "bewegen",
+        "explanation": "'Bewegen' is the correct infinitive verb form with the pronoun 'dich.' 🏃",
+        "focus": "infinitive",
+        "case": "accusative",
+        "level": "B1"
+      },
+      {
+        "question": "Karin .... (sich bewerben) bei der Touristinformation.",
+        "choices": ["hat sich beworben", "hat mir beworben", "hat beworben sich", "hat sich bewerbt"],
+        "correct_answer": "hat sich beworben",
+        "explanation": "'Sich' is the accusative reflexive pronoun used with 'Karin' in 'sich bewerben.' 💼",
+        "focus": "pronoun and verb conjugation",
+        "case": "accusative",
+        "level": "B1"
+      },
+      {
+        "question": "Ich kann .... (sich entscheiden) nicht.",
+        "choices": ["mich entscheiden", "mir entscheiden", "sich entscheiden", "euch entscheiden"],
+        "correct_answer": "mich entscheiden",
+        "explanation": "'Mich' is the accusative pronoun needed with 'ich' in 'sich entscheiden.' 🤔",
+        "focus": "pronoun and verb conjugation",
+        "case": "accusative",
+        "level": "B1"
+      },
+      {
+        "question": "Bitte .... (sich entschuldigen) Sie mich einen Moment.",
+        "choices": ["entschuldigen", "entschuldigt", "entschuldigst", "entschuldig"],
+        "correct_answer": "entschuldigen",
+        "explanation": "The formal imperative requires 'sich entschuldigen' with 'entschuldigen.' 📞",
+        "focus": "infinitive",
+        "case": "accusative",
+        "level": "B1"
+      },
+      {
+        "question": "Hast du .... (sich erholen) im Urlaub?",
+        "choices": ["dich erholt", "dir erholt", "mir erholt", "sich erholen"],
+        "correct_answer": "dich erholt",
+        "explanation": "'Dich' is the accusative pronoun for 'du' with 'sich erholen.' 🌴",
+        "focus": "pronoun and verb conjugation",
+        "case": "accusative",
+        "level": "B1"
+      },
+      {
+        "question": "Ich werde mich .... (sich hinlegen).",
+        "choices": ["hinlegen", "hinlege", "hinglegt", "hinlegst"],
+        "correct_answer": "hinlegen",
+        "explanation": "'Sich hinlegen' uses the infinitive 'hinlegen' with 'mich.' 🛏️",
+        "focus": "infinitive",
+        "case": "accusative",
+        "level": "B1"
+      },
+      {
+        "question": "Du darfst dich gern .... (sich hinsetzen).",
+        "choices": ["hinsetzen", "hinlege", "setzt hin", "hinsitze"],
+        "correct_answer": "hinsetzen",
+        "explanation": "'Hinsetzen' is the infinitive used with 'sich hinsetzen.' 🪑",
+        "focus": "infinitive",
+        "case": "accusative",
+        "level": "B1"
+      },
+      {
+        "question": "Du .... (sich irren), München ist nicht die Hauptstadt.",
+        "choices": ["irrst dich", "irr mir", "irre mich", "irrt sich"],
+        "correct_answer": "irrst dich",
+        "explanation": "'Dich' is the accusative reflexive pronoun for 'du' in 'sich irren.' ❌",
+        "focus": "pronoun and verb conjugation",
+        "case": "accusative",
+        "level": "B1"
+      },
+      {
+        "question": "Ich muss mich .... (sich konzentrieren).",
+        "choices": ["konzentrieren", "konzentriere", "konzentriert", "konzentriest"],
+        "correct_answer": "konzentrieren",
+        "explanation": "'Konzentrieren' is the correct infinitive with 'sich konzentrieren.' 🧘",
+        "focus": "infinitive",
+        "case": "accusative",
+        "level": "B1"
+      },
+      {
+        "question": "Lina hat sich .... (sich trennen) ihrem Freund.",
+        "choices": ["von", "mit", "nach", "an"],
+        "correct_answer": "von",
+        "explanation": "'Von' is the correct preposition to use with 'sich trennen.' 💔",
+        "focus": "preposition",
+        "case": "accusative",
+        "level": "B1"
+      },
+      {
+        "question": "Wir haben uns im Wald .... (sich verirren).",
+        "choices": ["verirrt", "verirren", "verirre", "verirrt sich"],
+        "correct_answer": "verirrt",
+        "explanation": "'Sich verirren' requires 'verirrt' with the pronoun 'uns.' 🌲",
+        "focus": "verb conjugation",
+        "case": "accusative",
+        "level": "B1"
+      },
+      {
+        "question": "Hast du dich im Urlaub .... (sich verlieben)?",
+        "choices": ["verliebt", "verlieben", "verliebte", "verliebst"],
+        "correct_answer": "verliebt",
+        "explanation": "'Sich verlieben' uses 'verliebt' with the pronoun 'dich.' 💞",
+        "focus": "verb conjugation",
+        "case": "accusative",
+        "level": "B1"
+      },
+      {
+        "question": "In deiner Wohnung kann man sich wohlfühlen .... (sich wohlfühlen).",
+        "choices": ["wohlfühlen", "wohlfühlt", "wohlfühlen sich", "wohlfühle"],
+        "correct_answer": "wohlfühlen",
+        "explanation": "'Sich wohlfühlen' uses the infinitive 'wohlfühlen.' 🏡",
+        "focus": "infinitive",
+        "case": "accusative",
+        "level": "B1"
+      },
+      {
+        "question": "Ich werde .... (sich etwas überlegen) eine Lösung.",
+        "choices": ["mir überlegen", "mich überlegen", "sich überlegen", "dir überlegen"],
+        "correct_answer": "mir überlegen",
+        "explanation": "'Mir' is the dative reflexive pronoun used with 'ich' in 'sich etwas überlegen.' 💡",
+        "focus": "pronoun and verb conjugation",
+        "case": "dative",
+        "level": "B1"
+      },
+      {
+        "question": "Kannst du .... (sich etwas vorstellen), was passiert ist?",
+        "choices": ["dir vorstellen", "mich vorstellen", "mir vorstellen", "dich vorstellen"],
+        "correct_answer": "dir vorstellen",
+        "explanation": "'Dir' is the dative reflexive pronoun used with 'du' in 'sich etwas vorstellen.' 🤔",
+        "focus": "pronoun and verb conjugation",
+        "case": "dative",
+        "level": "B1"
+      },
+      {
+        "question": "Was .... (sich etwas wünschen) du dir zum Geburtstag?",
+        "choices": ["wünschst", "wünsche", "wünscht", "wünschst dich"],
+        "correct_answer": "wünschst",
+        "explanation": "'Wünschst' is the correct form for 'du' in 'sich etwas wünschen,' with 'dir' as the dative pronoun. 🎂",
+        "focus": "verb conjugation",
+        "case": "dative",
+        "level": "B1"
+      }
+    ]
+  }
+  

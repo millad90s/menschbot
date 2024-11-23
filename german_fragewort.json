@@ -1,0 +1,125 @@
+{
+    "questions": [
+      {
+        "question": ".... hast du das Geschenk gekauft?",
+        "choices": ["Für wen", "Für wem", "Von wen", "An wem"],
+        "correct_answer": "Für wen",
+        "explanation": "'Für wen' is used to ask 'for whom' something was bought. 🎁",
+        "focus": "wen/wem",
+        "case": "accusative"
+      },
+      {
+        "question": "Mit .... hast du gesprochen?",
+        "choices": ["wem", "wen", "wer", "wenem"],
+        "correct_answer": "wem",
+        "explanation": "'Mit wem' is the correct form to ask 'with whom' someone spoke. 🗣️",
+        "focus": "wen/wem",
+        "case": "dative"
+      },
+      {
+        "question": "Er ärgerte sich .... die laute Musik.",
+        "choices": ["über", "um", "mit", "an"],
+        "correct_answer": "über",
+        "explanation": "'Über' is the correct preposition used with 'sich ärgern' to express annoyance about something. 🔊",
+        "focus": "preposition usage",
+        "case": "accusative"
+      },
+      {
+        "question": "..... denkst du nach?",
+        "choices": ["Worüber", "Worum", "Womit", "Wofür"],
+        "correct_answer": "Worüber",
+        "explanation": "'Worüber' is used to ask 'about what' someone is thinking. 💭",
+        "focus": "wo-compound",
+        "case": "accusative"
+      },
+      {
+        "question": "Er hat Angst .... dem Hund.",
+        "choices": ["vor", "über", "um", "an"],
+        "correct_answer": "vor",
+        "explanation": "'Angst haben vor' requires the preposition 'vor' to express fear of something. 🐕",
+        "focus": "preposition usage",
+        "case": "dative"
+      },
+      {
+        "question": "Ich habe mich sehr .... das Konzert gefreut.",
+        "choices": ["auf", "über", "an", "um"],
+        "correct_answer": "auf",
+        "explanation": "'Sich freuen auf' is used to express looking forward to something. 🎶",
+        "focus": "preposition usage",
+        "case": "accusative"
+      },
+      {
+        "question": ".... erinnerst du dich?",
+        "choices": ["Woran", "Worüber", "Worum", "Womit"],
+        "correct_answer": "Woran",
+        "explanation": "'Woran' is used to ask 'what' someone remembers. 🧠",
+        "focus": "wo-compound",
+        "case": "accusative"
+      },
+      {
+        "question": "Sie träumt .... einem Urlaub am Meer.",
+        "choices": ["von", "über", "für", "an"],
+        "correct_answer": "von",
+        "explanation": "'Träumen von' requires the preposition 'von' to express dreaming about something. 🌊",
+        "focus": "preposition usage",
+        "case": "dative"
+      },
+      {
+        "question": ".... habe ich nichts gehört.",
+        "choices": ["Davon", "Darüber", "Dafür", "Daran"],
+        "correct_answer": "Davon",
+        "explanation": "'Davon' is used to indicate 'of that' or 'about that' in response. 👂",
+        "focus": "da-compound",
+        "case": "dative"
+      },
+      {
+        "question": ".... hat dir das Geschenk gegeben?",
+        "choices": ["Von wem", "Für wen", "An wen", "Mit wem"],
+        "correct_answer": "Von wem",
+        "explanation": "'Von wem' is used to ask 'from whom' someone received something. 🎁",
+        "focus": "wen/wem",
+        "case": "dative"
+      },
+      {
+        "question": "Ich warte .... den Bus.",
+        "choices": ["auf", "um", "für", "mit"],
+        "correct_answer": "auf",
+        "explanation": "'Warten auf' requires 'auf' when waiting for something or someone. 🚌",
+        "focus": "preposition usage",
+        "case": "accusative"
+      },
+      {
+        "question": "Sie spricht .... ihrer Freundin.",
+        "choices": ["mit", "um", "über", "an"],
+        "correct_answer": "mit",
+        "explanation": "'Sprechen mit' requires 'mit' in the dative when speaking with someone. 👭",
+        "focus": "preposition usage",
+        "case": "dative"
+      },
+      {
+        "question": "Ich habe Lust .... ein Eis.",
+        "choices": ["auf", "über", "an", "um"],
+        "correct_answer": "auf",
+        "explanation": "'Lust haben auf' takes 'auf' in the accusative to express a desire for something. 🍦",
+        "focus": "preposition usage",
+        "case": "accusative"
+      },
+      {
+        "question": ".... bist du enttäuscht?",
+        "choices": ["Worüber", "Wofür", "Womit", "Worauf"],
+        "correct_answer": "Worüber",
+        "explanation": "'Worüber' is used to ask 'about what' someone is disappointed. 😞",
+        "focus": "wo-compound",
+        "case": "accusative"
+      },
+      {
+        "question": "Ich habe eine Nachricht bekommen .... du mich gefragt hast.",
+        "choices": ["worüber", "worauf", "wovon", "worum"],
+        "correct_answer": "worüber",
+        "explanation": "'Worüber' is the compound used with 'fragen' to mean 'about what.' 📝",
+        "focus": "wo-compound",
+        "case": "accusative"
+      }
+    ]
+  }
+  

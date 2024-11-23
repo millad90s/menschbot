@@ -1,0 +1,405 @@
+{
+    "adjectives": [
+      {
+        "question": "Das ist das .... Haus.",
+        "choices": ["kleine", "kleines", "kleinem", "kleinen"],
+        "correct_answer": "kleine",
+        "explanation": "The adjective 'klein' is declined as 'kleine' because 'Haus' is neuter and nominative, and the definite article 'das' requires the weak ending '-e' for the adjective.",
+        "adjective_root": "klein",
+        "article_type": "definite"
+      },
+      {
+        "question": "Ich sehe einen .... Hund.",
+        "choices": ["großer", "große", "großen", "großem"],
+        "correct_answer": "großen",
+        "explanation": "The adjective 'groß' is declined as 'großen' because 'Hund' is masculine and accusative, and the indefinite article 'einen' requires the strong ending '-en' for the adjective.",
+        "adjective_root": "groß",
+        "article_type": "indefinite"
+      },
+      {
+        "question": "Sie gibt einer .... Frau ein Buch.",
+        "choices": ["schöne", "schönen", "schöner", "schönes"],
+        "correct_answer": "schönen",
+        "explanation": "The adjective 'schön' is declined as 'schönen' because 'Frau' is feminine and dative, and the indefinite article 'einer' requires the weak ending '-en' for the adjective.",
+        "adjective_root": "schön",
+        "article_type": "indefinite"
+      },
+      {
+        "question": "Das ist ein .... Mann.",
+        "choices": ["guter", "guten", "gutes", "gutem"],
+        "correct_answer": "guter",
+        "explanation": "The adjective 'gut' is declined as 'guter' because 'Mann' is masculine and nominative, and the indefinite article 'ein' requires the weak ending '-er' for the adjective.",
+        "adjective_root": "gut",
+        "article_type": "indefinite"
+      },
+      {
+        "question": "Ich spreche mit einem .... Lehrer.",
+        "choices": ["neuen", "neue", "neuer", "neues"],
+        "correct_answer": "neuen",
+        "explanation": "The adjective 'neu' is declined as 'neuen' because 'Lehrer' is masculine and dative, and the indefinite article 'einem' requires the weak ending '-en' for the adjective.",
+        "adjective_root": "neu",
+        "article_type": "indefinite"
+      },
+      {
+        "question": "Sie kauft das .... Auto.",
+        "choices": ["neue", "neuer", "neues", "neuen"],
+        "correct_answer": "neue",
+        "explanation": "The adjective 'neu' is declined as 'neue' because 'Auto' is neuter and accusative, and the definite article 'das' requires the weak ending '-e' for the adjective.",
+        "adjective_root": "neu",
+        "article_type": "definite"
+      },
+      {
+        "question": "Wir gehen in einen .... Park.",
+        "choices": ["schönen", "schöne", "schöner", "schönes"],
+        "correct_answer": "schönen",
+        "explanation": "The adjective 'schön' is declined as 'schönen' because 'Park' is masculine and accusative, and the indefinite article 'einen' requires the strong ending '-en' for the adjective.",
+        "adjective_root": "schön",
+        "article_type": "indefinite"
+      },
+      {
+        "question": "Das ist eine .... Blume.",
+        "choices": ["schöne", "schöner", "schönen", "schönes"],
+        "correct_answer": "schöne",
+        "explanation": "The adjective 'schön' is declined as 'schöne' because 'Blume' is feminine and nominative, and the indefinite article 'eine' requires the weak ending '-e' for the adjective.",
+        "adjective_root": "schön",
+        "article_type": "indefinite"
+      },
+      {
+        "question": "Er wohnt in einem .... Haus.",
+        "choices": ["kleinen", "kleiner", "kleines", "kleinem"],
+        "correct_answer": "kleinen",
+        "explanation": "The adjective 'klein' is declined as 'kleinen' because 'Haus' is neuter and dative, and the indefinite article 'einem' requires the weak ending '-en' for the adjective.",
+        "adjective_root": "klein",
+        "article_type": "indefinite"
+      },
+      {
+        "question": "Das ist eine .... Aufgabe.",
+        "choices": ["schwierige", "schwierigen", "schwieriger", "schwieriges"],
+        "correct_answer": "schwierige",
+        "explanation": "The adjective 'schwierig' is declined as 'schwierige' because 'Aufgabe' is feminine and nominative, and the indefinite article 'eine' requires the weak ending '-e' for the adjective.",
+        "adjective_root": "schwierig",
+        "article_type": "indefinite"
+      },
+      {
+        "question": "Ich habe ein .... Buch gelesen.",
+        "choices": ["interessantes", "interessanter", "interessanten", "interessante"],
+        "correct_answer": "interessantes",
+        "explanation": "The adjective 'interessant' is declined as 'interessantes' because 'Buch' is neuter and accusative, and the indefinite article 'ein' requires the strong ending '-es' for the adjective.",
+        "adjective_root": "interessant",
+        "article_type": "indefinite"
+      },
+      {
+        "question": "Das ist ein .... Film.",
+        "choices": ["spannender", "spannendes", "spannenden", "spannende"],
+        "correct_answer": "spannender",
+        "explanation": "The adjective 'spannend' is declined as 'spannender' because 'Film' is masculine and nominative, and the indefinite article 'ein' requires the weak ending '-er' for the adjective.",
+        "adjective_root": "spannend",
+        "article_type": "indefinite"
+      },
+      {
+        "question": "Sie trägt ein .... Kleid.",
+        "choices": ["schönes", "schöner", "schönen", "schöne"],
+        "correct_answer": "schönes",
+        "explanation": "The adjective 'schön' is declined as 'schönes' because 'Kleid' is neuter and accusative, and the indefinite article 'ein' requires the strong ending '-es' for the adjective.",
+        "adjective_root": "schön",
+        "article_type": "indefinite"
+      },
+      {
+        "question": "Ich fahre mit der .... Bahn.",
+        "choices": ["schnellen", "schneller", "schnelles", "schnelle"],
+        "correct_answer": "schnellen",
+        "explanation": "The adjective 'schnell' is declined as 'schnellen' because 'Bahn' is feminine and dative, and the definite article 'der' requires the weak ending '-en' for the adjective.",
+        "adjective_root": "schnell",
+        "article_type": "definite"
+      },
+      {
+        "question": "Sie liebt das .... Meer.",
+        "choices": ["blaue", "blauer", "blauem", "blauen"],
+        "correct_answer": "blaue",
+        "explanation": "The adjective 'blau' is declined as 'blaue' because 'Meer' is neuter and accusative, and the definite article 'das' requires the weak ending '-e' for the adjective.",
+        "adjective_root": "blau",
+        "article_type": "definite"
+      },
+      {
+        "question": "Er hat einen .... Freund.",
+        "choices": ["guten", "guter", "gute", "gutes"],
+        "correct_answer": "guten",
+        "explanation": "The adjective 'gut' is declined as 'guten' because 'Freund' is masculine and accusative, and the indefinite article 'einen' requires the strong ending '-en' for the adjective.",
+        "adjective_root": "gut",
+        "article_type": "indefinite"
+      },
+      {
+        "question": "Das ist eine .... Katze.",
+        "choices": ["kleine", "kleiner", "kleinen", "kleines"],
+        "correct_answer": "kleine",
+        "explanation": "The adjective 'klein' is declined as 'kleine' because 'Katze' is feminine and nominative, and the indefinite article 'eine' requires the weak ending '-e' for the adjective.",
+        "adjective_root": "klein",
+        "article_type": "indefinite"
+      },
+      {
+        "question": "Wir besuchen einen .... Park.",
+        "choices": ["großen", "großer", "großem", "großes"],
+        "correct_answer": "großen",
+        "explanation": "The adjective 'groß' is declined as 'großen' because 'Park' is masculine and accusative, and the indefinite article 'einen' requires the strong ending '-en' for the adjective.",
+        "adjective_root": "groß",
+        "article_type": "indefinite"
+      },
+      {
+        "question": "Ich trinke .... Wasser.",
+        "choices": ["kaltes", "kalter", "kalten", "kalte"],
+        "correct_answer": "kaltes",
+        "explanation": "The adjective 'kalt' is declined as 'kaltes' because 'Wasser' is neuter and accusative, and there is no article, so it requires the strong ending '-es' for the adjective.",
+        "adjective_root": "kalt",
+        "article_type": "no article"
+      },
+      {
+        "question": "Er hat eine .... Frage gestellt.",
+        "choices": ["schwierige", "schwieriger", "schwierigen", "schwieriges"],
+        "correct_answer": "schwierige",
+        "explanation": "The adjective 'schwierig' is declined as 'schwierige' because 'Frage' is feminine and accusative, and the indefinite article 'eine' requires the weak ending '-e' for the adjective.",
+        "adjective_root": "schwierig",
+        "article_type": "indefinite"
+      },
+      {
+        "question": "Ich besuche das .... Museum.",
+        "choices": ["alte", "alter", "alten", "altes"],
+        "correct_answer": "alte",
+        "explanation": "The adjective 'alt' is declined as 'alte' because 'Museum' is neuter and accusative, and the definite article 'das' requires the weak ending '-e' for the adjective.",
+        "adjective_root": "alt",
+        "article_type": "definite"
+      },
+      {
+        "question": "Wir haben eine .... Pflanze gekauft.",
+        "choices": ["schöne", "schönen", "schöner", "schönes"],
+        "correct_answer": "schöne",
+        "explanation": "The adjective 'schön' is declined as 'schöne' because 'Pflanze' is feminine and accusative, and the indefinite article 'eine' requires the weak ending '-e' for the adjective.",
+        "adjective_root": "schön",
+        "article_type": "indefinite"
+      },
+      {
+        "question": "Er hat .... Kaffee getrunken.",
+        "choices": ["starken", "starker", "starkes", "starke"],
+        "correct_answer": "starken",
+        "explanation": "The adjective 'stark' is declined as 'starken' because 'Kaffee' is masculine and accusative, and there is no article, so it requires the strong ending '-en' for the adjective.",
+        "adjective_root": "stark",
+        "article_type": "no article"
+      },
+      {
+        "question": "Das ist eine .... Geschichte.",
+        "choices": ["interessante", "interessanter", "interessanten", "interessantes"],
+        "correct_answer": "interessante",
+        "explanation": "The adjective 'interessant' is declined as 'interessante' because 'Geschichte' is feminine and nominative, and the indefinite article 'eine' requires the weak ending '-e' for the adjective.",
+        "adjective_root": "interessant",
+        "article_type": "indefinite"
+      },
+      {
+        "question": "Ich lese das .... Buch.",
+        "choices": ["spannende", "spannender", "spannenden", "spannendes"],
+        "correct_answer": "spannende",
+        "explanation": "The adjective 'spannend' is declined as 'spannende' because 'Buch' is neuter and accusative, and the definite article 'das' requires the weak ending '-e' for the adjective.",
+        "adjective_root": "spannend",
+        "article_type": "definite"
+      },
+      {
+        "question": "Wir haben einen .... Lehrer getroffen.",
+        "choices": ["klugen", "kluger", "kluges", "kluge"],
+        "correct_answer": "klugen",
+        "explanation": "The adjective 'klug' is declined as 'klugen' because 'Lehrer' is masculine and accusative, and the indefinite article 'einen' requires the strong ending '-en' for the adjective.",
+        "adjective_root": "klug",
+        "article_type": "indefinite"
+      },
+      {
+        "question": "Das ist eine .... Katze.",
+        "choices": ["lustige", "lustiger", "lustigen", "lustiges"],
+        "correct_answer": "lustige",
+        "explanation": "The adjective 'lustig' is declined as 'lustige' because 'Katze' is feminine and nominative, and the indefinite article 'eine' requires the weak ending '-e' for the adjective.",
+        "adjective_root": "lustig",
+        "article_type": "indefinite"
+      },
+      {
+        "question": "Ich habe .... Schokolade gegessen.",
+        "choices": ["dunkle", "dunkler", "dunklen", "dunkles"],
+        "correct_answer": "dunkle",
+        "explanation": "The adjective 'dunkel' is declined as 'dunkle' because 'Schokolade' is feminine and accusative, and there is no article, so it requires the strong ending '-e' for the adjective.",
+        "adjective_root": "dunkel",
+        "article_type": "no article"
+      },
+      {
+        "question": "Er ist ein .... Mann.",
+        "choices": ["freundlicher", "freundliches", "freundlichen", "freundliche"],
+        "correct_answer": "freundlicher",
+        "explanation": "The adjective 'freundlich' is declined as 'freundlicher' because 'Mann' is masculine and nominative, and the indefinite article 'ein' requires the weak ending '-er' for the adjective.",
+        "adjective_root": "freundlich",
+        "article_type": "indefinite"
+      },
+      {
+        "question": "Das ist das .... Auto.",
+        "choices": ["schnelle", "schneller", "schnellen", "schnelles"],
+        "correct_answer": "schnelle",
+        "explanation": "The adjective 'schnell' is declined as 'schnelle' because 'Auto' is neuter and nominative, and the definite article 'das' requires the weak ending '-e' for the adjective.",
+        "adjective_root": "schnell",
+        "article_type": "definite"
+      },
+      {
+        "question": "Ich wohne in einem .... Haus.",
+        "choices": ["modernen", "moderne", "moderner", "modernes"],
+        "correct_answer": "modernen",
+        "explanation": "The adjective 'modern' is declined as 'modernen' because 'Haus' is neuter and dative, and the indefinite article 'einem' requires the weak ending '-en' for the adjective.",
+        "adjective_root": "modern",
+        "article_type": "indefinite"
+      },
+      {
+        "question": "Das ist eine .... Blume.",
+        "choices": ["rote", "roten", "rotes", "roter"],
+        "correct_answer": "rote",
+        "explanation": "The adjective 'rot' is declined as 'rote' because 'Blume' is feminine and nominative, and the indefinite article 'eine' requires the weak ending '-e' for the adjective.",
+        "adjective_root": "rot",
+        "article_type": "indefinite"
+      },
+      {
+        "question": "Wir essen im .... Restaurant.",
+        "choices": ["neuen", "neue", "neues", "neuer"],
+        "correct_answer": "neuen",
+        "explanation": "The adjective 'neu' is declined as 'neuen' because 'Restaurant' is neuter and dative, and the definite article 'im' (in dem) requires the weak ending '-en' for the adjective.",
+        "adjective_root": "neu",
+        "article_type": "definite"
+      },
+      {
+        "question": "Das ist ein .... Baum.",
+        "choices": ["hoher", "hohes", "hohen", "hohe"],
+        "correct_answer": "hoher",
+        "explanation": "The adjective 'hoch' is declined as 'hoher' because 'Baum' is masculine and nominative, and the indefinite article 'ein' requires the weak ending '-er' for the adjective.",
+        "adjective_root": "hoch",
+        "article_type": "indefinite"
+      },
+      {
+        "question": "Ich sehe das .... Kind.",
+        "choices": ["kleine", "kleines", "kleiner", "kleinen"],
+        "correct_answer": "kleine",
+        "explanation": "The adjective 'klein' is declined as 'kleine' because 'Kind' is neuter and accusative, and the definite article 'das' requires the weak ending '-e' for the adjective.",
+        "adjective_root": "klein",
+        "article_type": "definite"
+      },
+      {
+        "question": "Er hat eine .... Idee.",
+        "choices": ["gute", "guter", "guten", "gutes"],
+        "correct_answer": "gute",
+        "explanation": "The adjective 'gut' is declined as 'gute' because 'Idee' is feminine and accusative, and the indefinite article 'eine' requires the weak ending '-e' for the adjective.",
+        "adjective_root": "gut",
+        "article_type": "indefinite"
+      },
+      {
+        "question": "Das ist ein .... Mann.",
+        "choices": ["netter", "nettes", "netten", "nette"],
+        "correct_answer": "netter",
+        "explanation": "The adjective 'nett' is declined as 'netter' because 'Mann' is masculine and nominative, and the indefinite article 'ein' requires the weak ending '-er' for the adjective.",
+        "adjective_root": "nett",
+        "article_type": "indefinite"
+      },
+      {
+        "question": "Ich sehe eine .... Frau.",
+        "choices": ["junge", "junger", "junges", "jungen"],
+        "correct_answer": "junge",
+        "explanation": "The adjective 'jung' is declined as 'junge' because 'Frau' is feminine and accusative, and the indefinite article 'eine' requires the weak ending '-e' for the adjective.",
+        "adjective_root": "jung",
+        "article_type": "indefinite"
+      },
+      {
+        "question": "Er hat .... Wasser getrunken.",
+        "choices": ["klares", "klarer", "klaren", "klare"],
+        "correct_answer": "klares",
+        "explanation": "The adjective 'klar' is declined as 'klares' because 'Wasser' is neuter and accusative, and there is no article, so it requires the strong ending '-es' for the adjective.",
+        "adjective_root": "klar",
+        "article_type": "no article"
+      },
+      {
+        "question": "Das ist das .... Problem.",
+        "choices": ["große", "großer", "großen", "großes"],
+        "correct_answer": "große",
+        "explanation": "The adjective 'groß' is declined as 'große' because 'Problem' is neuter and nominative, and the definite article 'das' requires the weak ending '-e' for the adjective.",
+        "adjective_root": "groß",
+        "article_type": "definite"
+      },
+      {
+        "question": "Das ist ein .... Garten.",
+        "choices": ["schöner", "schönes", "schönen", "schöne"],
+        "correct_answer": "schöner",
+        "explanation": "The adjective 'schön' is declined as 'schöner' because 'Garten' is masculine and nominative, and the indefinite article 'ein' requires the weak ending '-er' for the adjective.",
+        "adjective_root": "schön",
+        "article_type": "indefinite"
+      },
+      {
+        "question": "Er hat das .... Brot gegessen.",
+        "choices": ["frische", "frischen", "frischer", "frisches"],
+        "correct_answer": "frische",
+        "explanation": "The adjective 'frisch' is declined as 'frische' because 'Brot' is neuter and accusative, and the definite article 'das' requires the weak ending '-e' for the adjective.",
+        "adjective_root": "frisch",
+        "article_type": "definite"
+      },
+      {
+        "question": "Das ist ein .... Hund.",
+        "choices": ["freundlicher", "freundliche", "freundliches", "freundlichen"],
+        "correct_answer": "freundlicher",
+        "explanation": "The adjective 'freundlich' is declined as 'freundlicher' because 'Hund' is masculine and nominative, and the indefinite article 'ein' requires the weak ending '-er' for the adjective.",
+        "adjective_root": "freundlich",
+        "article_type": "indefinite"
+      },
+      {
+        "question": "Ich habe eine .... Blume gepflückt.",
+        "choices": ["bunte", "bunter", "buntes", "bunten"],
+        "correct_answer": "bunte",
+        "explanation": "The adjective 'bunt' is declined as 'bunte' because 'Blume' is feminine and accusative, and the indefinite article 'eine' requires the weak ending '-e' for the adjective.",
+        "adjective_root": "bunt",
+        "article_type": "indefinite"
+      },
+      {
+        "question": "Wir haben das .... Haus gekauft.",
+        "choices": ["neue", "neuer", "neuen", "neues"],
+        "correct_answer": "neue",
+        "explanation": "The adjective 'neu' is declined as 'neue' because 'Haus' is neuter and accusative, and the definite article 'das' requires the weak ending '-e' for the adjective.",
+        "adjective_root": "neu",
+        "article_type": "definite"
+      },
+      {
+        "question": "Ich wohne in einer .... Stadt.",
+        "choices": ["kleinen", "kleine", "kleines", "kleiner"],
+        "correct_answer": "kleinen",
+        "explanation": "The adjective 'klein' is declined as 'kleinen' because 'Stadt' is feminine and dative, and the indefinite article 'einer' requires the weak ending '-en' for the adjective.",
+        "adjective_root": "klein",
+        "article_type": "indefinite"
+      },
+      {
+        "question": "Er trinkt .... Kaffee.",
+        "choices": ["heißen", "heißer", "heiße", "heißes"],
+        "correct_answer": "heißen",
+        "explanation": "The adjective 'heiß' is declined as 'heißen' because 'Kaffee' is masculine and accusative, and there is no article, so it requires the strong ending '-en' for the adjective.",
+        "adjective_root": "heiß",
+        "article_type": "no article"
+      },
+      {
+        "question": "Das ist ein .... See.",
+        "choices": ["tiefes", "tiefer", "tiefen", "tiefe"],
+        "correct_answer": "tiefer",
+        "explanation": "The adjective 'tief' is declined as 'tiefer' because 'See' is masculine and nominative, and the indefinite article 'ein' requires the weak ending '-er' for the adjective.",
+        "adjective_root": "tief",
+        "article_type": "indefinite"
+      },
+      {
+        "question": "Ich habe eine .... Antwort bekommen.",
+        "choices": ["klare", "klaren", "klares", "klarer"],
+        "correct_answer": "klare",
+        "explanation": "The adjective 'klar' is declined as 'klare' because 'Antwort' is feminine and accusative, and the indefinite article 'eine' requires the weak ending '-e' for the adjective.",
+        "adjective_root": "klar",
+        "article_type": "indefinite"
+      },
+      {
+        "question": "Sie hat das .... Spiel gewonnen.",
+        "choices": ["spannende", "spannender", "spannendes", "spannenden"],
+        "correct_answer": "spannende",
+        "explanation": "The adjective 'spannend' is declined as 'spannende' because 'Spiel' is neuter and accusative, and the definite article 'das' requires the weak ending '-e' for the adjective.",
+        "adjective_root": "spannend",
+        "article_type": "definite"
+      }
+    ]
+  }
+  

@@ -1,0 +1,1650 @@
+{
+  "nouns": [
+    {
+      "artikel": "der",
+      "noun": "Kopf",
+      "definition": "head",
+      "examples": ["Ich hebe den Kopf und sehe meine Freundin an."],
+      "emoji": "🧑‍🦱"
+    },
+    {
+      "artikel": "die",
+      "noun": "Freundin",
+      "definition": "girlfriend",
+      "examples": ["Meine Freundin sieht mein Handy an."],
+      "emoji": "👩‍❤️‍👨"
+    },
+    {
+      "artikel": "das",
+      "noun": "Handy",
+      "definition": "mobile phone",
+      "examples": ["Ich habe mein Handy 76-mal in die Hand genommen."],
+      "emoji": "📱"
+    },
+    {
+      "artikel": "der",
+      "noun": "Schock",
+      "definition": "shock",
+      "examples": ["Ziemlich genervt. Schock!"],
+      "emoji": "😲"
+    },
+    {
+      "artikel": "die",
+      "noun": "Minute",
+      "definition": "minute",
+      "examples": ["Gestern waren es 3 Stunden und 21 Minuten."],
+      "emoji": "⏱️"
+    },
+    {
+      "artikel": "die",
+      "noun": "Suchmaschine",
+      "definition": "search engine",
+      "examples": ["Ich tippe das in die Suchmaschine."],
+      "emoji": "🔍"
+    },
+    {
+      "artikel": "das",
+      "noun": "Netzwerk",
+      "definition": "network",
+      "examples": ["Ich habe soziale Netzwerke besucht."],
+      "emoji": "🌐"
+    },
+    {
+      "artikel": "die",
+      "noun": "Aktivität",
+      "definition": "activity",
+      "examples": ["Man kann heute alle möglichen Alltagsaktivitäten per Smartphone erledigen."],
+      "emoji": "🎯"
+    },
+    {
+      "artikel": "die",
+      "noun": "Community",
+      "definition": "community",
+      "examples": ["Es ist spannend, wie die Community reagiert."],
+      "emoji": "👥"
+    },
+    {
+      "artikel": "das",
+      "noun": "Wetter",
+      "definition": "weather",
+      "examples": ["Ich habe das Wetter gecheckt."],
+      "emoji": "☀️"
+    },
+    {
+      "artikel": "das",
+      "noun": "Ticket",
+      "definition": "ticket",
+      "examples": ["Ich habe ein Busticket gekauft."],
+      "emoji": "🎫"
+    },
+    {
+      "artikel": "die",
+      "noun": "Speisekarte",
+      "definition": "menu",
+      "examples": ["Ich habe die Speisekarte in der Bar gescannt."],
+      "emoji": "📜"
+    },
+    {
+      "artikel": "das",
+      "noun": "Bar",
+      "definition": "bar",
+      "examples": ["Ich habe die Speisekarte in der Bar gescannt."],
+      "emoji": "🍸"
+    },
+    {
+      "artikel": "die",
+      "noun": "Plattform",
+      "definition": "platform",
+      "examples": ["Die meisten von uns sind auf Social-Media-Plattformen aktiv."],
+      "emoji": "💻"
+    },
+    {
+      "artikel": "die",
+      "noun": "Post",
+      "definition": "post",
+      "examples": ["Neue Posts machen neugierig."],
+      "emoji": "📮"
+    },
+    {
+      "artikel": "das",
+      "noun": "Foto",
+      "definition": "photo",
+      "examples": ["Ich habe Fotos gemacht und bearbeitet."],
+      "emoji": "📷"
+    },
+    {
+      "artikel": "die",
+      "noun": "Daten",
+      "definition": "data",
+      "examples": ["Ich habe Daten heruntergeladen und hochgeladen."],
+      "emoji": "💾"
+    },
+    {
+      "artikel": "der",
+      "noun": "Alltag",
+      "definition": "everyday life",
+      "examples": ["Man kann heute viele Alltagsaktivitäten per Smartphone erledigen."],
+      "emoji": "🗓️"
+    },
+    {
+      "artikel": "die",
+      "noun": "Stunde",
+      "definition": "hour",
+      "examples": ["Gestern waren es 3 Stunden und 21 Minuten."],
+      "emoji": "⏰"
+    },
+    {
+      "artikel": "das",
+      "noun": "Spiel",
+      "definition": "game",
+      "examples": ["Ich habe gespielt."],
+      "emoji": "🎮"
+    },
+    {
+      "artikel": "der",
+      "noun": "Mensch",
+      "definition": "man, human",
+      "examples": ["Mensch, das nervt!"],
+      "emoji": "🧑"
+    },
+    {
+      "artikel": "das",
+      "noun": "Handy",
+      "definition": "mobile phone",
+      "examples": ["Ich habe mein Handy 76-mal in die Hand genommen."],
+      "emoji": "📱"
+    },
+    {
+      "artikel": "der",
+      "noun": "Kopf",
+      "definition": "head",
+      "examples": ["Ich hebe den Kopf und sehe meine Freundin an."],
+      "emoji": "🧑‍🦱"
+    },
+    {
+      "artikel": "die",
+      "noun": "Freundin",
+      "definition": "girlfriend",
+      "examples": ["Meine Freundin sieht mein Handy an."],
+      "emoji": "👩‍❤️‍👨"
+    },
+    {
+      "artikel": "der",
+      "noun": "Schock",
+      "definition": "shock",
+      "examples": ["Ziemlich genervt. Schock!"],
+      "emoji": "😲"
+    },
+    {
+      "artikel": "die",
+      "noun": "Minute",
+      "definition": "minute",
+      "examples": ["Gestern waren es 3 Stunden und 21 Minuten."],
+      "emoji": "⏱️"
+    },
+    {
+      "artikel": "die",
+      "noun": "Suchmaschine",
+      "definition": "search engine",
+      "examples": ["Ich tippe das in die Suchmaschine."],
+      "emoji": "🔍"
+    },
+    {
+      "artikel": "das",
+      "noun": "Netzwerk",
+      "definition": "network",
+      "examples": ["Ich habe soziale Netzwerke besucht."],
+      "emoji": "🌐"
+    },
+    {
+      "artikel": "die",
+      "noun": "Aktivität",
+      "definition": "activity",
+      "examples": ["Man kann heute alle möglichen Alltagsaktivitäten per Smartphone erledigen."],
+      "emoji": "🎯"
+    },
+    {
+      "artikel": "die",
+      "noun": "Community",
+      "definition": "community",
+      "examples": ["Es ist spannend, wie die Community reagiert."],
+      "emoji": "👥"
+    },
+    {
+      "artikel": "das",
+      "noun": "Wetter",
+      "definition": "weather",
+      "examples": ["Ich habe das Wetter gecheckt."],
+      "emoji": "☀️"
+    },
+    {
+      "artikel": "das",
+      "noun": "Ticket",
+      "definition": "ticket",
+      "examples": ["Ich habe ein Busticket gekauft."],
+      "emoji": "🎫"
+    },
+    {
+      "artikel": "die",
+      "noun": "Speisekarte",
+      "definition": "menu",
+      "examples": ["Ich habe die Speisekarte in der Bar gescannt."],
+      "emoji": "📜"
+    },
+    {
+      "artikel": "das",
+      "noun": "Bar",
+      "definition": "bar",
+      "examples": ["Ich habe die Speisekarte in der Bar gescannt."],
+      "emoji": "🍸"
+    },
+    {
+      "artikel": "die",
+      "noun": "Plattform",
+      "definition": "platform",
+      "examples": ["Die meisten von uns sind auf Social-Media-Plattformen aktiv."],
+      "emoji": "💻"
+    },
+    {
+      "artikel": "die",
+      "noun": "Post",
+      "definition": "post",
+      "examples": ["Neue Posts machen neugierig."],
+      "emoji": "📮"
+    },
+    {
+      "artikel": "das",
+      "noun": "Foto",
+      "definition": "photo",
+      "examples": ["Ich habe Fotos gemacht und bearbeitet."],
+      "emoji": "📷"
+    },
+    {
+      "artikel": "die",
+      "noun": "Daten",
+      "definition": "data",
+      "examples": ["Ich habe Daten heruntergeladen und hochgeladen."],
+      "emoji": "💾"
+    },
+    {
+      "artikel": "der",
+      "noun": "Alltag",
+      "definition": "everyday life",
+      "examples": ["Man kann heute viele Alltagsaktivitäten per Smartphone erledigen."],
+      "emoji": "🗓️"
+    },
+    {
+      "artikel": "die",
+      "noun": "Stunde",
+      "definition": "hour",
+      "examples": ["Gestern waren es 3 Stunden und 21 Minuten."],
+      "emoji": "⏰"
+    },
+    {
+      "artikel": "das",
+      "noun": "Spiel",
+      "definition": "game",
+      "examples": ["Ich habe gespielt."],
+      "emoji": "🎮"
+    },
+    {
+      "artikel": "das",
+      "noun": "Geld",
+      "definition": "money",
+      "examples": ["Ich habe Geld überwiesen."],
+      "emoji": "💰"
+    },
+    {
+      "artikel": "der",
+      "noun": "Bus",
+      "definition": "bus",
+      "examples": ["Ich habe ein Busticket gekauft."],
+      "emoji": "🚌"
+    },
+    {
+      "artikel": "die",
+      "noun": "Zeit",
+      "definition": "time",
+      "examples": ["Die Menschen verbringen immer mehr Zeit am Handy."],
+      "emoji": "⌛"
+    },
+    {
+      "artikel": "die",
+      "noun": "Neugier",
+      "definition": "curiosity",
+      "examples": ["Neue Posts machen neugierig."],
+      "emoji": "🤔"
+    },
+    {
+      "artikel": "die",
+      "noun": "Reaktion",
+      "definition": "reaction",
+      "examples": ["Es ist spannend, wie die Community reagiert."],
+      "emoji": "🔄"
+    },
+    {
+      "artikel": "das",
+      "noun": "Geld",
+      "definition": "money",
+      "examples": ["Ich habe Geld überwiesen."],
+      "emoji": "💰"
+    },
+    {
+      "artikel": "der",
+      "noun": "Bus",
+      "definition": "bus",
+      "examples": ["Ich habe ein Busticket gekauft."],
+      "emoji": "🚌"
+    },
+    {
+      "artikel": "die",
+      "noun": "Zeit",
+      "definition": "time",
+      "examples": ["Die Menschen verbringen immer mehr Zeit am Handy."],
+      "emoji": "⌛"
+    },
+    {
+      "artikel": "die",
+      "noun": "Neugier",
+      "definition": "curiosity",
+      "examples": ["Neue Posts machen neugierig."],
+      "emoji": "🤔"
+    },
+    {
+      "artikel": "die",
+      "noun": "Reaktion",
+      "definition": "reaction",
+      "examples": ["Es ist spannend, wie die Community reagiert."],
+      "emoji": "🔄"
+    },
+    {
+      "artikel": "der",
+      "noun": "Kochkurs",
+      "definition": "cooking class",
+      "examples": ["Der Kochkurs beginnt um 18 Uhr."],
+      "emoji": "👨‍🍳"
+    },
+    {
+      "artikel": "die",
+      "noun": "Pfanne",
+      "definition": "pan",
+      "examples": ["Die Pfanne ist heiß."],
+      "emoji": "🍳"
+    },
+    {
+      "artikel": "das",
+      "noun": "Sieb",
+      "definition": "sieve",
+      "examples": ["Das Sieb ist im Schrank."],
+      "emoji": "🪣"
+    },
+    {
+      "artikel": "der",
+      "noun": "Topf",
+      "definition": "pot",
+      "examples": ["Der Topf ist auf dem Herd."],
+      "emoji": "🍲"
+    },
+    {
+      "artikel": "die",
+      "noun": "Zeichnung",
+      "definition": "drawing",
+      "examples": ["Die Zeichnung ist sehr schön."],
+      "emoji": "🖌️"
+    },
+    {
+      "artikel": "das",
+      "noun": "Kochbuch",
+      "definition": "cookbook",
+      "examples": ["Das Kochbuch enthält viele leckere Rezepte."],
+      "emoji": "📚"
+    },
+    {
+      "artikel": "der",
+      "noun": "Teilnehmer",
+      "definition": "participant",
+      "examples": ["Die Teilnehmer des Kurses sind sehr motiviert."],
+      "emoji": "👥"
+    },
+    {
+      "artikel": "die",
+      "noun": "Ausbildung",
+      "definition": "training, education",
+      "examples": ["Die Ausbildung dauert drei Jahre."],
+      "emoji": "🎓"
+    },
+    {
+      "artikel": "der",
+      "noun": "Onkel",
+      "definition": "uncle",
+      "examples": ["Mein Onkel besucht uns am Wochenende."],
+      "emoji": "👨‍🦳"
+    },
+    {
+      "artikel": "das",
+      "noun": "Fernsehen",
+      "definition": "television",
+      "examples": ["Ich sehe gern Nachrichten im Fernsehen."],
+      "emoji": "📺"
+    },
+    {
+      "artikel": "das",
+      "noun": "Geschirr",
+      "definition": "dishes",
+      "examples": ["Das Geschirr ist sauber nach dem Spülen."],
+      "emoji": "🍽️"
+    },
+    {
+      "artikel": "die",
+      "noun": "Bohne",
+      "definition": "bean",
+      "examples": ["Ich esse gerne grüne Bohnen zum Abendessen."],
+      "emoji": "🌱"
+    },
+    {
+      "artikel": "das",
+      "noun": "Gute",
+      "definition": "good (something good)",
+      "examples": ["Kommt heute was Gutes im Fernsehen?"],
+      "emoji": "✨"
+    },
+    {
+      "artikel": "das",
+      "noun": "Rindfleisch",
+      "definition": "beef",
+      "examples": ["Ich koche heute Rindfleisch mit Gemüse."],
+      "emoji": "🥩"
+    },
+    {
+      "artikel": "das",
+      "noun": "Dunkeldinner",
+      "definition": "dining in the dark",
+      "examples": ["Das Dunkeldinner ist eine besondere Erfahrung."],
+      "emoji": "🍽️🌑"
+    },
+    {
+      "artikel": "die",
+      "noun": "Dunkelheit",
+      "definition": "darkness",
+      "examples": ["Die Dunkelheit macht das Erkennen schwer."],
+      "emoji": "🌌"
+    },
+    {
+      "artikel": "das",
+      "noun": "Dunkle",
+      "definition": "dark",
+      "examples": ["Was ist beim Essen im Dunklen schwierig?"],
+      "emoji": "🌑"
+    },
+    {
+      "artikel": "der",
+      "noun": "Eindruck",
+      "definition": "impression",
+      "examples": ["Mein erster Eindruck vom Restaurant war positiv."],
+      "emoji": "🖼️"
+    },
+    {
+      "artikel": "das",
+      "noun": "Erlebnis",
+      "definition": "experience",
+      "examples": ["Das Dunkeldinner war ein unvergessliches Erlebnis."],
+      "emoji": "🎉"
+    },
+    {
+      "artikel": "der",
+      "noun": "Gastraum",
+      "definition": "dining room (in a restaurant)",
+      "examples": ["Im Gastraum war es sehr gemütlich."],
+      "emoji": "🏠🍴"
+    },
+    {
+      "artikel": "der",
+      "noun": "Gedanke",
+      "definition": "thought",
+      "examples": ["Der Gedanke, im Dunkeln zu essen, ist faszinierend."],
+      "emoji": "💭"
+    },
+    {
+      "artikel": "der",
+      "noun": "Geruch",
+      "definition": "smell",
+      "examples": ["Der Geruch im Restaurant war angenehm."],
+      "emoji": "👃"
+    },
+    {
+      "artikel": "das",
+      "noun": "Licht",
+      "definition": "light",
+      "examples": ["Das Licht wurde im Raum gedimmt."],
+      "emoji": "💡"
+    },
+    {
+      "artikel": "das",
+      "noun": "Menü",
+      "definition": "three-course meal (in a restaurant)",
+      "examples": ["Das Menü beinhaltet eine Vorspeise, einen Hauptgang und ein Dessert."],
+      "emoji": "📜🍴"
+    },
+    {
+      "artikel": "die",
+      "noun": "Sorge",
+      "definition": "worry",
+      "examples": ["Ich habe keine Sorge über das Essen im Dunkelrestaurant."],
+      "emoji": "😟"
+    },
+    {
+      "artikel": "der",
+      "noun": "Vorraum",
+      "definition": "lobby, anteroom",
+      "examples": ["Im Vorraum warten die Gäste auf ihren Tisch."],
+      "emoji": "🏢"
+    },
+    {
+      "artikel": "das",
+      "noun": "Dunkelrestaurant",
+      "definition": "restaurant without lights, blind restaurant",
+      "examples": ["Das Dunkelrestaurant bietet eine einzigartige Erfahrung."],
+      "emoji": "🍽️🌑"
+    },
+    {
+      "artikel": "das",
+      "noun": "Ergebnis",
+      "definition": "outcome, result",
+      "examples": ["Das Ergebnis des Abends war eine unvergessliche Erfahrung."],
+      "emoji": "📊"
+    },
+    {
+      "artikel": "der",
+      "noun": "Sinn",
+      "definition": "sense",
+      "examples": ["Lernen Sie mit allen Sinnen."],
+      "emoji": "👁️👃👂👅✋"
+    },
+    {
+      "artikel": "die",
+      "noun": "Station",
+      "definition": "station",
+      "examples": ["An der nächsten Station müssen wir aussteigen."],
+      "emoji": "🚉"
+    },
+    {
+      "artikel": "das",
+      "noun": "Auge",
+      "definition": "eye",
+      "examples": ["Augen zu und entspannen!"],
+      "emoji": "👁️"
+    },
+    {
+      "artikel": "der",
+      "noun": "Beutel",
+      "definition": "bag",
+      "examples": ["Er trägt einen kleinen Beutel mit sich."],
+      "emoji": "🛍️"
+    },
+    {
+      "artikel": "die",
+      "noun": "Blume",
+      "definition": "flower",
+      "examples": ["Die Blumen im Garten sind wunderschön."],
+      "emoji": "🌸"
+    },
+    {
+      "artikel": "das",
+      "noun": "Bonbon",
+      "definition": "piece of candy",
+      "examples": ["Möchtest du ein Bonbon?"],
+      "emoji": "🍬"
+    },
+    {
+      "artikel": "der",
+      "noun": "Gegenstand",
+      "definition": "item, article, subject",
+      "examples": ["Auf dem Tisch liegen verschiedene Gegenstände."],
+      "emoji": "📦"
+    },
+    {
+      "artikel": "das",
+      "noun": "Parfüm",
+      "definition": "perfume",
+      "examples": ["Das Parfüm riecht wunderbar."],
+      "emoji": "🌹🧴"
+    },
+    {
+      "artikel": "der",
+      "noun": "Stoffbeutel",
+      "definition": "cloth bag",
+      "examples": ["Ich benutze einen Stoffbeutel zum Einkaufen."],
+      "emoji": "👜"
+    },
+    {
+      "artikel": "der",
+      "noun": "Zitronensaft",
+      "definition": "lemon juice",
+      "examples": ["Zitronensaft ist erfrischend und gesund."],
+      "emoji": "🍋"
+    },
+    {
+      "artikel": "die",
+      "noun": "Schulzeit",
+      "definition": "school time, time at school",
+      "examples": ["Die Schulzeit war eine schöne Zeit meines Lebens."],
+      "emoji": "🏫"
+    },
+    {
+      "artikel": "der",
+      "noun": "Altenpfleger",
+      "definition": "elderly care nurse",
+      "examples": ["Der Altenpfleger kümmert sich um die Senioren."],
+      "emoji": "👨‍⚕️"
+    },
+    {
+      "artikel": "die",
+      "noun": "Berufsschule",
+      "definition": "trade school",
+      "examples": ["In der Berufsschule lernen die Schüler praktische Fähigkeiten."],
+      "emoji": "🏭📘"
+    },
+    {
+      "artikel": "die",
+      "noun": "Elektrotechnik",
+      "definition": "electrical engineering",
+      "examples": ["Elektrotechnik ist ein komplexes Studienfach."],
+      "emoji": "⚡📘"
+    },
+    {
+      "artikel": "der",
+      "noun": "Hotelkaufmann",
+      "definition": "hotel manager",
+      "examples": ["Der Hotelkaufmann plant die Organisation des Hotels."],
+      "emoji": "🏨👔"
+    },
+    {
+      "artikel": "das",
+      "noun": "Klassentreffen",
+      "definition": "class reunion",
+      "examples": ["Das Klassentreffen findet jedes Jahr statt."],
+      "emoji": "🎓👥"
+    },
+    {
+      "artikel": "die",
+      "noun": "Lehre",
+      "definition": "apprenticeship",
+      "examples": ["Die Lehre als Elektriker dauert drei Jahre."],
+      "emoji": "🛠️"
+    },
+    {
+      "artikel": "das",
+      "noun": "Lieblingsfach",
+      "definition": "favorite subject",
+      "examples": ["Mein Lieblingsfach in der Schule war Mathematik."],
+      "emoji": "📚💖"
+    },
+    {
+      "artikel": "die",
+      "noun": "Note",
+      "definition": "grade",
+      "examples": ["Ich habe eine gute Note in Deutsch bekommen."],
+      "emoji": "📝"
+    },
+    {
+      "artikel": "das",
+      "noun": "Praktikum",
+      "definition": "practicum, internship",
+      "examples": ["Im Praktikum habe ich viel gelernt."],
+      "emoji": "💼"
+    },
+    {
+      "artikel": "die",
+      "noun": "Vorlesung",
+      "definition": "lecture",
+      "examples": ["Die Vorlesung beginnt um 10 Uhr."],
+      "emoji": "🎙️"
+    },
+    {
+      "artikel": "das",
+      "noun": "Zeugnis",
+      "definition": "report card",
+      "examples": ["Mein Zeugnis zeigt gute Leistungen in Mathematik."],
+      "emoji": "📄"
+    },
+    {
+      "artikel": "das",
+      "noun": "Au-pair",
+      "definition": "au pair",
+      "examples": ["Das Au-pair hilft der Familie bei der Kinderbetreuung."],
+      "emoji": "👩‍👧"
+    },
+    {
+      "artikel": "die",
+      "noun": "Informatik",
+      "definition": "computer science",
+      "examples": ["Informatik ist ein wichtiges Fach für die Zukunft."],
+      "emoji": "💻"
+    },
+    {
+      "artikel": "das",
+      "noun": "Sportgeschäft",
+      "definition": "sports goods store",
+      "examples": ["Das Sportgeschäft verkauft Ausrüstung für viele Sportarten."],
+      "emoji": "🏟️🛒"
+    },
+    {
+      "artikel": "der",
+      "noun": "Steckbrief",
+      "definition": "personal description",
+      "examples": ["Im Steckbrief stehen meine Hobbys und Interessen."],
+      "emoji": "🖋️"
+    },
+    {
+      "artikel": "die",
+      "noun": "Zukunft",
+      "definition": "future",
+      "examples": ["Die Zukunft bietet viele Möglichkeiten."],
+      "emoji": "🔮"
+    },
+    {
+      "artikel": "das",
+      "noun": "Abitur",
+      "definition": "high school graduation",
+      "examples": ["Nach dem Abitur möchte ich studieren."],
+      "emoji": "🎓"
+    },
+    {
+      "artikel": "der/die",
+      "noun": "Arme",
+      "definition": "unfortunate person",
+      "examples": ["Der Arme hat sein Abitur nicht bestanden."],
+      "emoji": "😟"
+    },
+    {
+      "artikel": "der",
+      "noun": "Eintrag",
+      "definition": "entry",
+      "examples": ["Ich habe einen neuen Eintrag ins Tagebuch geschrieben."],
+      "emoji": "📓"
+    },
+    {
+      "artikel": "die",
+      "noun": "Englischlehrerin",
+      "definition": "English teacher (f.)",
+      "examples": ["Die Englischlehrerin gibt uns viele Hausaufgaben."],
+      "emoji": "👩‍🏫"
+    },
+    {
+      "artikel": "die",
+      "noun": "Erinnerung",
+      "definition": "memory",
+      "examples": ["Ich habe schöne Erinnerungen an die Schulzeit."],
+      "emoji": "🧠"
+    },
+    {
+      "artikel": "die",
+      "noun": "Ferien",
+      "definition": "vacation",
+      "examples": ["In den Ferien fahren wir ans Meer."],
+      "emoji": "🏖️"
+    },
+    {
+      "artikel": "die",
+      "noun": "Hauptsache",
+      "definition": "main thing",
+      "examples": ["Die Hauptsache ist, dass du glücklich bist."],
+      "emoji": "🔑"
+    },
+    {
+      "artikel": "die",
+      "noun": "Kunst",
+      "definition": "art",
+      "examples": ["Kunst ist mein Lieblingsfach in der Schule."],
+      "emoji": "🎨"
+    },
+    {
+      "artikel": "die",
+      "noun": "Kunststunde",
+      "definition": "art class",
+      "examples": ["In der Kunststunde malen wir ein Bild."],
+      "emoji": "🖌️"
+    },
+    {
+      "artikel": "das",
+      "noun": "Land",
+      "definition": "countryside",
+      "examples": ["Elsa hat früher auf dem Land gewohnt."],
+      "emoji": "🏞️"
+    },
+    {
+      "artikel": "die",
+      "noun": "Lieblingsstunde",
+      "definition": "favorite class",
+      "examples": ["Meine Lieblingsstunde ist Kunst."],
+      "emoji": "⭐📚"
+    },
+    {
+      "artikel": "die",
+      "noun": "Mathe",
+      "definition": "math",
+      "examples": ["Mathe ist ein wichtiges Fach in der Schule."],
+      "emoji": "➗"
+    },
+    {
+      "artikel": "der",
+      "noun": "Mathelehrer",
+      "definition": "math teacher (m.)",
+      "examples": ["Unser Mathelehrer erklärt die Aufgaben sehr gut."],
+      "emoji": "👨‍🏫"
+    },
+    {
+      "artikel": "der",
+      "noun": "Riesenspaß",
+      "definition": "lots of fun",
+      "examples": ["Die Kunststunde hat mir Riesenspaß gemacht."],
+      "emoji": "🎉"
+    },
+    {
+      "artikel": "der",
+      "noun": "Schulfreund",
+      "definition": "friend from school",
+      "examples": ["Mein Schulfreund und ich lernen oft zusammen."],
+      "emoji": "👫"
+    },
+    {
+      "artikel": "die",
+      "noun": "Sommerferien",
+      "definition": "summer vacation",
+      "examples": ["Die Sommerferien sind meine Lieblingszeit im Jahr."],
+      "emoji": "🏖️☀️"
+    },
+    {
+      "artikel": "die",
+      "noun": "Tür",
+      "definition": "door",
+      "examples": ["Bitte schließe die Tür, es ist kalt draußen."],
+      "emoji": "🚪"
+    },
+    {
+      "artikel": "der",
+      "noun": "Unterricht",
+      "definition": "lessons, instruction",
+      "examples": ["Der Unterricht beginnt um 8 Uhr."],
+      "emoji": "📘"
+    },
+    {
+      "artikel": "der",
+      "noun": "Vokabeltest",
+      "definition": "vocabulary test",
+      "examples": ["Der Vokabeltest war heute sehr einfach."],
+      "emoji": "📝"
+    },
+    {
+      "artikel": "die",
+      "noun": "Hausaufgabe",
+      "definition": "homework",
+      "examples": ["Ich muss noch meine Hausaufgaben machen."],
+      "emoji": "📚"
+    },
+    {
+      "artikel": "die",
+      "noun": "Schuluniform",
+      "definition": "school uniform",
+      "examples": ["Die Schüler tragen heute ihre Schuluniform."],
+      "emoji": "👔"
+    },
+    {
+      "artikel": "der",
+      "noun": "Beitrag",
+      "definition": "contribution",
+      "examples": ["Jeder Schüler hat einen Beitrag zur Diskussion geleistet."],
+      "emoji": "💬"
+    },
+    {
+      "artikel": "die",
+      "noun": "Theatergruppe",
+      "definition": "theater troupe",
+      "examples": ["Die Theatergruppe probt ein neues Stück."],
+      "emoji": "🎭"
+    },
+    {
+      "artikel": "der",
+      "noun": "Kommentar",
+      "definition": "commentary",
+      "examples": ["Der Kommentar zu meinem Beitrag war positiv."],
+      "emoji": "🗨️"
+    },
+    {
+      "artikel": "das",
+      "noun": "Trainingsprogramm",
+      "definition": "training program",
+      "examples": ["Das Trainingsprogramm ist sehr intensiv."],
+      "emoji": "🏋️‍♂️"
+    },
+    {
+      "artikel": "der",
+      "noun": "Transport",
+      "definition": "transport",
+      "examples": ["Der Transport der Waren dauert drei Tage."],
+      "emoji": "🚚"
+    },
+    {
+      "artikel": "die",
+      "noun": "WG",
+      "definition": "apartment share, housing cooperative",
+      "examples": ["In unserer WG wohnen vier Leute."],
+      "emoji": "🏠👫"
+    },
+    {
+      "artikel": "das",
+      "noun": "Mehl",
+      "definition": "flour",
+      "examples": ["Ich brauche Mehl, um einen Kuchen zu backen."],
+      "emoji": "🌾"
+    },
+    {
+      "artikel": "die",
+      "noun": "Veränderung",
+      "definition": "changes, alterations",
+      "examples": ["Die Veränderung im Plan war notwendig."],
+      "emoji": "🔄"
+    },
+    {
+      "artikel": "der",
+      "noun": "Ball",
+      "definition": "ball (dance or formal event)",
+      "examples": ["Wir gehen heute Abend auf einen Ball."],
+      "emoji": "🎉"
+    },
+    {
+      "artikel": "die",
+      "noun": "Oper",
+      "definition": "opera",
+      "examples": ["Die Oper in Wien ist weltberühmt."],
+      "emoji": "🎭"
+    },
+    {
+      "artikel": "das",
+      "noun": "Univiertel",
+      "definition": "university district",
+      "examples": ["Das Univiertel ist voller Cafés und Bars."],
+      "emoji": "🎓🏙️"
+    },
+    {
+      "artikel": "das",
+      "noun": "Blatt",
+      "definition": "sheet of paper",
+      "examples": ["Ich habe ein Blatt Papier für die Notizen genommen."],
+      "emoji": "📄"
+    },
+    {
+      "artikel": "die",
+      "noun": "Disco",
+      "definition": "discotheque",
+      "examples": ["Am Samstag gehen wir in die Disco tanzen."],
+      "emoji": "💃"
+    },
+    {
+      "artikel": "das",
+      "noun": "Forum",
+      "definition": "forum",
+      "examples": ["Im Forum wurden viele interessante Themen diskutiert."],
+      "emoji": "💬"
+    },
+    {
+      "artikel": "der",
+      "noun": "Abschluss",
+      "definition": "degree",
+      "examples": ["Der Abschluss meiner Ausbildung war sehr erfolgreich."],
+      "emoji": "🎓"
+    },
+    {
+      "artikel": "das",
+      "noun": "Bundesland",
+      "definition": "province, state",
+      "examples": ["Bayern ist ein Bundesland in Deutschland."],
+      "emoji": "📍"
+    },
+    {
+      "artikel": "die",
+      "noun": "Hauptschule",
+      "definition": "school up to 9th grade",
+      "examples": ["Die Hauptschule endet in der neunten Klasse."],
+      "emoji": "🏫"
+    },
+    {
+      "artikel": "die",
+      "noun": "Realschule",
+      "definition": "school up to 10th grade",
+      "examples": ["Die Realschule bietet eine gute Vorbereitung auf das Berufsleben."],
+      "emoji": "📘"
+    },
+    {
+      "artikel": "das",
+      "noun": "Schulsystem",
+      "definition": "school system",
+      "examples": ["Das Schulsystem in Deutschland ist sehr vielfältig."],
+      "emoji": "🏫📚"
+    },
+    {
+      "artikel": "der",
+      "noun": "Schultyp",
+      "definition": "school type",
+      "examples": ["Es gibt verschiedene Schultypen in Deutschland."],
+      "emoji": "🏢"
+    },
+    {
+      "artikel": "der",
+      "noun": "Abendkurs",
+      "definition": "night class",
+      "examples": ["Ich besuche einen Abendkurs, um mein Deutsch zu verbessern."],
+      "emoji": "🌙📘"
+    },
+    {
+      "artikel": "die",
+      "noun": "Anglistik",
+      "definition": "English language and literature",
+      "examples": ["Anglistik ist mein Hauptfach an der Universität."],
+      "emoji": "📚🇬🇧"
+    },
+    {
+      "artikel": "die",
+      "noun": "Arbeitsstelle",
+      "definition": "job, position",
+      "examples": ["Meine neue Arbeitsstelle beginnt nächsten Monat."],
+      "emoji": "💼"
+    },
+    {
+      "artikel": "der",
+      "noun": "Bankkaufmann",
+      "definition": "banker, bank clerk",
+      "examples": ["Der Bankkaufmann arbeitet in einer großen Filiale."],
+      "emoji": "🏦"
+    },
+    {
+      "artikel": "das",
+      "noun": "Berufsleben",
+      "definition": "professional life",
+      "examples": ["Das Berufsleben ist oft eine Herausforderung."],
+      "emoji": "🏢"
+    },
+    {
+      "artikel": "die",
+      "noun": "Chemie",
+      "definition": "chemistry",
+      "examples": ["Chemie war mein Lieblingsfach in der Schule."],
+      "emoji": "⚗️"
+    },
+    {
+      "artikel": "die",
+      "noun": "Dauer",
+      "definition": "duration",
+      "examples": ["Die Dauer des Kurses beträgt drei Monate."],
+      "emoji": "⏳"
+    },
+    {
+      "artikel": "das",
+      "noun": "Fach",
+      "definition": "subject (in school)",
+      "examples": ["Mein Lieblingsfach ist Geschichte."],
+      "emoji": "📖"
+    },
+    {
+      "artikel": "der",
+      "noun": "Ferienclub",
+      "definition": "resort",
+      "examples": ["Der Ferienclub bietet viele Freizeitmöglichkeiten."],
+      "emoji": "🏖️"
+    },
+    {
+      "artikel": "die",
+      "noun": "Grundschule",
+      "definition": "elementary school",
+      "examples": ["Die Kinder gehen jeden Morgen zur Grundschule."],
+      "emoji": "🏫"
+    },
+    {
+      "artikel": "der",
+      "noun": "Hauptschulabschluss",
+      "definition": "graduation after 9th grade",
+      "examples": ["Der Hauptschulabschluss ist der erste Schulabschluss in Deutschland."],
+      "emoji": "🎓"
+    },
+    {
+      "artikel": "das",
+      "noun": "Internat",
+      "definition": "boarding school",
+      "examples": ["Mein Bruder geht in ein Internat in der Schweiz."],
+      "emoji": "🏫"
+    },
+    {
+      "artikel": "die",
+      "noun": "Karriere",
+      "definition": "career",
+      "examples": ["Sie plant eine Karriere im Marketing."],
+      "emoji": "📈"
+    },
+    {
+      "artikel": "die",
+      "noun": "Physik",
+      "definition": "physics",
+      "examples": ["Physik ist ein wichtiges Fach für Ingenieure."],
+      "emoji": "⚛️"
+    },
+    {
+      "artikel": "der",
+      "noun": "Realschulabschluss",
+      "definition": "graduation after 10th grade",
+      "examples": ["Der Realschulabschluss bietet viele Möglichkeiten für eine Ausbildung."],
+      "emoji": "🎓"
+    },
+    {
+      "artikel": "der",
+      "noun": "Schulabschluss",
+      "definition": "secondary school graduation",
+      "examples": ["Der Schulabschluss ist ein wichtiger Meilenstein."],
+      "emoji": "🎓"
+    },
+    {
+      "artikel": "die",
+      "noun": "Sportstunde",
+      "definition": "gym class",
+      "examples": ["In der Sportstunde spielen wir oft Fußball."],
+      "emoji": "⚽"
+    },
+    {
+      "artikel": "der",
+      "noun": "Stundenplan",
+      "definition": "schedule",
+      "examples": ["Mein Stundenplan für diese Woche ist sehr voll."],
+      "emoji": "📅"
+    },
+    {
+      "artikel": "die",
+      "noun": "Vorbereitung",
+      "definition": "preparation",
+      "examples": ["Die Vorbereitung für die Prüfung dauert mehrere Wochen."],
+      "emoji": "📖"
+    },
+    {
+      "artikel": "das",
+      "noun": "Klassenzimmer",
+      "definition": "classroom",
+      "examples": ["Das Klassenzimmer ist groß und hell."],
+      "emoji": "🏫"
+    },
+    {
+      "artikel": "die",
+      "noun": "Unterrichtszeit",
+      "definition": "class time",
+      "examples": ["Die Unterrichtszeit beginnt um 8 Uhr."],
+      "emoji": "⏰"
+    },
+    {
+      "artikel": "die",
+      "noun": "Vorliebe",
+      "definition": "preference",
+      "examples": ["Ich habe eine Vorliebe für Mathematik."],
+      "emoji": "❤️📚"
+    },
+    {
+      "artikel": "die",
+      "noun": "Datei",
+      "definition": "file",
+      "examples": ["Ich speichere die Datei auf meinem Computer."],
+      "emoji": "📂"
+    },
+    {
+      "artikel": "das",
+      "noun": "Online-Netzwerk",
+      "definition": "online network",
+      "examples": ["Ich nutze ein Online-Netzwerk, um mit Freunden zu chatten."],
+      "emoji": "🌐"
+    },
+    {
+      "artikel": "das/der",
+      "noun": "Radio",
+      "definition": "radio",
+      "examples": ["Das Radio spielt meine Lieblingsmusik."],
+      "emoji": "📻"
+    },
+    {
+      "artikel": "das",
+      "noun": "Video",
+      "definition": "video",
+      "examples": ["Ich habe ein lustiges Video auf YouTube gesehen."],
+      "emoji": "📹"
+    },
+    {
+      "artikel": "die",
+      "noun": "Medien",
+      "definition": "media",
+      "examples": ["Die sozialen Medien sind heutzutage sehr wichtig."],
+      "emoji": "📰"
+    },
+    {
+      "artikel": "der",
+      "noun": "Bildschirm",
+      "definition": "screen, monitor",
+      "examples": ["Der Bildschirm meines Computers ist sehr groß."],
+      "emoji": "🖥️"
+    },
+    {
+      "artikel": "das",
+      "noun": "CD-Laufwerk",
+      "definition": "CD drive",
+      "examples": ["Mein Laptop hat kein CD-Laufwerk mehr."],
+      "emoji": "💿"
+    },
+    {
+      "artikel": "die",
+      "noun": "CD-ROM",
+      "definition": "CD-ROM",
+      "examples": ["Die CD-ROM enthält wichtige Daten."],
+      "emoji": "💽"
+    },
+    {
+      "artikel": "der",
+      "noun": "Drucker",
+      "definition": "printer",
+      "examples": ["Der Drucker ist kaputt und kann nicht mehr drucken."],
+      "emoji": "🖨️"
+    },
+    {
+      "artikel": "das",
+      "noun": "DVD-Laufwerk",
+      "definition": "DVD drive",
+      "examples": ["Mein Computer hat ein externes DVD-Laufwerk."],
+      "emoji": "📀"
+    },
+    {
+      "artikel": "der",
+      "noun": "Lautsprecher",
+      "definition": "speaker",
+      "examples": ["Die Lautsprecher geben einen klaren Sound wieder."],
+      "emoji": "🔊"
+    },
+    {
+      "artikel": "die",
+      "noun": "Maus",
+      "definition": "mouse",
+      "examples": ["Die Maus liegt neben der Tastatur."],
+      "emoji": "🖱️"
+    },
+    {
+      "artikel": "das",
+      "noun": "Papier",
+      "definition": "paper",
+      "examples": ["Das Papier ist leer, wir müssen neues kaufen."],
+      "emoji": "📄"
+    },
+    {
+      "artikel": "der/das",
+      "noun": "Tablet",
+      "definition": "tablet",
+      "examples": ["Das Tablet ist sehr praktisch für unterwegs."],
+      "emoji": "📱"
+    },
+    {
+      "artikel": "die",
+      "noun": "Tastatur",
+      "definition": "keyboard",
+      "examples": ["Die Tastatur hat beleuchtete Tasten."],
+      "emoji": "⌨️"
+    },
+    {
+      "artikel": "die",
+      "noun": "Web-Cam",
+      "definition": "webcam",
+      "examples": ["Die Web-Cam ist wichtig für Online-Meetings."],
+      "emoji": "📷"
+    },
+    {
+      "artikel": "das",
+      "noun": "E-Book",
+      "definition": "e-book",
+      "examples": ["Ich lese gerne Bücher auf meinem E-Book."],
+      "emoji": "📚📱"
+    },
+    {
+      "artikel": "das",
+      "noun": "Fernsehgerät",
+      "definition": "television set",
+      "examples": ["Das Fernsehgerät steht im Wohnzimmer."],
+      "emoji": "📺"
+    },
+    {
+      "artikel": "der",
+      "noun": "iPod",
+      "definition": "iPod",
+      "examples": ["Ich höre Musik auf meinem iPod."],
+      "emoji": "🎵"
+    },
+    {
+      "artikel": "das",
+      "noun": "Smartphone",
+      "definition": "smartphone",
+      "examples": ["Mein Smartphone hat eine tolle Kamera."],
+      "emoji": "📱"
+    },
+    {
+      "artikel": "die",
+      "noun": "Spielekonsole",
+      "definition": "video game console",
+      "examples": ["Wir spielen Mario Kart auf der Spielekonsole."],
+      "emoji": "🎮"
+    },
+    {
+      "artikel": "die",
+      "noun": "Umfrage",
+      "definition": "survey, poll",
+      "examples": ["Die Umfrage zeigt interessante Ergebnisse."],
+      "emoji": "📊"
+    },
+    {
+      "artikel": "die",
+      "noun": "Web-Adresse",
+      "definition": "web address, URL",
+      "examples": ["Bitte geben Sie die Web-Adresse in den Browser ein."],
+      "emoji": "🌐"
+    },
+    {
+      "artikel": "der/die",
+      "noun": "Letzte",
+      "definition": "last, final",
+      "examples": ["Der Letzte in der Reihe bekommt ein Geschenk."],
+      "emoji": "🔚"
+    },
+    {
+      "artikel": "das",
+      "noun": "Ohr",
+      "definition": "ear",
+      "examples": ["Ich habe ein Geräusch mit meinem rechten Ohr gehört."],
+      "emoji": "👂"
+    },
+    {
+      "artikel": "die",
+      "noun": "Runde",
+      "definition": "round",
+      "examples": ["Die nächste Runde des Spiels beginnt in einer Minute."],
+      "emoji": "🔄"
+    },
+    {
+      "artikel": "der",
+      "noun": "Buchverlag",
+      "definition": "book publisher",
+      "examples": ["Der Buchverlag veröffentlicht viele bekannte Autoren."],
+      "emoji": "📚"
+    },
+    {
+      "artikel": "der",
+      "noun": "Fußballer",
+      "definition": "soccer player",
+      "examples": ["Der Fußballer trainiert jeden Tag für das große Spiel."],
+      "emoji": "⚽"
+    },
+    {
+      "artikel": "der",
+      "noun": "Fußballprofi",
+      "definition": "soccer pro",
+      "examples": ["Der Fußballprofi spielt für einen berühmten Verein."],
+      "emoji": "🏆"
+    },
+    {
+      "artikel": "der",
+      "noun": "Lieblingsverein",
+      "definition": "favorite team",
+      "examples": ["Mein Lieblingsverein hat gestern das Spiel gewonnen."],
+      "emoji": "🎽"
+    },
+    {
+      "artikel": "das",
+      "noun": "Porträt",
+      "definition": "portrait, profile",
+      "examples": ["Das Porträt des Künstlers hängt im Museum."],
+      "emoji": "🖼️"
+    },
+    {
+      "artikel": "das",
+      "noun": "Produkt",
+      "definition": "product",
+      "examples": ["Dieses Produkt ist sehr beliebt bei Kunden."],
+      "emoji": "📦"
+    },
+    {
+      "artikel": "der",
+      "noun": "Rapper",
+      "definition": "rapper",
+      "examples": ["Der Rapper hat ein neues Album veröffentlicht."],
+      "emoji": "🎤"
+    },
+    {
+      "artikel": "das",
+      "noun": "Shooting",
+      "definition": "shooting (film)",
+      "examples": ["Das Shooting für den Film fand in Berlin statt."],
+      "emoji": "🎥"
+    },
+    {
+      "artikel": "das",
+      "noun": "Stadion",
+      "definition": "stadium",
+      "examples": ["Das Stadion war beim Finale ausverkauft."],
+      "emoji": "🏟️"
+    },
+    {
+      "artikel": "der",
+      "noun": "Traumberuf",
+      "definition": "dream job",
+      "examples": ["Mein Traumberuf ist Arzt."],
+      "emoji": "🌟"
+    },
+    {
+      "artikel": "die",
+      "noun": "Werbung",
+      "definition": "advertisement",
+      "examples": ["Die Werbung für das neue Produkt läuft im Fernsehen."],
+      "emoji": "📺"
+    },
+    {
+      "artikel": "die",
+      "noun": "Lösung",
+      "definition": "solution",
+      "examples": ["Die Lösung des Problems war überraschend einfach."],
+      "emoji": "🧩"
+    },
+    {
+      "artikel": "das",
+      "noun": "Dingsbums",
+      "definition": "thingy",
+      "examples": ["Kannst du mir das Dingsbums da drüben geben?"],
+      "emoji": "❓"
+    },
+    {
+      "artikel": "der",
+      "noun": "Actionfilm",
+      "definition": "action movie",
+      "examples": ["Der neue Actionfilm ist sehr spannend."],
+      "emoji": "🎬"
+    },
+    {
+      "artikel": "der",
+      "noun": "Fantasy-Film",
+      "definition": "fantasy movie",
+      "examples": ["Ich liebe Fantasy-Filme mit magischen Welten."],
+      "emoji": "🪄"
+    },
+    {
+      "artikel": "die",
+      "noun": "Komödie",
+      "definition": "comedy",
+      "examples": ["Die Komödie hat mich laut zum Lachen gebracht."],
+      "emoji": "😂"
+    },
+    {
+      "artikel": "der",
+      "noun": "Lieblingsschauspieler",
+      "definition": "favorite actor",
+      "examples": ["Mein Lieblingsschauspieler hat in diesem Film mitgespielt."],
+      "emoji": "🌟"
+    },
+    {
+      "artikel": "die",
+      "noun": "Romanze",
+      "definition": "romance",
+      "examples": ["Die Romanze war sehr emotional und schön."],
+      "emoji": "💞"
+    },
+    {
+      "artikel": "der",
+      "noun": "Thriller",
+      "definition": "thriller",
+      "examples": ["Der Thriller war so spannend, dass ich nicht weggucken konnte."],
+      "emoji": "🔪"
+    },
+    {
+      "artikel": "der",
+      "noun": "Ausländer",
+      "definition": "foreigner",
+      "examples": ["Viele Ausländer leben in Deutschland."],
+      "emoji": "🌍"
+    },
+    {
+      "artikel": "der",
+      "noun": "Enkel",
+      "definition": "grandchild",
+      "examples": ["Der Enkel besucht seine Großeltern jeden Sonntag."],
+      "emoji": "👶"
+    },
+    {
+      "artikel": "der",
+      "noun": "Gastarbeiter",
+      "definition": "guest worker",
+      "examples": ["In den 1960er Jahren kamen viele Gastarbeiter nach Deutschland."],
+      "emoji": "👷"
+    },
+    {
+      "artikel": "die",
+      "noun": "Heimat",
+      "definition": "homeland, hometown",
+      "examples": ["Ich vermisse meine Heimat sehr."],
+      "emoji": "🏡"
+    },
+    {
+      "artikel": "der",
+      "noun": "Kleinbus",
+      "definition": "minibus",
+      "examples": ["Wir fahren mit dem Kleinbus in den Urlaub."],
+      "emoji": "🚐"
+    },
+    {
+      "artikel": "der",
+      "noun": "Konflikt",
+      "definition": "conflict",
+      "examples": ["Der Konflikt wurde durch ein Gespräch gelöst."],
+      "emoji": "⚡"
+    },
+    {
+      "artikel": "das",
+      "noun": "Lachen",
+      "definition": "laughter",
+      "examples": ["Das Lachen der Kinder ist ansteckend."],
+      "emoji": "😂"
+    },
+    {
+      "artikel": "die",
+      "noun": "Sechzigerjahre",
+      "definition": "1960s",
+      "examples": ["Die Mode der Sechzigerjahre war sehr bunt."],
+      "emoji": "🕺"
+    },
+    {
+      "artikel": "die",
+      "noun": "Versöhnung",
+      "definition": "redemption",
+      "examples": ["Die Versöhnung zwischen den Freunden war herzlich."],
+      "emoji": "🤝"
+    },
+    {
+      "artikel": "das",
+      "noun": "Vorurteil",
+      "definition": "prejudice",
+      "examples": ["Wir sollten versuchen, Vorurteile zu vermeiden."],
+      "emoji": "❌"
+    },
+    {
+      "artikel": "der",
+      "noun": "Zuschauer",
+      "definition": "viewer, spectator",
+      "examples": ["Die Zuschauer applaudierten laut nach der Vorstellung."],
+      "emoji": "👀"
+    },
+    {
+      "artikel": "der",
+      "noun": "Durchschnitt",
+      "definition": "average",
+      "examples": ["Der Film war nur Durchschnitt und nicht besonders spannend."],
+      "emoji": "📊"
+    },
+    {
+      "artikel": "die",
+      "noun": "Handlung",
+      "definition": "plot, action",
+      "examples": ["Die Handlung des Films war sehr interessant."],
+      "emoji": "🎥"
+    },
+    {
+      "artikel": "der",
+      "noun": "Hauptdarsteller",
+      "definition": "leading actor",
+      "examples": ["Der Hauptdarsteller hat eine großartige Leistung gezeigt."],
+      "emoji": "🌟"
+    },
+    {
+      "artikel": "das",
+      "noun": "Highlight",
+      "definition": "highlight",
+      "examples": ["Das Highlight des Films war der spannende Showdown."],
+      "emoji": "✨"
+    },
+    {
+      "artikel": "das",
+      "noun": "Klischee",
+      "definition": "cliché",
+      "examples": ["Der Film bedient viele bekannte Klischees."],
+      "emoji": "💭"
+    },
+    {
+      "artikel": "der",
+      "noun": "Schauspieler",
+      "definition": "actor",
+      "examples": ["Der Schauspieler ist in vielen bekannten Filmen zu sehen."],
+      "emoji": "🎭"
+    },
+    {
+      "artikel": "der",
+      "noun": "Stern",
+      "definition": "star",
+      "examples": ["Am Himmel leuchten viele Sterne."],
+      "emoji": "⭐"
+    },
+    {
+      "artikel": "die",
+      "noun": "Szene",
+      "definition": "scene",
+      "examples": ["Die Szene in der Kirche war sehr emotional."],
+      "emoji": "🎬"
+    },
+    {
+      "artikel": "die",
+      "noun": "Formulierung",
+      "definition": "formulation, wording",
+      "examples": ["Die Formulierung in diesem Text ist sehr präzise."],
+      "emoji": "✍️"
+    },
+    {
+      "artikel": "die",
+      "noun": "Beschreibung",
+      "definition": "description",
+      "examples": ["Die Beschreibung des Produkts ist detailliert."],
+      "emoji": "📝"
+    }
+
+  ]
+}

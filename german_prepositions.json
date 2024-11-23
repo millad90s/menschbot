@@ -1,0 +1,405 @@
+{
+    "prepositions": [
+      {
+        "question": "Ich gehe .... die Stadt.",
+        "choices": ["in", "zu", "auf", "nach"],
+        "correct_answer": "in",
+        "explanation": "The preposition 'in' is used with accusative here to indicate movement towards the city.",
+        "case": "accusative"
+      },
+      {
+        "question": "Er wartet .... dem Bahnhof.",
+        "choices": ["bei", "in", "an", "auf"],
+        "correct_answer": "an",
+        "explanation": "The preposition 'an' is used with dative here to show location at a specific point.",
+        "case": "dative"
+      },
+      {
+        "question": "Ich habe das Geschenk .... meinen Freund gekauft.",
+        "choices": ["für", "von", "bei", "an"],
+        "correct_answer": "für",
+        "explanation": "The preposition 'für' always takes the accusative case and means 'for' in this context.",
+        "case": "accusative"
+      },
+      {
+        "question": ".... des schlechten Wetters blieben wir zu Hause.",
+        "choices": ["Trotz", "Während", "Nach", "Von"],
+        "correct_answer": "Trotz",
+        "explanation": "The preposition 'trotz' requires the genitive case, indicating a contrast to bad weather.",
+        "case": "genitive"
+      },
+      {
+        "question": "Wir fahren .... Frankreich.",
+        "choices": ["nach", "in", "zu", "bei"],
+        "correct_answer": "nach",
+        "explanation": "The preposition 'nach' is used with countries and cities, indicating destination without an article.",
+        "case": "none"
+      },
+      {
+        "question": "Die Katze sitzt .... dem Tisch.",
+        "choices": ["unter", "auf", "über", "neben"],
+        "correct_answer": "unter",
+        "explanation": "The preposition 'unter' takes the dative case to show the cat’s position relative to the table.",
+        "case": "dative"
+      },
+      {
+        "question": "Der Bus fährt .... den Berg.",
+        "choices": ["auf", "in", "an", "über"],
+        "correct_answer": "über",
+        "explanation": "The preposition 'über' with accusative indicates movement over a location.",
+        "case": "accusative"
+      },
+      {
+        "question": "Das Treffen ist .... Dienstag.",
+        "choices": ["am", "um", "im", "auf"],
+        "correct_answer": "am",
+        "explanation": "'Am' is used with days of the week to indicate time, and is a contraction of 'an dem'.",
+        "case": "dative"
+      },
+      {
+        "question": "Ich wohne .... meinen Eltern.",
+        "choices": ["bei", "auf", "über", "an"],
+        "correct_answer": "bei",
+        "explanation": "The preposition 'bei' with dative indicates proximity, meaning 'with' or 'at' a person’s place.",
+        "case": "dative"
+      },
+      {
+        "question": "Wir sind .... den Urlaub gefahren.",
+        "choices": ["während", "trotz", "auf", "an"],
+        "correct_answer": "während",
+        "explanation": "'Während' requires the genitive case and indicates duration, meaning 'during'.",
+        "case": "genitive"
+      },
+      {
+        "question": "Wir treffen uns .... dem Park.",
+        "choices": ["in", "bei", "an", "auf"],
+        "correct_answer": "in",
+        "explanation": "The preposition 'in' (used here as 'im' = 'in dem') with dative indicates location within a specific area.",
+        "case": "dative"
+      },
+      {
+        "question": "Ich gehe .... die Brücke.",
+        "choices": ["über", "unter", "durch", "auf"],
+        "correct_answer": "über",
+        "explanation": "The preposition 'über' with accusative is used to indicate movement across or over a structure like a bridge.",
+        "case": "accusative"
+      },
+      {
+        "question": "Sie wohnt .... ihren Eltern.",
+        "choices": ["bei", "mit", "auf", "an"],
+        "correct_answer": "bei",
+        "explanation": "'Bei' with dative is used to express that someone lives 'with' or 'at' a specific person's place.",
+        "case": "dative"
+      },
+      {
+        "question": "Er läuft .... das Haus.",
+        "choices": ["in", "auf", "an", "um"],
+        "correct_answer": "um",
+        "explanation": "'Um' always takes the accusative and indicates movement 'around' a specific object or location.",
+        "case": "accusative"
+      },
+      {
+        "question": "Wir fahren .... die Berge.",
+        "choices": ["in", "durch", "über", "unter"],
+        "correct_answer": "in",
+        "explanation": "'In' with accusative is used here to indicate movement into a region, such as 'into the mountains'.",
+        "case": "accusative"
+      },
+      {
+        "question": "Der Schlüssel liegt .... dem Tisch.",
+        "choices": ["unter", "auf", "über", "in"],
+        "correct_answer": "auf",
+        "explanation": "'Auf' with dative is used to indicate that the key is located 'on' a horizontal surface like a table.",
+        "case": "dative"
+      },
+      {
+        "question": "Ich denke oft .... meine Kindheit.",
+        "choices": ["an", "über", "bei", "in"],
+        "correct_answer": "an",
+        "explanation": "'An' with accusative is used when expressing thoughts directed toward a person, time, or memory.",
+        "case": "accusative"
+      },
+      {
+        "question": "Er ist .... dem Weg zum Bahnhof.",
+        "choices": ["auf", "unter", "neben", "an"],
+        "correct_answer": "auf",
+        "explanation": "'Auf' with dative is used to indicate being 'on' a certain path or route.",
+        "case": "dative"
+      },
+      {
+        "question": "Sie geht .... den Park spazieren.",
+        "choices": ["durch", "bei", "über", "an"],
+        "correct_answer": "durch",
+        "explanation": "'Durch' with accusative indicates movement 'through' a space like a park.",
+        "case": "accusative"
+      },
+      {
+        "question": "Ich arbeite .... einer großen Firma.",
+        "choices": ["bei", "in", "mit", "an"],
+        "correct_answer": "bei",
+        "explanation": "'Bei' with dative indicates working 'at' a specific place or company.",
+        "case": "dative"
+      },
+      {
+        "question": "Wir sitzen .... dem Kamin und lesen ein Buch.",
+        "choices": ["an", "auf", "neben", "bei"],
+        "correct_answer": "bei",
+        "explanation": "'Bei' with dative indicates proximity to a location, like being 'by' or 'near' the fireplace.",
+        "case": "dative"
+      },
+      {
+        "question": "Er hat die Nachricht .... dem Radio gehört.",
+        "choices": ["aus", "durch", "bei", "auf"],
+        "correct_answer": "auf",
+        "explanation": "'Auf' with dative is used to indicate the medium or device, meaning he heard it 'on' the radio.",
+        "case": "dative"
+      },
+      {
+        "question": "Ich freue mich .... das Wochenende.",
+        "choices": ["auf", "über", "bei", "an"],
+        "correct_answer": "auf",
+        "explanation": "'Auf' with accusative is used with 'freuen' to express looking forward to something, such as the weekend.",
+        "case": "accusative"
+      },
+      {
+        "question": "Das Bild hängt .... der Wand.",
+        "choices": ["auf", "über", "an", "in"],
+        "correct_answer": "an",
+        "explanation": "'An' with dative is used to indicate the hanging position 'on' a vertical surface like a wall.",
+        "case": "dative"
+      },
+      {
+        "question": "Er reist .... das Land.",
+        "choices": ["durch", "über", "an", "in"],
+        "correct_answer": "durch",
+        "explanation": "'Durch' with accusative is used to indicate travel or movement 'through' a place.",
+        "case": "accusative"
+      },
+      {
+        "question": "Sie ist .... Hause geblieben.",
+        "choices": ["in", "auf", "zu", "nach"],
+        "correct_answer": "zu",
+        "explanation": "'Zu Hause' is a fixed expression meaning 'at home,' indicating location.",
+        "case": "dative"
+      },
+      {
+        "question": "Der Hund springt .... den Tisch.",
+        "choices": ["auf", "in", "an", "über"],
+        "correct_answer": "auf",
+        "explanation": "'Auf' with accusative indicates movement 'onto' a surface, like jumping onto the table.",
+        "case": "accusative"
+      },
+      {
+        "question": "Wir treffen uns .... dem Bahnhof.",
+        "choices": ["bei", "an", "in", "auf"],
+        "correct_answer": "an",
+        "explanation": "'An' with dative is used to show location at a specific point, such as meeting 'at' the station.",
+        "case": "dative"
+      },
+      {
+        "question": "Sie spazieren .... dem Fluss entlang.",
+        "choices": ["bei", "an", "auf", "neben"],
+        "correct_answer": "an",
+        "explanation": "'An' with dative is used with 'entlang' to indicate moving 'alongside' something like a river.",
+        "case": "dative"
+      },
+      {
+        "question": "Ich arbeite .... einem Projekt.",
+        "choices": ["an", "in", "auf", "zu"],
+        "correct_answer": "an",
+        "explanation": "'An' with dative is used to indicate working 'on' or 'at' a specific project.",
+        "case": "dative"
+      },
+      {
+        "question": "Ich komme .... der Schule.",
+        "choices": ["von", "bei", "an", "durch"],
+        "correct_answer": "von",
+        "explanation": "'Von' with dative indicates origin or where someone is coming 'from,' as in coming from school.",
+        "case": "dative"
+      },
+      {
+        "question": "Er wohnt .... einem kleinen Dorf.",
+        "choices": ["in", "auf", "bei", "unter"],
+        "correct_answer": "in",
+        "explanation": "'In' with dative is used to indicate living 'in' a specific location, such as a village.",
+        "case": "dative"
+      },
+      {
+        "question": "Die Lampe hängt .... der Decke.",
+        "choices": ["an", "auf", "unter", "über"],
+        "correct_answer": "an",
+        "explanation": "'An' with dative is used to show the hanging position on a vertical surface or ceiling.",
+        "case": "dative"
+      },
+      {
+        "question": "Er geht .... das Haus.",
+        "choices": ["um", "zu", "durch", "in"],
+        "correct_answer": "in",
+        "explanation": "'In' with accusative indicates movement into an enclosed space, such as going into the house.",
+        "case": "accusative"
+      },
+      {
+        "question": "Wir fahren .... die Schweiz.",
+        "choices": ["nach", "in", "an", "über"],
+        "correct_answer": "in",
+        "explanation": "'In' with accusative is used to indicate travel into a country that takes an article, like 'in die Schweiz'.",
+        "case": "accusative"
+      },
+      {
+        "question": "Ich lerne Deutsch .... meiner Freundin.",
+        "choices": ["bei", "von", "mit", "über"],
+        "correct_answer": "mit",
+        "explanation": "'Mit' with dative is used to express doing something 'with' someone, such as learning with a friend.",
+        "case": "dative"
+      },
+      {
+        "question": "Er ist .... dem Auto unterwegs.",
+        "choices": ["in", "mit", "auf", "bei"],
+        "correct_answer": "mit",
+        "explanation": "'Mit' with dative is used to indicate the mode of transport, as in 'traveling by car.'",
+        "case": "dative"
+      },
+      {
+        "question": "Ich gehe .... dem Supermarkt einkaufen.",
+        "choices": ["in", "nach", "zu", "bei"],
+        "correct_answer": "zu",
+        "explanation": "'Zu' with dative is used to indicate the destination where one is going, as in going 'to' the supermarket.",
+        "case": "dative"
+      },
+      {
+        "question": "Sie sitzt .... der Ecke.",
+        "choices": ["bei", "auf", "an", "in"],
+        "correct_answer": "in",
+        "explanation": "'In' with dative is used to express location 'in' a corner or specific area.",
+        "case": "dative"
+      },
+      {
+        "question": "Wir sprechen .... das Wetter.",
+        "choices": ["über", "an", "bei", "für"],
+        "correct_answer": "über",
+        "explanation": "'Über' with accusative is used to indicate the topic of discussion, as in 'speaking about' the weather.",
+        "case": "accusative"
+      },
+      {
+        "question": "Ich muss .... (sich kümmern) meine kleine Schwester.",
+        "choices": ["um", "für", "über", "auf"],
+        "correct_answer": "um",
+        "explanation": "The verb 'sich kümmern' requires the preposition 'um' in the accusative case. 🧑‍🍼",
+        "focus": "preposition usage",
+        "case": "accusative"
+      },
+      {
+        "question": "Ich freue mich .... (sich freuen) die Ferien.",
+        "choices": ["auf", "an", "über", "mit"],
+        "correct_answer": "auf",
+        "explanation": "'Sich freuen' takes 'auf' in the accusative when expressing excitement for something. 🎉",
+        "focus": "preposition usage",
+        "case": "accusative"
+      },
+      {
+        "question": "Ich freue mich .... (sich freuen) das Geschenk.",
+        "choices": ["über", "auf", "an", "für"],
+        "correct_answer": "über",
+        "explanation": "'Sich freuen' takes 'über' in the accusative when expressing happiness about something. 🎁",
+        "focus": "preposition usage",
+        "case": "accusative"
+      },
+      {
+        "question": "Er ärgert sich .... (sich ärgern) das schlechte Wetter.",
+        "choices": ["über", "auf", "um", "mit"],
+        "correct_answer": "über",
+        "explanation": "The verb 'sich ärgern' requires 'über' in the accusative case to express annoyance about something. 😠",
+        "focus": "preposition usage",
+        "case": "accusative"
+      },
+      {
+        "question": "Er erzählt .... (erzählen) seinen Erlebnissen im Urlaub.",
+        "choices": ["von", "über", "auf", "an"],
+        "correct_answer": "von",
+        "explanation": "The verb 'erzählen' requires 'von' in the dative case when referring to what is being talked about. 🏖️",
+        "focus": "preposition usage",
+        "case": "dative"
+      },
+      {
+        "question": "Sie träumt .... (träumen) einer besseren Zukunft.",
+        "choices": ["von", "über", "auf", "an"],
+        "correct_answer": "von",
+        "explanation": "'Träumen' takes 'von' in the dative case when expressing dreams or hopes about something. 💭",
+        "focus": "preposition usage",
+        "case": "dative"
+      },
+      {
+        "question": "Achte .... (achten) den Verkehr, wenn du über die Straße gehst.",
+        "choices": ["auf", "um", "an", "über"],
+        "correct_answer": "auf",
+        "explanation": "The verb 'achten' requires 'auf' in the accusative to mean 'to pay attention to' something. 🚗",
+        "focus": "preposition usage",
+        "case": "accusative"
+      },
+      {
+        "question": "Ich muss mich .... (sich konzentrieren) meine Hausaufgaben.",
+        "choices": ["auf", "über", "an", "für"],
+        "correct_answer": "auf",
+        "explanation": "'Sich konzentrieren' takes 'auf' in the accusative case when focusing on something. 📚",
+        "focus": "preposition usage",
+        "case": "accusative"
+      },
+      {
+        "question": "Er erinnert sich .... (sich erinnern) seine Kindheit.",
+        "choices": ["an", "auf", "über", "von"],
+        "correct_answer": "an",
+        "explanation": "The verb 'sich erinnern' requires 'an' in the accusative when referring to memories. 🧸",
+        "focus": "preposition usage",
+        "case": "accusative"
+      },
+      {
+        "question": "Wir warten .... (warten) den Bus.",
+        "choices": ["auf", "um", "über", "mit"],
+        "correct_answer": "auf",
+        "explanation": "'Warten' takes 'auf' in the accusative when waiting for something or someone. 🚏",
+        "focus": "preposition usage",
+        "case": "accusative"
+      },
+      {
+        "question": "Sie spricht .... (sprechen) ihrem Freund.",
+        "choices": ["mit", "über", "von", "an"],
+        "correct_answer": "mit",
+        "explanation": "'Sprechen' takes 'mit' in the dative case to indicate speaking with someone. 🗣️",
+        "focus": "preposition usage",
+        "case": "dative"
+      },
+      {
+        "question": "Er ist zufrieden .... (zufrieden sein) seiner Arbeit.",
+        "choices": ["mit", "über", "von", "an"],
+        "correct_answer": "mit",
+        "explanation": "'Zufrieden sein' takes 'mit' in the dative case to express satisfaction with something. 😊",
+        "focus": "preposition usage",
+        "case": "dative"
+      },
+      {
+        "question": "Sie ist enttäuscht .... (enttäuscht sein) dem Ergebnis.",
+        "choices": ["von", "über", "an", "auf"],
+        "correct_answer": "von",
+        "explanation": "'Enttäuscht sein' takes 'von' in the dative case to express disappointment about something. 😞",
+        "focus": "preposition usage",
+        "case": "dative"
+      },
+      {
+        "question": "Sie hat Angst .... (Angst haben) Spinnen.",
+        "choices": ["vor", "um", "über", "für"],
+        "correct_answer": "vor",
+        "explanation": "'Angst haben' takes 'vor' in the dative to express fear of something. 🕷️",
+        "focus": "preposition usage",
+        "case": "dative"
+      },
+      {
+        "question": "Ich habe Lust .... (Lust haben) ein Eis.",
+        "choices": ["auf", "an", "über", "für"],
+        "correct_answer": "auf",
+        "explanation": "'Lust haben' takes 'auf' in the accusative case when expressing desire for something. 🍦",
+        "focus": "preposition usage",
+        "case": "accusative"
+      }
+    ]
+  }
+  

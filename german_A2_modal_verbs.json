@@ -1,0 +1,256 @@
+{
+    "modal_verbs": [
+        {
+            "verb": "können",
+            "definition": "can, to be able to",
+            "conjugation": {
+                "present": [
+                    "ich kann",
+                    "du kannst",
+                    "er/sie/es kann",
+                    "wir können",
+                    "ihr könnt",
+                    "sie/Sie können"
+                ],
+                "past": [
+                    "ich konnte",
+                    "du konntest",
+                    "er/sie/es konnte",
+                    "wir konnten",
+                    "ihr konntet",
+                    "sie/Sie konnten"
+                ],
+                "perfect": "hat gekonnt"
+            },
+            "examples": [
+                "Ich kann Deutsch sprechen.",
+                "Kannst du mir helfen?",
+                "Er konnte früher schneller laufen.",
+                "Wir können heute ins Kino gehen.",
+                "Könnt ihr das bitte erklären?",
+                "Man kann hier sehr gut essen.",
+                "Ich konnte gestern nicht kommen, weil ich krank war.",
+                "Können wir das Problem gemeinsam lösen?",
+                "Die Kinder können schon Fahrrad fahren.",
+                "Er konnte das Rätsel schnell lösen."
+            ],
+            "emoji": "💪"
+        },
+        {
+            "verb": "müssen",
+            "definition": "must, to have to",
+            "conjugation": {
+                "present": [
+                    "ich muss",
+                    "du musst",
+                    "er/sie/es muss",
+                    "wir müssen",
+                    "ihr müsst",
+                    "sie/Sie müssen"
+                ],
+                "past": [
+                    "ich musste",
+                    "du musstest",
+                    "er/sie/es musste",
+                    "wir mussten",
+                    "ihr musstet",
+                    "sie/Sie mussten"
+                ],
+                "perfect": "hat gemusst"
+            },
+            "examples": [
+                "Ich muss heute viel arbeiten.",
+                "Du musst das Problem lösen.",
+                "Er musste früh aufstehen.",
+                "Wir müssen die Regeln beachten.",
+                "Ihr müsst eure Hausaufgaben machen.",
+                "Man muss vorsichtig sein, wenn es glatt ist.",
+                "Ich musste das Essen selbst kochen.",
+                "Müssen wir wirklich so früh losgehen?",
+                "Die Kinder müssen rechtzeitig ins Bett gehen.",
+                "Sie müssen einen Termin vereinbaren."
+            ],
+            "emoji": "⚠️"
+        },
+        {
+            "verb": "dürfen",
+            "definition": "may, to be allowed to",
+            "conjugation": {
+                "present": [
+                    "ich darf",
+                    "du darfst",
+                    "er/sie/es darf",
+                    "wir dürfen",
+                    "ihr dürft",
+                    "sie/Sie dürfen"
+                ],
+                "past": [
+                    "ich durfte",
+                    "du durftest",
+                    "er/sie/es durfte",
+                    "wir durften",
+                    "ihr durftet",
+                    "sie/Sie durften"
+                ],
+                "perfect": "hat gedurft"
+            },
+            "examples": [
+                "Ich darf heute lange aufbleiben.",
+                "Darf ich hier parken?",
+                "Er durfte früher nie allein reisen.",
+                "Wir dürfen nicht vergessen, den Müll rauszubringen.",
+                "Ihr dürft in der Bibliothek nicht laut sein.",
+                "Man darf hier keine Fotos machen.",
+                "Ich durfte das Museum kostenlos besuchen.",
+                "Dürfen wir Sie etwas fragen?",
+                "Die Kinder dürfen heute Schokolade essen.",
+                "Sie dürfen diesen Raum nicht betreten."
+            ],
+            "emoji": "🛑"
+        },
+        {
+            "verb": "sollen",
+            "definition": "should, to be supposed to",
+            "conjugation": {
+                "present": [
+                    "ich soll",
+                    "du sollst",
+                    "er/sie/es soll",
+                    "wir sollen",
+                    "ihr sollt",
+                    "sie/Sie sollen"
+                ],
+                "past": [
+                    "ich sollte",
+                    "du solltest",
+                    "er/sie/es sollte",
+                    "wir sollten",
+                    "ihr solltet",
+                    "sie/Sie sollten"
+                ],
+                "perfect": "hat gesollt"
+            },
+            "examples": [
+                "Ich soll morgen zum Arzt gehen.",
+                "Du sollst deiner Mutter helfen.",
+                "Er sollte pünktlich zur Arbeit kommen.",
+                "Wir sollen mehr Sport treiben.",
+                "Ihr sollt nicht so viel Süßes essen.",
+                "Man soll immer höflich sein.",
+                "Ich sollte gestern meine Hausaufgaben machen.",
+                "Sollen wir die Fenster öffnen?",
+                "Die Kinder sollen früh ins Bett gehen.",
+                "Sie sollen den Vertrag unterschreiben."
+            ],
+            "emoji": "📝"
+        },
+        {
+            "verb": "wollen",
+            "definition": "want, to want to",
+            "conjugation": {
+                "present": [
+                    "ich will",
+                    "du willst",
+                    "er/sie/es will",
+                    "wir wollen",
+                    "ihr wollt",
+                    "sie/Sie wollen"
+                ],
+                "past": [
+                    "ich wollte",
+                    "du wolltest",
+                    "er/sie/es wollte",
+                    "wir wollten",
+                    "ihr wolltet",
+                    "sie/Sie wollten"
+                ],
+                "perfect": "hat gewollt"
+            },
+            "examples": [
+                "Ich will ein neues Auto kaufen.",
+                "Willst du mit mir ins Kino gehen?",
+                "Er will morgen früh aufstehen.",
+                "Wir wollen die Welt bereisen.",
+                "Ihr wollt immer alles wissen.",
+                "Man will doch immer das Beste.",
+                "Ich wollte dir etwas Wichtiges sagen.",
+                "Wollen wir zusammen essen?",
+                "Die Kinder wollen draußen spielen.",
+                "Sie wollen ein Haus am Meer bauen."
+            ],
+            "emoji": "🌟"
+        },
+        {
+            "verb": "mögen",
+            "definition": "like, to like to",
+            "conjugation": {
+                "present": [
+                    "ich mag",
+                    "du magst",
+                    "er/sie/es mag",
+                    "wir mögen",
+                    "ihr mögt",
+                    "sie/Sie mögen"
+                ],
+                "past": [
+                    "ich mochte",
+                    "du mochtest",
+                    "er/sie/es mochte",
+                    "wir mochten",
+                    "ihr mochtet",
+                    "sie/Sie mochten"
+                ],
+                "perfect": "hat gemocht"
+            },
+            "examples": [
+                "Ich mag Pizza sehr gerne.",
+                "Magst du Hunde?",
+                "Er mag es, in der Natur zu sein.",
+                "Wir mögen die neue Lehrerin.",
+                "Ihr mögt klassische Musik, oder?",
+                "Man mag keine Unpünktlichkeit.",
+                "Ich mochte das alte Design mehr als das neue.",
+                "Mögen wir später einen Spaziergang machen?",
+                "Die Kinder mögen Süßigkeiten.",
+                "Sie mögen es, gemeinsam zu kochen."
+            ],
+            "emoji": "❤️"
+        },
+        {
+            "verb": "möchten",
+            "definition": "would like to",
+            "conjugation": {
+                "present": [
+                    "ich möchte",
+                    "du möchtest",
+                    "er/sie/es möchte",
+                    "wir möchten",
+                    "ihr möchtet",
+                    "sie/Sie möchten"
+                ],
+                "past": [
+                    "ich wollte",
+                    "du wolltest",
+                    "er/sie/es wollte",
+                    "wir wollten",
+                    "ihr wolltet",
+                    "sie/Sie wollten"
+                ],
+                "perfect": "hat gewollt"
+            },
+            "examples": [
+                "Ich möchte einen Kaffee trinken.",
+                "Möchtest du etwas essen?",
+                "Er möchte morgen ins Kino gehen.",
+                "Wir möchten die Rechnung bitte.",
+                "Ihr möchtet einen ruhigen Abend verbringen.",
+                "Man möchte immer neue Dinge ausprobieren.",
+                "Ich möchte heute früher ins Bett gehen.",
+                "Möchten wir nach dem Essen einen Spaziergang machen?",
+                "Die Kinder möchten in den Zoo gehen.",
+                "Sie möchten gerne in einer großen Stadt leben."
+            ],
+            "emoji": "☕"
+        }
+    ]
+}

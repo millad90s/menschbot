@@ -1,0 +1,146 @@
+{
+    "quiz_title": "Understanding 'trotzdem' and 'deshalb'",
+    "trotzdem": [
+      {
+        "question": "Es regnet stark, __________ gehen wir spazieren.",
+        "english_translation": "It is raining heavily, __________ we are going for a walk.",
+        "choices": ["trotzdem", "deshalb", "weil", "obwohl"],
+        "correct_answer": "trotzdem",
+        "explanation": "'Trotzdem' indicates contrast: despite the heavy rain, we are still going for a walk."
+      },
+      {
+        "question": "Ich habe Hunger, __________ koche ich etwas zu essen.",
+        "english_translation": "I am hungry, __________ I am cooking something to eat.",
+        "choices": ["trotzdem", "deshalb", "obwohl", "weil"],
+        "correct_answer": "deshalb",
+        "explanation": "'Deshalb' shows cause and effect: I am hungry, so I am cooking something to eat."
+      },
+      {
+        "question": "Die Prüfung war schwer, __________ habe ich sie bestanden.",
+        "english_translation": "The exam was difficult, __________ I passed it.",
+        "choices": ["deshalb", "trotzdem", "weil", "obwohl"],
+        "correct_answer": "trotzdem",
+        "explanation": "'Trotzdem' indicates concession: the exam was difficult, but I passed it."
+      },
+      {
+        "question": "Das Wetter ist schön, __________ gehen wir wandern.",
+        "english_translation": "The weather is nice, __________ we are going hiking.",
+        "choices": ["weil", "deshalb", "trotzdem", "obwohl"],
+        "correct_answer": "deshalb",
+        "explanation": "'Deshalb' connects the nice weather with the decision to go hiking."
+      },
+      {
+        "question": "Er war müde, __________ hat er die ganze Nacht gelernt.",
+        "english_translation": "He was tired, __________ he studied all night.",
+        "choices": ["trotzdem", "deshalb", "obwohl", "weil"],
+        "correct_answer": "trotzdem",
+        "explanation": "'Trotzdem' highlights contrast: although he was tired, he studied all night."
+      },
+      {
+        "question": "Das Essen war kalt, __________ hat es uns gut geschmeckt.",
+        "english_translation": "The food was cold, __________ we still enjoyed it.",
+        "choices": ["trotzdem", "deshalb", "weil", "obwohl"],
+        "correct_answer": "trotzdem",
+        "explanation": "'Trotzdem' indicates contrast: even though the food was cold, we still enjoyed it."
+      },
+      {
+        "question": "Ich habe viel gelernt, __________ habe ich die Prüfung bestanden.",
+        "english_translation": "I studied a lot, __________ I passed the exam.",
+        "choices": ["deshalb", "trotzdem", "obwohl", "weil"],
+        "correct_answer": "deshalb",
+        "explanation": "'Deshalb' shows cause and effect: studying a lot resulted in passing the exam."
+      },
+      {
+        "question": "Die Situation ist schwierig, __________ geben wir nicht auf.",
+        "english_translation": "The situation is difficult, __________ we are not giving up.",
+        "choices": ["trotzdem", "deshalb", "weil", "obwohl"],
+        "correct_answer": "trotzdem",
+        "explanation": "'Trotzdem' shows resilience: even though the situation is difficult, we are not giving up."
+      },
+      {
+        "question": "Die Kinder hatten Durst, __________ haben wir ihnen Wasser gegeben.",
+        "english_translation": "The children were thirsty, __________ we gave them water.",
+        "choices": ["deshalb", "trotzdem", "obwohl", "weil"],
+        "correct_answer": "deshalb",
+        "explanation": "'Deshalb' shows cause and effect: the children were thirsty, so we gave them water."
+      },
+      {
+        "question": "Der Film war langweilig, __________ haben wir ihn bis zum Ende geschaut.",
+        "english_translation": "The movie was boring, __________ we watched it till the end.",
+        "choices": ["trotzdem", "deshalb", "weil", "obwohl"],
+        "correct_answer": "trotzdem",
+        "explanation": "'Trotzdem' indicates concession: despite the movie being boring, we watched it till the end."
+      },
+      {
+        "question": "Der Zug hat Verspätung, __________ kommen wir später an.",
+        "english_translation": "The train is delayed, __________ we are arriving later.",
+        "choices": ["trotzdem", "deshalb", "weil", "obwohl"],
+        "correct_answer": "deshalb",
+        "explanation": "'Deshalb' shows cause and effect: the train's delay causes us to arrive later."
+      },
+      {
+        "question": "Ich war sehr müde, __________ habe ich das Buch zu Ende gelesen.",
+        "english_translation": "I was very tired, __________ I finished reading the book.",
+        "choices": ["trotzdem", "deshalb", "weil", "obwohl"],
+        "correct_answer": "trotzdem",
+        "explanation": "'Trotzdem' indicates contrast: even though I was tired, I finished reading the book."
+      },
+      {
+        "question": "Der Supermarkt ist geschlossen, __________ können wir nichts einkaufen.",
+        "english_translation": "The supermarket is closed, __________ we cannot buy anything.",
+        "choices": ["trotzdem", "deshalb", "weil", "obwohl"],
+        "correct_answer": "deshalb",
+        "explanation": "'Deshalb' shows cause and effect: the supermarket's closure leads to not being able to shop."
+      },
+      {
+        "question": "Ich hatte keine Lust, __________ habe ich ihm geholfen.",
+        "english_translation": "I didn’t feel like it, __________ I helped him.",
+        "choices": ["trotzdem", "deshalb", "weil", "obwohl"],
+        "correct_answer": "trotzdem",
+        "explanation": "'Trotzdem' shows contrast: despite not feeling like it, I helped him."
+      },
+      {
+        "question": "Es gab viel Verkehr, __________ sind wir spät angekommen.",
+        "english_translation": "There was a lot of traffic, __________ we arrived late.",
+        "choices": ["trotzdem", "deshalb", "weil", "obwohl"],
+        "correct_answer": "deshalb",
+        "explanation": "'Deshalb' connects the traffic to arriving late as a cause-and-effect relationship."
+      },
+      {
+        "question": "Die Prüfung war schwer, __________ habe ich eine gute Note bekommen.",
+        "english_translation": "The exam was difficult, __________ I got a good grade.",
+        "choices": ["trotzdem", "deshalb", "weil", "obwohl"],
+        "correct_answer": "trotzdem",
+        "explanation": "'Trotzdem' highlights the contrast: despite the exam being difficult, I received a good grade."
+      },
+      {
+        "question": "Es war sehr laut, __________ konnten wir nichts verstehen.",
+        "english_translation": "It was very loud, __________ we couldn’t understand anything.",
+        "choices": ["trotzdem", "deshalb", "weil", "obwohl"],
+        "correct_answer": "deshalb",
+        "explanation": "'Deshalb' shows cause and effect: the noise caused us to not understand anything."
+      },
+      {
+        "question": "Sie hat mir nicht geholfen, __________ habe ich das Problem alleine gelöst.",
+        "english_translation": "She didn’t help me, __________ I solved the problem on my own.",
+        "choices": ["trotzdem", "deshalb", "weil", "obwohl"],
+        "correct_answer": "trotzdem",
+        "explanation": "'Trotzdem' shows contrast: even though she didn’t help, I solved the problem on my own."
+      },
+      {
+        "question": "Das Auto ist kaputt, __________ müssen wir mit dem Bus fahren.",
+        "english_translation": "The car is broken, __________ we have to take the bus.",
+        "choices": ["trotzdem", "deshalb", "weil", "obwohl"],
+        "correct_answer": "deshalb",
+        "explanation": "'Deshalb' shows cause and effect: the car being broken causes us to take the bus."
+      },
+      {
+        "question": "Er hat wenig Zeit, __________ kommt er zu unserem Treffen.",
+        "english_translation": "He has little time, __________ he is coming to our meeting.",
+        "choices": ["trotzdem", "deshalb", "weil", "obwohl"],
+        "correct_answer": "trotzdem",
+        "explanation": "'Trotzdem' shows contrast: even though he has little time, he is coming to the meeting."
+      }
+    ]
+  }
+  

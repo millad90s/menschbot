@@ -1,0 +1,907 @@
+{
+  "verb_quiz": [
+    {
+      "question": "Ich .... (nerven) meine Freundin oft mit meinem Handy.",
+      "choices": [
+        "nervt",
+        "nervte",
+        "nerven",
+        "habe genervt"
+      ],
+      "correct_answer": "nervt",
+      "explanation": "The correct form is 'nervt' because the subject is 'ich' in the present tense.",
+      "focus": "verb conjugation in present tense",
+      "case": "nominative"
+    },
+    {
+      "question": "Ich .... (heben) den Kopf und sehe meine Freundin an.",
+      "choices": [
+        "hebe",
+        "hob",
+        "heben",
+        "hat gehoben"
+      ],
+      "correct_answer": "hebe",
+      "explanation": "The correct form is 'hebe' because the subject is 'ich' in the present tense.",
+      "focus": "verb conjugation in present tense",
+      "case": "nominative"
+    },
+    {
+      "question": "Plötzlich .... (fragen) ich mich: Wie oft bin ich am Handy?",
+      "choices": [
+        "frage",
+        "fragte",
+        "fragen",
+        "habe gefragt"
+      ],
+      "correct_answer": "frage",
+      "explanation": "The correct form is 'frage' because the subject is 'ich' in the present tense.",
+      "focus": "verb conjugation in present tense",
+      "case": "nominative"
+    },
+    {
+      "question": "Gestern .... (nehmen) ich mein Handy 76-mal in die Hand.",
+      "choices": [
+        "nahm",
+        "nimmt",
+        "nehmen",
+        "hat genommen"
+      ],
+      "correct_answer": "nahm",
+      "explanation": "The correct form is 'nahm' because the sentence is in the simple past tense.",
+      "focus": "verb conjugation in simple past",
+      "case": "nominative"
+    },
+    {
+      "question": "Ich .... (hochladen) Daten in die Cloud.",
+      "choices": [
+        "lade hoch",
+        "lädt hoch",
+        "lud hoch",
+        "hat hochgeladen"
+      ],
+      "correct_answer": "lade hoch",
+      "explanation": "The correct form is 'lade hoch' because the subject is 'ich' in the present tense.",
+      "focus": "verb conjugation in present tense",
+      "case": "nominative"
+    },
+    {
+      "question": "Ich .... (überweisen) Geld an meinen Freund.",
+      "choices": [
+        "überweise",
+        "überwies",
+        "überweisen",
+        "hat überwiesen"
+      ],
+      "correct_answer": "überweise",
+      "explanation": "The correct form is 'überweise' because the subject is 'ich' in the present tense.",
+      "focus": "verb conjugation in present tense",
+      "case": "nominative"
+    },
+    {
+      "question": "Er .... (sehen) das Foto auf dem Handy.",
+      "choices": [
+        "sieht",
+        "sah",
+        "sehen",
+        "hat gesehen"
+      ],
+      "correct_answer": "sieht",
+      "explanation": "The correct form is 'sieht' because the subject is 'er' in the present tense.",
+      "focus": "verb conjugation in present tense",
+      "case": "nominative"
+    },
+    {
+      "question": "Die Menschen .... (lesen) neue Posts auf Social Media.",
+      "choices": [
+        "lesen",
+        "liest",
+        "las",
+        "hat gelesen"
+      ],
+      "correct_answer": "lesen",
+      "explanation": "The correct form is 'lesen' because the subject is 'Die Menschen' (plural) in the present tense.",
+      "focus": "verb conjugation in present tense",
+      "case": "nominative"
+    },
+    {
+      "question": "Ich .... (spielen) oft ein Videospiel auf meinem Handy.",
+      "choices": [
+        "spiele",
+        "spielte",
+        "spielen",
+        "hat gespielt"
+      ],
+      "correct_answer": "spiele",
+      "explanation": "The correct form is 'spiele' because the subject is 'ich' in the present tense.",
+      "focus": "verb conjugation in present tense",
+      "case": "nominative"
+    },
+    {
+      "question": "Die Menschen .... (reagieren) oft schnell auf neue Posts.",
+      "choices": [
+        "reagieren",
+        "reagierte",
+        "reagiert",
+        "hat reagiert"
+      ],
+      "correct_answer": "reagieren",
+      "explanation": "The correct form is 'reagieren' because the subject 'Die Menschen' (plural) requires the plural verb form in the present tense.",
+      "focus": "verb conjugation in present tense",
+      "case": "nominative"
+    },
+    {
+      "question": "Gestern .... (lesen) ich einen spannenden Artikel.",
+      "choices": [
+        "las",
+        "liest",
+        "lesen",
+        "hat gelesen"
+      ],
+      "correct_answer": "las",
+      "explanation": "The correct form is 'las' because the sentence is in the simple past tense.",
+      "focus": "verb conjugation in simple past",
+      "case": "nominative"
+    },
+    {
+      "question": "Ich .... (mailen) meiner Lehrerin die Hausaufgaben.",
+      "choices": [
+        "maile",
+        "mailte",
+        "mailen",
+        "hat gemailt"
+      ],
+      "correct_answer": "maile",
+      "explanation": "The correct form is 'maile' because the subject is 'ich' in the present tense.",
+      "focus": "verb conjugation in present tense",
+      "case": "nominative"
+    },
+    {
+      "question": "Letztes Jahr .... (spielen) wir oft Fußball im Park.",
+      "choices": [
+        "spielten",
+        "spielt",
+        "spielen",
+        "hat gespielt"
+      ],
+      "correct_answer": "spielten",
+      "explanation": "The correct form is 'spielten' because the sentence refers to a completed action in the simple past tense.",
+      "focus": "verb conjugation in simple past",
+      "case": "nominative"
+    },
+    {
+      "question": "Er .... (überweisen) gestern die Miete für die Wohnung.",
+      "choices": [
+        "überwies",
+        "überweist",
+        "überweisen",
+        "hat überwiesen"
+      ],
+      "correct_answer": "überwies",
+      "explanation": "The correct form is 'überwies' because the sentence is in the simple past tense.",
+      "focus": "verb conjugation in simple past",
+      "case": "nominative"
+    },
+    {
+      "question": "Die Kellnerin .... (scannen) die Speisekarte im Restaurant.",
+      "choices": [
+        "scannt",
+        "scannte",
+        "scannen",
+        "hat gescannt"
+      ],
+      "correct_answer": "scannt",
+      "explanation": "The correct form is 'scannt' because the subject 'Die Kellnerin' (singular) requires the singular form in the present tense.",
+      "focus": "verb conjugation in present tense",
+      "case": "nominative"
+    },
+    {
+      "question": "Ich .... (chatten) oft mit meinen Freunden nach der Arbeit.",
+      "choices": [
+        "chattet",
+        "chattete",
+        "chatte",
+        "hat gechattet"
+      ],
+      "correct_answer": "chatte",
+      "explanation": "The correct form is 'chatte' because the subject is 'ich' in the present tense.",
+      "focus": "verb conjugation in present tense",
+      "case": "nominative"
+    },
+    {
+      "question": "Wir .... (surfen) im Internet nach Informationen.",
+      "choices": [
+        "surfen",
+        "surfte",
+        "surft",
+        "hat gesurft"
+      ],
+      "correct_answer": "surfen",
+      "explanation": "The correct form is 'surfen' because the subject 'Wir' (plural) requires the plural verb form in the present tense.",
+      "focus": "verb conjugation in present tense",
+      "case": "nominative"
+    },
+    {
+      "question": "Der Lehrer .... (nehmen) ein Buch aus dem Regal.",
+      "choices": [
+        "nahm",
+        "nimmt",
+        "nehmen",
+        "hat genommen"
+      ],
+      "correct_answer": "nimmt",
+      "explanation": "The correct form is 'nimmt' because the subject 'Der Lehrer' (singular) requires the singular verb form in the present tense.",
+      "focus": "verb conjugation in present tense",
+      "case": "nominative"
+    },
+    {
+      "question": "Wir .... (lesen) gestern ein Buch über Wissenschaft.",
+      "choices": [
+        "lasen",
+        "lesen",
+        "liest",
+        "hat gelesen"
+      ],
+      "correct_answer": "lasen",
+      "explanation": "The correct form is 'lasen' because the sentence is in the simple past tense, and the subject 'Wir' is plural.",
+      "focus": "verb conjugation in simple past",
+      "case": "nominative"
+    },
+    {
+      "question": "Kann ich mir dein Auto .... (leihen)?",
+      "choices": [
+        "leihe",
+        "leiht",
+        "leihen",
+        "habe geliehen"
+      ],
+      "correct_answer": "leihen",
+      "explanation": "The correct form is 'leihen' because it's used in the infinitive with 'kann'.",
+      "focus": "modal verb and infinitive usage",
+      "case": "nominative",
+      "meaning": "to borrow"
+    },
+    {
+      "question": "Ich .... (sich melden), wenn ich Fragen habe.",
+      "choices": [
+        "melde mich",
+        "meldet sich",
+        "melden",
+        "hat sich gemeldet"
+      ],
+      "correct_answer": "melde mich",
+      "explanation": "The correct form is 'melde mich' because 'ich' requires the reflexive pronoun 'mich' in the present tense.",
+      "focus": "reflexive verb conjugation",
+      "case": "accusative",
+      "meaning": "to let someone know, to get in touch"
+    },
+    {
+      "question": "Er .... (nennen) mir seinen Namen.",
+      "choices": [
+        "nennt",
+        "nannte",
+        "nennen",
+        "hat genannt"
+      ],
+      "correct_answer": "nennt",
+      "explanation": "The correct form is 'nennt' because the subject is 'er' in the present tense.",
+      "focus": "verb conjugation in present tense",
+      "case": "nominative",
+      "meaning": "to name, to tell"
+    },
+    {
+      "question": "Der Lehrer .... (prüfen) unsere Hausaufgaben.",
+      "choices": [
+        "prüft",
+        "prüfte",
+        "prüfen",
+        "hat geprüft"
+      ],
+      "correct_answer": "prüft",
+      "explanation": "The correct form is 'prüft' because the subject is 'Der Lehrer' in the present tense.",
+      "focus": "verb conjugation in present tense",
+      "case": "nominative",
+      "meaning": "to check, to examine"
+    },
+    {
+      "question": "Ich .... (recherchieren) Informationen für meine Präsentation.",
+      "choices": [
+        "recherchiere",
+        "recherchierte",
+        "recherchieren",
+        "hat recherchiert"
+      ],
+      "correct_answer": "recherchiere",
+      "explanation": "The correct form is 'recherchiere' because the subject is 'ich' in the present tense.",
+      "focus": "verb conjugation in present tense",
+      "case": "nominative",
+      "meaning": "to research"
+    },
+    {
+      "question": "Sie .... (schicken) mir eine E-Mail.",
+      "choices": [
+        "schickt",
+        "schickte",
+        "schicken",
+        "hat geschickt"
+      ],
+      "correct_answer": "schickt",
+      "explanation": "The correct form is 'schickt' because the subject is 'sie' in the present tense.",
+      "focus": "verb conjugation in present tense",
+      "case": "nominative",
+      "meaning": "to send"
+    },
+    {
+      "question": "Wir .... (schützen) die Umwelt.",
+      "choices": [
+        "schützen",
+        "schützt",
+        "schützte",
+        "hat geschützt"
+      ],
+      "correct_answer": "schützen",
+      "explanation": "The correct form is 'schützen' because the subject is 'wir' in the present tense.",
+      "focus": "verb conjugation in present tense",
+      "case": "nominative",
+      "meaning": "to protect"
+    },
+    {
+      "question": "Sie .... (sparen) Geld für ihre Reise.",
+      "choices": [
+        "spart",
+        "sparte",
+        "sparen",
+        "hat gespart"
+      ],
+      "correct_answer": "spart",
+      "explanation": "The correct form is 'spart' because the subject is 'sie' in the present tense.",
+      "focus": "verb conjugation in present tense",
+      "case": "nominative",
+      "meaning": "to save"
+    },
+    {
+      "question": "Ich .... (stören) dich?",
+      "choices": [
+        "störe",
+        "störte",
+        "stören",
+        "habe gestört"
+      ],
+      "correct_answer": "störe",
+      "explanation": "The correct form is 'störe' because the subject is 'ich' in the present tense.",
+      "focus": "verb conjugation in present tense",
+      "case": "nominative",
+      "meaning": "to disturb"
+    },
+    {
+      "question": "Der Lehrer .... (erklären) die Grammatik.",
+      "choices": [
+        "erklärt",
+        "erklärte",
+        "erklären",
+        "hat erklärt"
+      ],
+      "correct_answer": "erklärt",
+      "explanation": "The correct form is 'erklärt' because the subject is 'Der Lehrer' in the present tense.",
+      "focus": "verb conjugation in present tense",
+      "case": "nominative",
+      "meaning": "to explain"
+    },
+    {
+      "question": "Ich .... (übersetzen) den Text ins Englische.",
+      "choices": [
+        "übersetze",
+        "übersetzte",
+        "übersetzen",
+        "hat übersetzt"
+      ],
+      "correct_answer": "übersetze",
+      "explanation": "The correct form is 'übersetze' because the subject is 'ich' in the present tense.",
+      "focus": "verb conjugation in present tense",
+      "case": "nominative",
+      "meaning": "to translate"
+    },
+    {
+      "question": "Sie .... (erinnern) sich an die Ferien.",
+      "choices": [
+        "erinnert",
+        "erinnerte",
+        "erinnern",
+        "hat erinnert"
+      ],
+      "correct_answer": "erinnert",
+      "explanation": "The correct form is 'erinnert' because the subject is 'sie' (singular) in the present tense.",
+      "focus": "verb conjugation in present tense",
+      "case": "accusative",
+      "meaning": "to remember"
+    },
+    {
+      "question": "Er .... (arbeiten) bei einer großen Firma.",
+      "choices": [
+        "arbeitet",
+        "arbeitete",
+        "arbeiten",
+        "hat gearbeitet"
+      ],
+      "correct_answer": "arbeitet",
+      "explanation": "The correct form is 'arbeitet' because the subject is 'er' in the present tense.",
+      "focus": "verb conjugation in present tense",
+      "case": "nominative",
+      "meaning": "to work"
+    },
+    {
+      "question": "Wir .... (feiern) seinen Geburtstag am Wochenende.",
+      "choices": [
+        "feiern",
+        "feierte",
+        "feiert",
+        "hat gefeiert"
+      ],
+      "correct_answer": "feiern",
+      "explanation": "The correct form is 'feiern' because the subject is 'wir' (plural) in the present tense.",
+      "focus": "verb conjugation in present tense",
+      "case": "nominative",
+      "meaning": "to celebrate"
+    },
+    {
+      "question": "Ich .... (vergessen) oft, wo ich mein Handy hingelegt habe.",
+      "choices": [
+        "vergesse",
+        "vergaß",
+        "vergessen",
+        "hat vergessen"
+      ],
+      "correct_answer": "vergesse",
+      "explanation": "The correct form is 'vergesse' because the subject is 'ich' in the present tense.",
+      "focus": "verb conjugation in present tense",
+      "case": "nominative",
+      "meaning": "to forget"
+    },
+    {
+      "question": "Er .... (laufen) jeden Morgen im Park.",
+      "choices": [
+        "läuft",
+        "lief",
+        "laufen",
+        "ist gelaufen"
+      ],
+      "correct_answer": "läuft",
+      "explanation": "The correct form is 'läuft' because the subject is 'er' in the present tense.",
+      "focus": "verb conjugation in present tense",
+      "case": "nominative",
+      "meaning": "to run, to walk"
+    },
+    {
+      "question": "Wir .... (nehmen) das Auto, weil der Bus nicht fährt.",
+      "choices": [
+        "nehmen",
+        "nahm",
+        "nimmt",
+        "hat genommen"
+      ],
+      "correct_answer": "nehmen",
+      "explanation": "The correct form is 'nehmen' because the subject is 'wir' in the present tense.",
+      "focus": "verb conjugation in present tense",
+      "case": "nominative",
+      "meaning": "to take"
+    },
+    {
+      "question": "Ich .... (helfen) meiner Schwester mit ihren Hausaufgaben.",
+      "choices": [
+        "helfe",
+        "half",
+        "helfen",
+        "hat geholfen"
+      ],
+      "correct_answer": "helfe",
+      "explanation": "The correct form is 'helfe' because the subject is 'ich' in the present tense.",
+      "focus": "verb conjugation in present tense",
+      "case": "dative",
+      "meaning": "to help"
+    },
+    {
+      "question": "Du .... (fahren) jeden Tag mit dem Fahrrad zur Arbeit.",
+      "choices": [
+        "fährst",
+        "fuhr",
+        "fahren",
+        "ist gefahren"
+      ],
+      "correct_answer": "fährst",
+      "explanation": "The correct form is 'fährst' because the subject is 'du' in the present tense.",
+      "focus": "verb conjugation in present tense",
+      "case": "nominative",
+      "meaning": "to drive, to ride"
+    },
+    {
+      "question": "Ich .... (lassen) mein Auto reparieren.",
+      "choices": [
+        "lasse",
+        "lässt",
+        "ließ",
+        "habe gelassen"
+      ],
+      "correct_answer": "lasse",
+      "explanation": "The correct form is 'lasse' because the subject is 'ich' in the present tense.",
+      "focus": "verb conjugation in present tense",
+      "case": "nominative"
+    },
+    {
+      "question": "Er .... (lassen) die Tür offen.",
+      "choices": [
+        "lasse",
+        "lässt",
+        "ließ",
+        "habe gelassen"
+      ],
+      "correct_answer": "lässt",
+      "explanation": "The correct form is 'lässt' because the subject is 'er' in the present tense.",
+      "focus": "verb conjugation in present tense",
+      "case": "nominative"
+    },
+    {
+      "question": "Wir .... (lassen) die Kinder draußen spielen.",
+      "choices": [
+        "lasse",
+        "lässt",
+        "lassen",
+        "ließ"
+      ],
+      "correct_answer": "lassen",
+      "explanation": "The correct form is 'lassen' because the subject is 'wir' in the present tense.",
+      "focus": "verb conjugation in present tense",
+      "case": "nominative"
+    },
+    {
+      "question": ".... (lassen) du dein Handy zu Hause?",
+      "choices": [
+        "Lässt",
+        "Lasse",
+        "Ließen",
+        "Hast gelassen"
+      ],
+      "correct_answer": "Lässt",
+      "explanation": "The correct form is 'Lässt' because the subject is 'du' in the present tense, and it's a yes/no question.",
+      "focus": "verb conjugation in present tense",
+      "case": "nominative"
+    },
+    {
+      "question": "Sie .... (lassen) ihren Hund frei laufen.",
+      "choices": [
+        "lasse",
+        "lässt",
+        "lässt",
+        "lassen"
+      ],
+      "correct_answer": "lassen",
+      "explanation": "The correct form is 'lassen' because the subject is 'Sie' (formal form) in the present tense.",
+      "focus": "verb conjugation in present tense",
+      "case": "nominative"
+    },
+    {
+      "question": "Ich .... (lassen) die Vergangenheit los.",
+      "choices": [
+        "lasse",
+        "lässt",
+        "ließ",
+        "gelassen"
+      ],
+      "correct_answer": "lasse",
+      "explanation": "The correct form is 'lasse' because the subject is 'ich' in the present tense.",
+      "focus": "verb conjugation in present tense",
+      "case": "nominative"
+    },
+    {
+      "question": "Ich .... (lassen) mein Auto reparieren.",
+      "choices": [
+        "lasse",
+        "lässt",
+        "ließ",
+        "habe gelassen"
+      ],
+      "correct_answer": "lasse",
+      "explanation": "The correct form is 'lasse' because the subject is 'ich' in the present tense.",
+      "focus": "verb conjugation in present tense",
+      "case": "nominative"
+    },
+    {
+      "question": "Er .... (lassen) die Tür offen.",
+      "choices": [
+        "lasse",
+        "lässt",
+        "ließ",
+        "habe gelassen"
+      ],
+      "correct_answer": "lässt",
+      "explanation": "The correct form is 'lässt' because the subject is 'er' in the present tense.",
+      "focus": "verb conjugation in present tense",
+      "case": "nominative"
+    },
+    {
+      "question": "Wir .... (lassen) die Kinder draußen spielen.",
+      "choices": [
+        "lasse",
+        "lässt",
+        "lassen",
+        "ließ"
+      ],
+      "correct_answer": "lassen",
+      "explanation": "The correct form is 'lassen' because the subject is 'wir' in the present tense.",
+      "focus": "verb conjugation in present tense",
+      "case": "nominative"
+    },
+    {
+      "question": ".... (lassen) du dein Handy zu Hause?",
+      "choices": [
+        "Lässt",
+        "Lasse",
+        "Ließen",
+        "Hast gelassen"
+      ],
+      "correct_answer": "Lässt",
+      "explanation": "The correct form is 'Lässt' because the subject is 'du' in the present tense, and it's a yes/no question.",
+      "focus": "verb conjugation in present tense",
+      "case": "nominative"
+    },
+    {
+      "question": "Sie .... (lassen) ihren Hund frei laufen.",
+      "choices": [
+        "lasse",
+        "lässt",
+        "lässt",
+        "lassen"
+      ],
+      "correct_answer": "lassen",
+      "explanation": "The correct form is 'lassen' because the subject is 'Sie' (formal form) in the present tense.",
+      "focus": "verb conjugation in present tense",
+      "case": "nominative"
+    },
+    {
+      "question": "Ich .... (lassen) die Vergangenheit los.",
+      "choices": [
+        "lasse",
+        "lässt",
+        "ließ",
+        "gelassen"
+      ],
+      "correct_answer": "lasse",
+      "explanation": "The correct form is 'lasse' because the subject is 'ich' in the present tense.",
+      "focus": "verb conjugation in present tense",
+      "case": "nominative"
+    },
+    {
+      "question": "Wir .... (lassen) das Fenster geöffnet.",
+      "choices": [
+        "lassen",
+        "lässt",
+        "ließ",
+        "lasse"
+      ],
+      "correct_answer": "lassen",
+      "explanation": "The correct form is 'lassen' because the subject is 'wir' in the present tense.",
+      "focus": "verb conjugation in present tense",
+      "case": "nominative"
+    },
+    {
+      "question": "Ich .... (lassen) den Computer an.",
+      "choices": [
+        "lasse",
+        "lässt",
+        "ließ",
+        "gelassen"
+      ],
+      "correct_answer": "lasse",
+      "explanation": "The correct form is 'lasse' because the subject is 'ich' in the present tense.",
+      "focus": "verb conjugation in present tense",
+      "case": "nominative"
+    },
+    {
+      "question": ".... (lassen) er die Kinder allein?",
+      "choices": [
+        "Lässt",
+        "Lassen",
+        "Ließ",
+        "Gelassen"
+      ],
+      "correct_answer": "Lässt",
+      "explanation": "The correct form is 'Lässt' because the subject is 'er' in the present tense, and it's a yes/no question.",
+      "focus": "verb conjugation in present tense",
+      "case": "nominative"
+    },
+    {
+      "question": "Sie .... (lassen) ihre Zweifel los.",
+      "choices": [
+        "lassen",
+        "lässt",
+        "lasse",
+        "ließ"
+      ],
+      "correct_answer": "lassen",
+      "explanation": "The correct form is 'lassen' because the subject is 'sie' (plural) in the present tense.",
+      "focus": "verb conjugation in present tense",
+      "case": "nominative"
+    },
+    {
+      "question": "Lass uns .... (lassen)!",
+      "choices": [
+        "gehen",
+        "lasse",
+        "lässt",
+        "gelassen"
+      ],
+      "correct_answer": "gehen",
+      "explanation": "The correct phrase is 'Lass uns gehen' because it’s an idiomatic expression.",
+      "focus": "idiomatic expression",
+      "case": "imperative"
+    },
+    {
+      "question": "Warum .... (lassen) ihr die Tür offen?",
+      "choices": [
+        "lasst",
+        "lässt",
+        "lasse",
+        "lassen"
+      ],
+      "correct_answer": "lasst",
+      "explanation": "The correct form is 'lasst' because the subject is 'ihr' in the present tense.",
+      "focus": "verb conjugation in present tense",
+      "case": "nominative"
+    },
+    {
+      "question": "Ich .... (lassen) das Fahrrad auf der Straße.",
+      "choices": [
+        "lasse",
+        "lässt",
+        "ließ",
+        "gelassen"
+      ],
+      "correct_answer": "lasse",
+      "explanation": "The correct form is 'lasse' because the subject is 'ich' in the present tense.",
+      "focus": "verb conjugation in present tense",
+      "case": "nominative"
+    },
+    {
+      "question": "Lasst ihr das Plakat so .... (lassen)?",
+      "choices": [
+        "lassen",
+        "ändern",
+        "stehen",
+        "liegen"
+      ],
+      "correct_answer": "lassen",
+      "explanation": "The correct form is 'lassen' because it means 'to leave it as it is' and stays in its infinitive form after 'lasst.'",
+      "focus": "verb usage in infinitive",
+      "case": "nominative"
+    },
+    {
+      "question": "..... (lassen) sie ihre Haare schneiden ?",
+      "choices": [
+        "lassen",
+        "Lässt",
+        "ließ",
+        "gelassen"
+      ],
+      "correct_answer": "Lässt",
+      "explanation": "The correct form is 'schneiden' because it follows 'lassen' in a causative construction.",
+      "focus": "causative construction",
+      "case": "nominative"
+    },
+    {
+      "question": "Wieso .... (lassen) du dein Handy zu Hause?",
+      "choices": [
+        "lässt",
+        "lassen",
+        "gelassen",
+        "ließ"
+      ],
+      "correct_answer": "lässt",
+      "explanation": "The correct form is 'lässt' because the subject is 'du' in the present tense.",
+      "focus": "verb conjugation in present tense",
+      "case": "nominative"
+    },
+    {
+      "question": "Wir .... (lassen) die Haustür immer offen.",
+      "choices": [
+        "lassen",
+        "lasst",
+        "ließ",
+        "gelassen"
+      ],
+      "correct_answer": "lassen",
+      "explanation": "The correct form is 'lassen' because the subject is 'wir' in the present tense.",
+      "focus": "verb conjugation in present tense",
+      "case": "nominative"
+    },
+    {
+      "question": "Schau mal! Sie .... (lassen) ihren Müll liegen.",
+      "choices": [
+        "lassen",
+        "lässt",
+        "ließ",
+        "gelassen"
+      ],
+      "correct_answer": "lassen",
+      "explanation": "The correct form is 'lassen' because the subject is 'sie' (plural) in the present tense.",
+      "focus": "verb conjugation in present tense",
+      "case": "nominative"
+    },
+    {
+      "question": "Sollen wir den Text ändern? Nein, .... (lassen) Sie ihn lieber wie er ist.",
+      "choices": [
+        "lassen",
+        "lassen Sie",
+        "ändern",
+        "gelassen"
+      ],
+      "correct_answer": "lassen",
+      "explanation": "The correct form is 'lassen' because it is a polite imperative for 'Sie' in the present tense.",
+      "focus": "imperative",
+      "case": "polite"
+    },
+    {
+      "question": "Es regnet gleich. .... (lassen) du den Schirm zu Hause?",
+      "choices": [
+        "Lässt",
+        "Lassen",
+        "Gelassen",
+        "Ließ"
+      ],
+      "correct_answer": "Lässt",
+      "explanation": "The correct form is 'Lässt' because the subject is 'du' in the present tense.",
+      "focus": "verb conjugation in present tense",
+      "case": "nominative"
+    },
+    {
+      "question": "Wir .... (lassen) immer unsere Schuhe im Flur.",
+      "choices": [
+        "lassen",
+        "lasst",
+        "ließ",
+        "gelassen"
+      ],
+      "correct_answer": "lassen",
+      "explanation": "The correct form is 'lassen' because the subject is 'wir' in the present tense.",
+      "focus": "verb conjugation in present tense",
+      "case": "nominative"
+    },
+    {
+      "question": "Meine Mutter .... (lassen) mindestens einmal pro Woche ihren Schlüssel zu Hause.",
+      "choices": [
+        "lässt",
+        "lassen",
+        "ließ",
+        "gelassen"
+      ],
+      "correct_answer": "lässt",
+      "explanation": "The correct form is 'lässt' because the subject is 'sie' (singular, 'meine Mutter') in the present tense.",
+      "focus": "verb conjugation in present tense",
+      "case": "nominative"
+    },
+    {
+      "question": "Jo, das Motorrad vor dem Haus? Nein, .... (lassen) wir es in die Garage.",
+      "choices": [
+        "lassen",
+        "lasst",
+        "lässt",
+        "ließ"
+      ],
+      "correct_answer": "lassen",
+      "explanation": "The correct form is 'lassen' because the subject is 'wir' in the present tense.",
+      "focus": "verb conjugation in present tense",
+      "case": "nominative"
+    },
+    {
+      "question": "Die anderen .... (lassen) es so wie es ist.",
+      "choices": [
+        "lassen",
+        "lässt",
+        "ließ",
+        "lasst"
+      ],
+      "correct_answer": "lassen",
+      "explanation": "The correct form is 'lassen' because the subject is 'die anderen' (they) in the present tense.",
+      "focus": "verb conjugation in present tense",
+      "case": "nominative"
+    }
+  ]
+}

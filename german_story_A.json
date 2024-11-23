@@ -1,0 +1,1027 @@
+{
+    "stories": [
+      {
+        "story_id": "henry_chicken",
+        "title": "The Story of Henry Chicken",
+        "content": [
+          {
+            "number" : "1" ,
+            "german": "Lasst mich euch die Geschichte von Henry Hühnchen erzählen. Henry Hühnchen lebt in einem ganz normalen kleinen Hühnerhaus in einem ganz normalen Dorf.",
+            "english": "Let me tell you the story of Henry Chicken. Henry Chicken lives in a normal little chicken house in a normal village.",
+            "definitions": {
+              "Lasst": "let",
+              "mich": "me",
+              "euch": "you",
+              "Geschichte": "story",
+              "Henry Hühnchen": "Henry Chicken",
+              "lebt": "lives",
+              "ganz": "completely",
+              "normalen": "normal",
+              "kleinen": "little",
+              "Hühnerhaus": "chicken house",
+              "Dorf": "village"
+            }
+          },
+          {
+            "number" : "2" ,
+            "german": "Er ist weder groß noch klein. Er ist weder dick noch dünn. Er ist weder schlau noch dumm. Henry Hühnchen ist ein ganz normales Huhn.",
+            "english": "He is neither tall nor short. He is neither fat nor thin. He is neither smart nor stupid. Henry is a completely normal chicken.",
+            "definitions": {
+              "weder": "neither",
+              "groß": "tall",
+              "klein": "short",
+              "dick": "fat",
+              "dünn": "thin",
+              "schlau": "smart",
+              "dumm": "stupid",
+              "normales": "normal",
+              "Huhn": "chicken"
+            }
+          },
+          {
+            "number" : "3" ,
+            "german": "An einem ganz normalen Morgen isst Henry Hühnchen in der Küche sein Frühstück. Er mag Toast mit Butter und Kaffee mit Sahne.",
+            "english": "On a completely normal morning, Henry Chicken has his breakfast in the kitchen. He likes toast with butter and coffee with cream.",
+            "definitions": {
+              "Morgen": "morning",
+              "isst": "eats",
+              "Küche": "kitchen",
+              "Frühstück": "breakfast",
+              "mag": "likes",
+              "Toast": "toast",
+              "Butter": "butter",
+              "Kaffee": "coffee",
+              "Sahne": "cream"
+            }
+          },
+          {
+            "number" : "4" ,
+            "german": "Er liest die Nachrichten im Internet. Dort sieht er eine furchtbare Nachricht mit einer furchtbaren Überschrift. Sie lautet: „Der Himmel stürzt ein!“",
+            "english": "He reads the news on the Internet. There he sees a terrible message with a terrible headline. It reads: 'The sky is falling!'",
+            "definitions": {
+              "liest": "reads",
+              "Nachrichten": "news",
+              "Internet": "internet",
+              "Dort": "there",
+              "sieht": "sees",
+              "furchtbare": "terrible",
+              "Nachricht": "message",
+              "Überschrift": "headline",
+              "Himmel": "sky",
+              "stürzt ein": "is falling"
+            }
+          },
+          {
+            "number" : "5" ,
+            "german": "Lasst mich euch die Geschichte von Henry Hühnchen erzählen. Henry Hühnchen lebt in einem ganz normalen kleinen Hühnerhaus in einem ganz normalen Dorf.",
+            "english": "Let me tell you the story of Henry Chicken. Henry Chicken lives in a normal little chicken house in a normal village.",
+            "definitions": {
+              "Lasst": "let",
+              "mich": "me",
+              "euch": "you",
+              "Geschichte": "story",
+              "Henry Hühnchen": "Henry Chicken",
+              "lebt": "lives",
+              "ganz": "completely",
+              "normalen": "normal",
+              "kleinen": "little",
+              "Hühnerhaus": "chicken house",
+              "Dorf": "village"
+            }
+          },
+          {
+            "number" : "6" ,
+            "german": "Er ist weder groß noch klein. Er ist weder dick noch dünn. Er ist weder schlau noch dumm. Henry Hühnchen ist ein ganz normales Huhn.",
+            "english": "He is neither tall nor short. He is neither fat nor thin. He is neither smart nor stupid. Henry is a completely normal chicken.",
+            "definitions": {
+              "weder": "neither",
+              "groß": "tall",
+              "klein": "short",
+              "dick": "fat",
+              "dünn": "thin",
+              "schlau": "smart",
+              "dumm": "stupid",
+              "normales": "normal",
+              "Huhn": "chicken"
+            }
+          },
+          {
+            "number" : "7" ,
+            "german": "An einem ganz normalen Morgen isst Henry Hühnchen in der Küche sein Frühstück. Er mag Toast mit Butter und Kaffee mit Sahne.",
+            "english": "On a completely normal morning, Henry Chicken has his breakfast in the kitchen. He likes toast with butter and coffee with cream.",
+            "definitions": {
+              "Morgen": "morning",
+              "isst": "eats",
+              "Küche": "kitchen",
+              "Frühstück": "breakfast",
+              "mag": "likes",
+              "Toast": "toast",
+              "Butter": "butter",
+              "Kaffee": "coffee",
+              "Sahne": "cream"
+            }
+          },
+          {
+            "number" : "8" ,
+            "german": "Er liest die Nachrichten im Internet. Dort sieht er eine furchtbare Nachricht mit einer furchtbaren Überschrift. Sie lautet: „Der Himmel stürzt ein!“",
+            "english": "He reads the news on the Internet. There he sees a terrible message with a terrible headline. It reads: 'The sky is falling!'",
+            "definitions": {
+              "liest": "reads",
+              "Nachrichten": "news",
+              "Internet": "internet",
+              "Dort": "there",
+              "sieht": "sees",
+              "furchtbare": "terrible",
+              "Nachricht": "message",
+              "Überschrift": "headline",
+              "Himmel": "sky",
+              "stürzt ein": "is falling"
+            }
+          },
+          {
+            "number" : "9" ,
+            "german": "Henry hat so viel Angst, dass er seinen Toast in den Kaffee fallen lässt. Platsch!",
+            "english": "Henry is so scared he drops his toast into the coffee. Splash!",
+            "definitions": {
+              "Angst": "fear",
+              "Toast": "toast",
+              "Kaffee": "coffee",
+              "fallen lässt": "drops",
+              "Platsch": "splash"
+            }
+          },
+          {
+            "number" : "10" ,
+            "german": "„Der Himmel stürzt ein! DER HIMMEL STÜRZT EIN!”, ruft Henry aus. „Ich muss alle warnen!”",
+            "english": "\"The sky is falling! THE SKY IS FALLING!\" shouts Henry. \"I have to warn everyone!\"",
+            "definitions": {
+              "Himmel": "sky",
+              "stürzt ein": "is falling",
+              "ruft aus": "shouts",
+              "muss": "must",
+              "warnen": "warn",
+              "alle": "everyone"
+            }
+          },
+          {
+            "number" : "11" ,
+            "german": "Als erstes schickt er eine E-Mail an seine tausend engsten Freunde. Dann rennt er die Straße hinunter, um alle anderen zu warnen.",
+            "english": "First, he sends an e-mail to his thousand closest friends. Then he runs down the street to warn everyone else.",
+            "definitions": {
+              "erstes": "first",
+              "schickt": "sends",
+              "E-Mail": "e-mail",
+              "tausend": "thousand",
+              "engsten Freunde": "closest friends",
+              "rennt": "runs",
+              "Straße": "street",
+              "andere": "others"
+            }
+          },
+          {
+            "number" : "12" ,
+            "german": "Die erste Person, die er auf der Straße trifft, ist Hanni Henne. Sie kommt aus dem Supermarkt.",
+            "english": "The first person he meets on the street is Hanni Hen. She is coming from the supermarket.",
+            "definitions": {
+              "erste": "first",
+              "Person": "person",
+              "trifft": "meets",
+              "Straße": "street",
+              "Hanni Henne": "Hanni Hen",
+              "Supermarkt": "supermarket"
+            }
+          },
+          {
+            "number" : "13" ,
+            "german": "„Guten Morgen Henry Hühnchen!”, sagt Hanni Henne. „Wohin gehst du? Warum schaust du so ängstlich?”",
+            "english": "\"Good morning Henry Chicken!\" says Hanni Hen. \"Where are you going? Why are you looking so scared?\"",
+            "definitions": {
+              "Guten Morgen": "good morning",
+              "sagt": "says",
+              "Wohin": "where",
+              "gehst": "going",
+              "schaust": "look",
+              "ängstlich": "scared"
+            }
+          },
+          {
+            "number" : "14" ,
+            "german": "„Der Himmel stürzt ein! Der Himmel stürzt ein!”, sagt Henry Hühnchen.",
+            "english": "\"The sky is falling! The sky is falling!\" says Henry Chicken.",
+            "definitions": {
+              "Himmel": "sky",
+              "stürzt ein": "is falling",
+              "sagt": "says"
+            }
+          },
+          {
+            "number" : "15" ,
+            "german": "Lasst mich euch die Geschichte von Henry Hühnchen erzählen. Henry Hühnchen lebt in einem ganz normalen kleinen Hühnerhaus in einem ganz normalen Dorf.",
+            "english": "Let me tell you the story of Henry Chicken. Henry Chicken lives in a normal little chicken house in a normal village.",
+            "definitions": {
+              "Lasst": "let",
+              "mich": "me",
+              "euch": "you",
+              "Geschichte": "story",
+              "Henry Hühnchen": "Henry Chicken",
+              "lebt": "lives",
+              "ganz": "completely",
+              "normalen": "normal",
+              "kleinen": "little",
+              "Hühnerhaus": "chicken house",
+              "Dorf": "village"
+            }
+          },
+          {
+            "number" : "16" ,
+            "german": "Er ist weder groß noch klein. Er ist weder dick noch dünn. Er ist weder schlau noch dumm. Henry Hühnchen ist ein ganz normales Huhn.",
+            "english": "He is neither tall nor short. He is neither fat nor thin. He is neither smart nor stupid. Henry is a completely normal chicken.",
+            "definitions": {
+              "weder": "neither",
+              "groß": "tall",
+              "klein": "short",
+              "dick": "fat",
+              "dünn": "thin",
+              "schlau": "smart",
+              "dumm": "stupid",
+              "normales": "normal",
+              "Huhn": "chicken"
+            }
+          },
+          {
+            "number" : "17" ,
+            "german": "An einem ganz normalen Morgen isst Henry Hühnchen in der Küche sein Frühstück. Er mag Toast mit Butter und Kaffee mit Sahne.",
+            "english": "On a completely normal morning, Henry Chicken has his breakfast in the kitchen. He likes toast with butter and coffee with cream.",
+            "definitions": {
+              "Morgen": "morning",
+              "isst": "eats",
+              "Küche": "kitchen",
+              "Frühstück": "breakfast",
+              "mag": "likes",
+              "Toast": "toast",
+              "Butter": "butter",
+              "Kaffee": "coffee",
+              "Sahne": "cream"
+            }
+          },
+          {
+            "number" : "18" ,
+            "german": "Er liest die Nachrichten im Internet. Dort sieht er eine furchtbare Nachricht mit einer furchtbaren Überschrift. Sie lautet: „Der Himmel stürzt ein!“",
+            "english": "He reads the news on the Internet. There he sees a terrible message with a terrible headline. It reads: 'The sky is falling!'",
+            "definitions": {
+              "liest": "reads",
+              "Nachrichten": "news",
+              "Internet": "internet",
+              "Dort": "there",
+              "sieht": "sees",
+              "furchtbare": "terrible",
+              "Nachricht": "message",
+              "Überschrift": "headline",
+              "Himmel": "sky",
+              "stürzt ein": "is falling"
+            }
+          },
+          {
+            "number" : "19" ,
+            "german": "Henry hat so viel Angst, dass er seinen Toast in den Kaffee fallen lässt. Platsch!",
+            "english": "Henry is so scared he drops his toast into the coffee. Splash!",
+            "definitions": {
+              "Angst": "fear",
+              "Toast": "toast",
+              "Kaffee": "coffee",
+              "fallen lässt": "drops",
+              "Platsch": "splash"
+            }
+          },
+          {
+            "number" : "20" ,
+            "german": "„Der Himmel stürzt ein! DER HIMMEL STÜRZT EIN!”, ruft Henry aus. „Ich muss alle warnen!”",
+            "english": "\"The sky is falling! THE SKY IS FALLING!\" shouts Henry. \"I have to warn everyone!\"",
+            "definitions": {
+              "Himmel": "sky",
+              "stürzt ein": "is falling",
+              "ruft aus": "shouts",
+              "muss": "must",
+              "warnen": "warn",
+              "alle": "everyone"
+            }
+          },
+          {
+            "number" : "21" ,
+            "german": "Als erstes schickt er eine E-Mail an seine tausend engsten Freunde. Dann rennt er die Straße hinunter, um alle anderen zu warnen.",
+            "english": "First, he sends an e-mail to his thousand closest friends. Then he runs down the street to warn everyone else.",
+            "definitions": {
+              "erstes": "first",
+              "schickt": "sends",
+              "E-Mail": "e-mail",
+              "tausend": "thousand",
+              "engsten Freunde": "closest friends",
+              "rennt": "runs",
+              "Straße": "street",
+              "andere": "others"
+            }
+          },
+          {
+            "number" : "22" ,
+            "german": "Die erste Person, die er auf der Straße trifft, ist Hanni Henne. Sie kommt aus dem Supermarkt.",
+            "english": "The first person he meets on the street is Hanni Hen. She is coming from the supermarket.",
+            "definitions": {
+              "erste": "first",
+              "Person": "person",
+              "trifft": "meets",
+              "Straße": "street",
+              "Hanni Henne": "Hanni Hen",
+              "Supermarkt": "supermarket"
+            }
+          },
+          {
+            "number" : "23" ,
+            "german": "„Guten Morgen Henry Hühnchen!”, sagt Hanni Henne. „Wohin gehst du? Warum schaust du so ängstlich?”",
+            "english": "\"Good morning Henry Chicken!\" says Hanni Hen. \"Where are you going? Why are you looking so scared?\"",
+            "definitions": {
+              "Guten Morgen": "good morning",
+              "sagt": "says",
+              "Wohin": "where",
+              "gehst": "going",
+              "schaust": "look",
+              "ängstlich": "scared"
+            }
+          },
+          {
+            "number" : "24" ,
+            "german": "„Der Himmel stürzt ein! Der Himmel stürzt ein!”, sagt Henry Hühnchen.",
+            "english": "\"The sky is falling! The sky is falling!\" says Henry Chicken.",
+            "definitions": {
+              "Himmel": "sky",
+              "stürzt ein": "is falling",
+              "sagt": "says"
+            }
+          },
+          {
+            "number" : "25" ,
+            "german": "„Echt? Woher weißt du das?”, fragt Hanni Henne.",
+            "english": "\"Really? How do you know that?\" asks Hanni Hen.",
+            "definitions": {
+              "Echt": "really",
+              "Woher": "how",
+              "weißt": "know"
+            }
+          },
+          {
+            "number" : "26" ,
+            "german": "„Ich habe es im Internet gesehen!”, sagt Henry Hühnchen.",
+            "english": "\"I've seen it on the internet!\" says Henry Chicken.",
+            "definitions": {
+              "gesehen": "seen",
+              "Internet": "internet"
+            }
+          },
+          {
+            "number" : "27" ,
+            "german": "„Heiliger Bimbam! Dann muss es ja stimmen!”, sagt Hanni. „Los, gehen wir!”",
+            "english": "\"Holy cow! Then it must be true!\" says Hanni Hen. \"Let's go!\"",
+            "definitions": {
+              "Heiliger Bimbam": "holy cow",
+              "stimmen": "true",
+              "Los": "let's go",
+              "gehen": "go"
+            }
+          },
+          {
+            "number" : "28" ,
+            "german": "Also rennen Henry Hühnchen und Hanni Henne zusammen die Straße hinunter zum Teich.",
+            "english": "So Henry Hühnchen and Hanni Henne run together down the street to the pond.",
+            "definitions": {
+              "rennen": "run",
+              "zusammen": "together",
+              "Straße": "street",
+              "Teich": "pond"
+            }
+          },
+          {
+            "number" : "29" ,
+            "german": "Als sie am Teich ankommen, treffen sie Erna Ente. Sie badet gerade.",
+            "english": "When they arrive at the pond, they meet Erna Duck. She's having a bath.",
+            "definitions": {
+              "ankommen": "arrive",
+              "treffen": "meet",
+              "Erna Ente": "Erna Duck",
+              "badet": "is having a bath"
+            }
+          },
+          {
+            "number" : "30" ,
+            "german": "„Hallo, ihr zwei!”, sagt Erna Ente. „Wo geht ihr hin? Warum schaut ihr so ängstlich?”",
+            "english": "\"Hello, you two!\" says Erna Duck. \"Where are you going? Why are you looking so scared?\"",
+            "definitions": {
+              "Hallo": "hello",
+              "ihr zwei": "you two",
+              "sagt": "says",
+              "Wo": "where",
+              "geht": "going",
+              "schaust": "look",
+              "ängstlich": "scared"
+            }
+          },
+          {
+            "number" : "31" ,
+            "german": "„Der Himmel stürzt ein! Der Himmel stürzt ein!”, rufen Henry Hühnchen und Hanni Henne im Chor.",
+            "english": "\"The sky is falling! The sky is falling!\" Henry Chicken and Hanni Hen shout in unison.",
+            "definitions": {
+              "Himmel": "sky",
+              "stürzt ein": "is falling",
+              "rufen": "shout",
+              "im Chor": "in unison"
+            }
+          },
+          {
+            "number" : "32" ,
+            "german": "Lasst mich euch die Geschichte von Henry Hühnchen erzählen. Henry Hühnchen lebt in einem ganz normalen kleinen Hühnerhaus in einem ganz normalen Dorf.",
+            "english": "Let me tell you the story of Henry Chicken. Henry Chicken lives in a normal little chicken house in a normal village.",
+            "definitions": {
+              "Lasst": "let",
+              "mich": "me",
+              "euch": "you",
+              "Geschichte": "story",
+              "Henry Hühnchen": "Henry Chicken",
+              "lebt": "lives",
+              "ganz": "completely",
+              "normalen": "normal",
+              "kleinen": "little",
+              "Hühnerhaus": "chicken house",
+              "Dorf": "village"
+            }
+          },
+          {
+            "number" : "33" ,
+            "german": "Er ist weder groß noch klein. Er ist weder dick noch dünn. Er ist weder schlau noch dumm. Henry Hühnchen ist ein ganz normales Huhn.",
+            "english": "He is neither tall nor short. He is neither fat nor thin. He is neither smart nor stupid. Henry is a completely normal chicken.",
+            "definitions": {
+              "weder": "neither",
+              "groß": "tall",
+              "klein": "short",
+              "dick": "fat",
+              "dünn": "thin",
+              "schlau": "smart",
+              "dumm": "stupid",
+              "normales": "normal",
+              "Huhn": "chicken"
+            }
+          },
+          {
+            "number" : "34" ,
+            "german": "An einem ganz normalen Morgen isst Henry Hühnchen in der Küche sein Frühstück. Er mag Toast mit Butter und Kaffee mit Sahne.",
+            "english": "On a completely normal morning, Henry Chicken has his breakfast in the kitchen. He likes toast with butter and coffee with cream.",
+            "definitions": {
+              "Morgen": "morning",
+              "isst": "eats",
+              "Küche": "kitchen",
+              "Frühstück": "breakfast",
+              "mag": "likes",
+              "Toast": "toast",
+              "Butter": "butter",
+              "Kaffee": "coffee",
+              "Sahne": "cream"
+            }
+          },
+          {
+            "number" : "35" ,
+            "german": "Er liest die Nachrichten im Internet. Dort sieht er eine furchtbare Nachricht mit einer furchtbaren Überschrift. Sie lautet: „Der Himmel stürzt ein!“",
+            "english": "He reads the news on the Internet. There he sees a terrible message with a terrible headline. It reads: 'The sky is falling!'",
+            "definitions": {
+              "liest": "reads",
+              "Nachrichten": "news",
+              "Internet": "internet",
+              "Dort": "there",
+              "sieht": "sees",
+              "furchtbare": "terrible",
+              "Nachricht": "message",
+              "Überschrift": "headline",
+              "Himmel": "sky",
+              "stürzt ein": "is falling"
+            }
+          },
+          {
+            "number" : "36" ,
+            "german": "Henry hat so viel Angst, dass er seinen Toast in den Kaffee fallen lässt. Platsch!",
+            "english": "Henry is so scared he drops his toast into the coffee. Splash!",
+            "definitions": {
+              "Angst": "fear",
+              "Toast": "toast",
+              "Kaffee": "coffee",
+              "fallen lässt": "drops",
+              "Platsch": "splash"
+            }
+          },
+          {
+            "number" : "37" ,
+            "german": "„Der Himmel stürzt ein! DER HIMMEL STÜRZT EIN!”, ruft Henry aus. „Ich muss alle warnen!”",
+            "english": "\"The sky is falling! THE SKY IS FALLING!\" shouts Henry. \"I have to warn everyone!\"",
+            "definitions": {
+              "Himmel": "sky",
+              "stürzt ein": "is falling",
+              "ruft aus": "shouts",
+              "muss": "must",
+              "warnen": "warn",
+              "alle": "everyone"
+            }
+          },
+          {
+            "number" : "38" ,
+            "german": "Als erstes schickt er eine E-Mail an seine tausend engsten Freunde. Dann rennt er die Straße hinunter, um alle anderen zu warnen.",
+            "english": "First, he sends an e-mail to his thousand closest friends. Then he runs down the street to warn everyone else.",
+            "definitions": {
+              "erstes": "first",
+              "schickt": "sends",
+              "E-Mail": "e-mail",
+              "tausend": "thousand",
+              "engsten Freunde": "closest friends",
+              "rennt": "runs",
+              "Straße": "street",
+              "andere": "others"
+            }
+          },
+          {
+            "number" : "39" ,
+            "german": "Die erste Person, die er auf der Straße trifft, ist Hanni Henne. Sie kommt aus dem Supermarkt.",
+            "english": "The first person he meets on the street is Hanni Hen. She is coming from the supermarket.",
+            "definitions": {
+              "erste": "first",
+              "Person": "person",
+              "trifft": "meets",
+              "Straße": "street",
+              "Hanni Henne": "Hanni Hen",
+              "Supermarkt": "supermarket"
+            }
+          },
+          {
+            "number" : "40" ,
+            "german": "„Guten Morgen Henry Hühnchen!”, sagt Hanni Henne. „Wohin gehst du? Warum schaust du so ängstlich?”",
+            "english": "\"Good morning Henry Chicken!\" says Hanni Hen. \"Where are you going? Why are you looking so scared?\"",
+            "definitions": {
+              "Guten Morgen": "good morning",
+              "sagt": "says",
+              "Wohin": "where",
+              "gehst": "going",
+              "schaust": "look",
+              "ängstlich": "scared"
+            }
+          },
+          {
+            "number" : "41" ,
+            "german": "„Der Himmel stürzt ein! Der Himmel stürzt ein!”, sagt Henry Hühnchen.",
+            "english": "\"The sky is falling! The sky is falling!\" says Henry Chicken.",
+            "definitions": {
+              "Himmel": "sky",
+              "stürzt ein": "is falling",
+              "sagt": "says"
+            }
+          },
+          {
+            "number" : "42" ,
+            "german": "„Echt? Woher weißt du das?”, fragt Hanni Henne.",
+            "english": "\"Really? How do you know that?\" asks Hanni Hen.",
+            "definitions": {
+              "Echt": "really",
+              "Woher": "how",
+              "weißt": "know"
+            }
+          },
+          {
+            "number" : "43" ,
+            "german": "„Ich habe es im Internet gesehen!”, sagt Henry Hühnchen.",
+            "english": "\"I've seen it on the internet!\" says Henry Chicken.",
+            "definitions": {
+              "gesehen": "seen",
+              "Internet": "internet"
+            }
+          },
+          {
+            "number" : "44" ,
+            "german": "„Heiliger Bimbam! Dann muss es ja stimmen!”, sagt Hanni. „Los, gehen wir!”",
+            "english": "\"Holy cow! Then it must be true!\" says Hanni Hen. \"Let's go!\"",
+            "definitions": {
+              "Heiliger Bimbam": "holy cow",
+              "stimmen": "true",
+              "Los": "let's go",
+              "gehen": "go"
+            }
+          },
+          {
+            "number" : "45" ,
+            "german": "Also rennen Henry Hühnchen und Hanni Henne zusammen die Straße hinunter zum Teich.",
+            "english": "So Henry Hühnchen and Hanni Henne run together down the street to the pond.",
+            "definitions": {
+              "rennen": "run",
+              "zusammen": "together",
+              "Straße": "street",
+              "Teich": "pond"
+            }
+          },
+          {
+            "number" : "46" ,
+            "german": "Als sie am Teich ankommen, treffen sie Erna Ente. Sie badet gerade.",
+            "english": "When they arrive at the pond, they meet Erna Duck. She's having a bath.",
+            "definitions": {
+              "ankommen": "arrive",
+              "treffen": "meet",
+              "Erna Ente": "Erna Duck",
+              "badet": "is having a bath"
+            }
+          },
+          {
+            "number" : "47" ,
+            "german": "„Hallo, ihr zwei!”, sagt Erna Ente. „Wo geht ihr hin? Warum schaut ihr so ängstlich?”",
+            "english": "\"Hello, you two!\" says Erna Duck. \"Where are you going? Why are you looking so scared?\"",
+            "definitions": {
+              "Hallo": "hello",
+              "ihr zwei": "you two",
+              "sagt": "says",
+              "Wo": "where",
+              "geht": "going",
+              "schaust": "look",
+              "ängstlich": "scared"
+            }
+          },
+          {
+            "number" : "48" ,
+            "german": "„Der Himmel stürzt ein! Der Himmel stürzt ein!”, rufen Henry Hühnchen und Hanni Henne im Chor.",
+            "english": "\"The sky is falling! The sky is falling!\" Henry Chicken and Hanni Hen shout in unison.",
+            "definitions": {
+              "Himmel": "sky",
+              "stürzt ein": "is falling",
+              "rufen": "shout",
+              "im Chor": "in unison"
+            }
+          },
+          {
+            "number" : "49" ,
+            "german": "„Echt? Woher wisst ihr das?”, fragt Erna Ente.",
+            "english": "\"Really? How do you know that?\" asks Erna Duck.",
+            "definitions": {
+              "Echt": "really",
+              "Woher": "how",
+              "wisst": "know",
+              "fragt": "asks"
+            }
+          },
+          {
+            "number" : "50" ,
+            "german": "„Ich habe es im Internet gesehen!”, sagt Henry Hühnchen.",
+            "english": "\"I've seen it on the internet!\" says Henry Chicken.",
+            "definitions": {
+              "gesehen": "seen",
+              "Internet": "internet"
+            }
+          },
+          {
+            "number" : "51" ,
+            "german": "„Oh nein! Dann muss es ja stimmen!”, sagt Erna. „Los, gehen wir!”",
+            "english": "\"Oh no! Then it must be true!\" says Erna. \"Let's go!\"",
+            "definitions": {
+              "Oh nein": "oh no",
+              "stimmen": "true",
+              "Los": "let's go",
+              "gehen": "go"
+            }
+          },
+          {
+            "number" : "52" ,
+            "german": "Also rennen Henry Hühnchen, Hanni Henne und Erna Ente die Straße hinunter zum Bauernhof.",
+            "english": "So Henry Chicken, Hanni Hen and Erna Duck run down the street to the farm.",
+            "definitions": {
+              "rennen": "run",
+              "Straße": "street",
+              "Bauernhof": "farm"
+            }
+          },
+          {
+            "number" : "53" ,
+            "german": "Als sie am Bauernhof ankommen treffen sie Gerda Gans. Sie liest Thea Taube Gedichte vor.",
+            "english": "When they arrive at the farm, they meet Gerda Goose. She is reading poems to Thea Pigeon.",
+            "definitions": {
+              "ankommen": "arrive",
+              "treffen": "meet",
+              "Gerda Gans": "Gerda Goose",
+              "liest": "reads",
+              "Thea Taube": "Thea Pigeon",
+              "Gedichte": "poems"
+            }
+          },
+          {
+            "number" : "54" ,
+            "german": "„Hallo zusammen!”, sagt Gerda Gans. „Wo geht ihr hin? Warum schaut ihr so ängstlich?”",
+            "english": "\"Hello everybody!\" says Gerda Goose. \"Where are you going? Why are you looking so scared?\"",
+            "definitions": {
+              "Hallo zusammen": "hello everybody",
+              "sagt": "says",
+              "Wo": "where",
+              "geht": "going",
+              "ängstlich": "scared"
+            }
+          },
+          {
+            "number" : "55" ,
+            "german": "„Der Himmel stürzt ein! Der Himmel stürzt ein!”, rufen alle zusammen.",
+            "english": "\"The sky is falling! The sky is falling!\", they all shout together.",
+            "definitions": {
+              "Himmel": "sky",
+              "stürzt ein": "is falling",
+              "rufen": "shout",
+              "alle zusammen": "all together"
+            }
+          },
+          {
+            "number" : "56" ,
+            "german": "Lasst mich euch die Geschichte von Henry Hühnchen erzählen. Henry Hühnchen lebt in einem ganz normalen kleinen Hühnerhaus in einem ganz normalen Dorf.",
+            "english": "Let me tell you the story of Henry Chicken. Henry Chicken lives in a normal little chicken house in a normal village.",
+            "definitions": {
+              "Lasst": "let",
+              "mich": "me",
+              "euch": "you",
+              "Geschichte": "story",
+              "Henry Hühnchen": "Henry Chicken",
+              "lebt": "lives",
+              "ganz": "completely",
+              "normalen": "normal",
+              "kleinen": "little",
+              "Hühnerhaus": "chicken house",
+              "Dorf": "village"
+            }
+          },
+          {
+            "number" : "57" ,
+            "german": "Er ist weder groß noch klein. Er ist weder dick noch dünn. Er ist weder schlau noch dumm. Henry Hühnchen ist ein ganz normales Huhn.",
+            "english": "He is neither tall nor short. He is neither fat nor thin. He is neither smart nor stupid. Henry is a completely normal chicken.",
+            "definitions": {
+              "weder": "neither",
+              "groß": "tall",
+              "klein": "short",
+              "dick": "fat",
+              "dünn": "thin",
+              "schlau": "smart",
+              "dumm": "stupid",
+              "normales": "normal",
+              "Huhn": "chicken"
+            }
+          },
+          {
+            "number" : "58" ,
+            "german": "An einem ganz normalen Morgen isst Henry Hühnchen in der Küche sein Frühstück. Er mag Toast mit Butter und Kaffee mit Sahne.",
+            "english": "On a completely normal morning, Henry Chicken has his breakfast in the kitchen. He likes toast with butter and coffee with cream.",
+            "definitions": {
+              "Morgen": "morning",
+              "isst": "eats",
+              "Küche": "kitchen",
+              "Frühstück": "breakfast",
+              "mag": "likes",
+              "Toast": "toast",
+              "Butter": "butter",
+              "Kaffee": "coffee",
+              "Sahne": "cream"
+            }
+          },
+          {
+            "number" : "59" ,
+            "german": "„Echt? Woher wisst ihr das?”, fragt Thea Taube.",
+            "english": "\"Really? How do you know that?\" asks Thea Pigeon.",
+            "definitions": {
+              "Echt": "really",
+              "Woher": "how",
+              "wisst": "know",
+              "fragt": "asks",
+              "Thea Taube": "Thea Pigeon"
+            }
+          },
+          {
+            "number" : "60" ,
+            "german": "„Wir haben es im Internet gesehen!”, rufen alle zusammen.",
+            "english": "\"We have seen it on the Internet!\", they all shout together.",
+            "definitions": {
+              "Internet": "internet",
+              "gesehen": "seen",
+              "rufen": "shout",
+              "alle zusammen": "all together"
+            }
+          },
+          {
+            "number" : "61" ,
+            "german": "„Grundgütiger! Dann muss es ja stimmen!”, sagt Gerda. „Wir haben keine Zeit, Gedichte zu lesen. Los, gehen wir!”",
+            "english": "\"Good lord! Then it must be true!\" says Gerda Goose. \"We have no time to read poetry. Let's go!\"",
+            "definitions": {
+              "Grundgütiger": "good lord",
+              "stimmen": "true",
+              "Gedichte": "poems",
+              "lesen": "to read",
+              "Los": "let's go"
+            }
+          },
+          {
+            "number" : "62" ,
+            "german": "Also gehen Henry Hühnchen, Hanni Henne, Erna Ente, Gerda Gans und Thea Taube die Straße hinunter zum Dorfplatz.",
+            "english": "So Henry Chicken, Hanni Hen, Erna Duck, Gerda Goose and Thea Pigeon run down the street to the village square.",
+            "definitions": {
+              "gehen": "go",
+              "Straße": "street",
+              "Dorfplatz": "village square"
+            }
+          },
+          {
+            "number" : "63" ,
+            "german": "Auf der Hauptstraße treffen sie Freddy Fuchs. Er sitzt in einem Café und schreibt auf seinem Laptop.",
+            "english": "On the main street they meet Freddy Fox. He is sitting in a cafe and typing on his laptop.",
+            "definitions": {
+              "Hauptstraße": "main street",
+              "treffen": "meet",
+              "Freddy Fuchs": "Freddy Fox",
+              "Café": "cafe",
+              "schreibt": "writes",
+              "Laptop": "laptop"
+            }
+          },
+          {
+            "number" : "64" ,
+            "german": "„Hallo zusammen!”, sagt Freddy Fuchs. „Wo geht ihr hin? Warum schaut ihr so ängstlich?”",
+            "english": "\"Hello everybody!\" says Freddy Fox. \"Where are you going? Why are you looking so scared?\"",
+            "definitions": {
+              "Hallo zusammen": "hello everybody",
+              "sagt": "says",
+              "Wo": "where",
+              "geht": "going",
+              "ängstlich": "scared"
+            }
+          },
+          {
+            "number" : "65" ,
+            "german": "„Der Himmel stürzt ein! Der Hiiiiiimmel stürzt ein!”, rufen alle zusammen.",
+            "english": "\"The sky is falling! THE SKY IS FALLING!\", they all shout together.",
+            "definitions": {
+              "Himmel": "sky",
+              "stürzt ein": "is falling",
+              "rufen": "shout",
+              "alle zusammen": "all together"
+            }
+          },
+          {
+            "number" : "66" ,
+            "german": "Lasst mich euch die Geschichte von Henry Hühnchen erzählen. Henry Hühnchen lebt in einem ganz normalen kleinen Hühnerhaus in einem ganz normalen Dorf.",
+            "english": "Let me tell you the story of Henry Chicken. Henry Chicken lives in a normal little chicken house in a normal village.",
+            "definitions": {
+              "Lasst": "let",
+              "mich": "me",
+              "euch": "you",
+              "Geschichte": "story",
+              "Henry Hühnchen": "Henry Chicken",
+              "lebt": "lives",
+              "ganz": "completely",
+              "normalen": "normal",
+              "kleinen": "little",
+              "Hühnerhaus": "chicken house",
+              "Dorf": "village"
+            }
+          },
+          {
+            "number" : "67" ,
+            "german": "„Echt? Woher wisst ihr das?”, fragt Freddy Fuchs.",
+            "english": "\"Really? How do you know that?\" asks Freddy Fox.",
+            "definitions": {
+              "Echt": "really",
+              "Woher": "how",
+              "wisst": "know",
+              "fragt": "asks",
+              "Freddy Fuchs": "Freddy Fox"
+            }
+          },
+          {
+            "number" : "68" ,
+            "german": "„Wir haben es im Internet gesehen!”, rufen alle zusammen.",
+            "english": "\"We have seen it on the Internet!\", they all shout together.",
+            "definitions": {
+              "Internet": "internet",
+              "gesehen": "seen",
+              "rufen": "shout",
+              "alle zusammen": "all together"
+            }
+          },
+          {
+            "number" : "69" ,
+            "german": "„Wow! Na dann muss es ja stimmen!”, sagt der Fuchs. „Aber keine Sorge Freunde, ich kenne das perfekte Versteck. Folgt mir!”",
+            "english": "\"Wow! Well then it must be true!\" says the fox. \"But do not worry friends, I know the perfect hiding place. Follow me!\"",
+            "definitions": {
+              "Wow": "wow",
+              "muss": "must",
+              "stimmen": "true",
+              "Sorge": "worry",
+              "Freunde": "friends",
+              "perfekte Versteck": "perfect hiding place",
+              "Folgt mir": "follow me"
+            }
+          },
+          {
+            "number" : "70" ,
+            "german": "Freddy Fuchs führt alle durchs Dorf, die Straße hinunter, quer durchs Feld und auf einen Hügel hinauf. Oben auf dem Hügel liegt eine große, dunkle Höhle.",
+            "english": "Freddy Fox leads everyone through the village, down the street, across the field and up a hill. On top of the hill is a big, dark cave.",
+            "definitions": {
+              "führt": "leads",
+              "durchs Dorf": "through the village",
+              "Straße": "street",
+              "Feld": "field",
+              "Hügel": "hill",
+              "große": "big",
+              "dunkle Höhle": "dark cave"
+            }
+          },
+          {
+            "number" : "71" ,
+            "german": "„Kommt herein! Kommt herein!”, sagt Freddy. „Es gibt genug Platz für alle! Hier wird uns der Himmel nicht auf den Kopf fallen. Wir sind sicher.”",
+            "english": "\"Come in! Come in!\" says Freddy. \"There is enough space for everyone! Here the sky will not fall on our heads. We are safe.\"",
+            "definitions": {
+              "kommt herein": "come in",
+              "genug Platz": "enough space",
+              "Himmel": "sky",
+              "fallen": "fall",
+              "Kopf": "head",
+              "sicher": "safe"
+            }
+          },
+          {
+            "number" : "72" ,
+            "german": "Und so folgen Henry Hühnchen und alle seine Freunde dem Fuchs einer nach dem anderen in die Höhle.",
+            "english": "And so Henry Chicken and all his friends follow the fox one by one into the cave.",
+            "definitions": {
+              "folgen": "follow",
+              "alle seine Freunde": "all his friends",
+              "Fuchs": "fox",
+              "einer nach dem anderen": "one by one",
+              "Höhle": "cave"
+            }
+          },
+          {
+            "number" : "73" ,
+            "german": "Lasst mich euch die Geschichte von Henry Hühnchen erzählen. Henry Hühnchen lebt in einem ganz normalen kleinen Hühnerhaus in einem ganz normalen Dorf.",
+            "english": "Let me tell you the story of Henry Chicken. Henry Chicken lives in a normal little chicken house in a normal village.",
+            "definitions": {
+              "Lasst": "let",
+              "mich": "me",
+              "euch": "you",
+              "Geschichte": "story",
+              "Henry Hühnchen": "Henry Chicken",
+              "lebt": "lives",
+              "ganz": "completely",
+              "normalen": "normal",
+              "kleinen": "little",
+              "Hühnerhaus": "chicken house",
+              "Dorf": "village"
+            }
+          },
+          {
+            "number" : "74" ,
+            "german": "Am nächsten Morgen sind Henry Hühnchen und seine Freunde verschwunden. Die Höhle ist leer!",
+            "english": "The next morning, Henry Chicken and his friends have disappeared. The cave is empty!",
+            "definitions": {
+              "nächsten Morgen": "next morning",
+              "verschwunden": "disappeared",
+              "Höhle": "cave",
+              "leer": "empty"
+            }
+          },
+          {
+            "number" : "75" ,
+            "german": "Wo sie hin sind? Wir wissen es nicht sicher. Aber eines kann ich euch sagen: Freddy Fuchs ist sehr glücklich. Er hat jetzt einen großen, runden Bauch.",
+            "english": "Where did they go? We do not know for sure. But I can tell you one thing: Freddy Fox is very happy. He now has a big, round belly.",
+            "definitions": {
+              "sicher": "sure",
+              "eines": "one thing",
+              "glücklich": "happy",
+              "großen": "big",
+              "runden": "round",
+              "Bauch": "belly"
+            }
+          },
+          {
+            "number" : "76" ,
+            "german": "„Diese dummen Tiere!”, sagt er. Und er sitzt unter einem Baum, holt seinen Laptop heraus und fängt wieder an zu schreiben.",
+            "english": "\"These dumb animals!\" he says. And he sits under a tree, takes out his laptop and starts writing again.",
+            "definitions": {
+              "dummen Tiere": "dumb animals",
+              "sagt": "says",
+              "Baum": "tree",
+              "holt heraus": "takes out",
+              "fängt an": "starts",
+              "schreiben": "writing"
+            }
+          }
+        ]
+      },
+      {
+        "story_id": "henry_chicken",
+        "title": "The Story of Henry Chicken",
+        "content": [
+            {
+              "number" : "1" 
+            }
+        ]
+      }
+    ]
+  }
+  

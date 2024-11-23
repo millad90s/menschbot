@@ -1,0 +1,259 @@
+{
+    "verbs": [
+      {
+        "verb": "nerven",
+        "definition": "to annoy",
+        "conjugation": "nervt · nervte · hat genervt",
+        "examples": [
+          "Mensch, das nervt!",
+          "Das laute Geräusch nervt mich.",
+          "Ich finde es nervig, wenn Leute zu spät kommen."
+        ],
+        "emoji": "😤"
+      },
+      {
+        "verb": "heben",
+        "definition": "to lift",
+        "conjugation": "hebt · hob/hub · hat gehoben",
+        "examples": [
+          "Ich hebe den Kopf und sehe meine Freundin an.",
+          "Er hebt das schwere Paket.",
+          "Wir heben die Hände, wenn wir tanzen."
+        ],
+        "emoji": "🙋"
+      },
+      {
+        "verb": "sehen",
+        "definition": "to see",
+        "conjugation": "sieht · sah · hat gesehen",
+        "examples": [
+          "Ich hebe den Kopf und sehe meine Freundin an.",
+          "Hast du den Film gestern gesehen?",
+          "Ich sehe die Berge vom Fenster aus."
+        ],
+        "emoji": "👀"
+      },
+      {
+        "verb": "sagen",
+        "definition": "to say",
+        "conjugation": "sagt · sagte · hat gesagt",
+        "examples": [
+          "Sie hat das gesagt.",
+          "Ich sage dir die Wahrheit.",
+          "Was hat er gestern gesagt?"
+        ],
+        "emoji": "🗣️"
+      },
+      {
+        "verb": "verstehen",
+        "definition": "to understand",
+        "conjugation": "versteht · verstand · hat verstanden",
+        "examples": [
+          "Trotzdem verstehe ich sie.",
+          "Kannst du das Problem verstehen?",
+          "Ich verstehe kein Wort, was er sagt."
+        ],
+        "emoji": "🤔"
+      },
+      {
+        "verb": "denken",
+        "definition": "to think",
+        "conjugation": "denkt · dachte · hat gedacht",
+        "examples": [
+          "Sie denkt: Ja, ja. Nur noch schnell...",
+          "Ich denke oft an meine Kindheit.",
+          "Was denkst du über dieses Buch?"
+        ],
+        "emoji": "💭"
+      },
+      {
+        "verb": "fragen",
+        "definition": "to ask",
+        "conjugation": "fragt · fragte · hat gefragt",
+        "examples": [
+          "Plötzlich frage ich mich: Wie oft bin ich eigentlich am Handy?",
+          "Hast du den Lehrer etwas gefragt?",
+          "Wir fragen nach der richtigen Richtung."
+        ],
+        "emoji": "❓"
+      },
+      {
+        "verb": "wissen",
+        "definition": "to know",
+        "conjugation": "weiß · wusste · hat gewusst",
+        "examples": [
+          "Ich weiß es nicht.",
+          "Weißt du, wann der Zug kommt?",
+          "Ich wusste nicht, dass du hier bist."
+        ],
+        "emoji": "📖"
+      },
+      {
+        "verb": "nehmen",
+        "definition": "to take",
+        "conjugation": "nimmt · nahm · hat genommen",
+        "examples": [
+          "Ich habe mein Handy 76-mal in die Hand genommen.",
+          "Er nimmt das letzte Stück Kuchen.",
+          "Wir nehmen den Bus zur Arbeit."
+        ],
+        "emoji": "🤲"
+      },
+      {
+        "verb": "besuchen",
+        "definition": "to visit",
+        "conjugation": "besucht · besuchte · hat besucht",
+        "examples": [
+          "Ich habe soziale Netzwerke besucht.",
+          "Wir besuchen unsere Großeltern am Wochenende.",
+          "Hast du schon einmal Berlin besucht?"
+        ],
+        "emoji": "🌐"
+      },
+      {
+        "verb": "chatten",
+        "definition": "to chat",
+        "conjugation": "chattet · chattete · hat gechattet",
+        "examples": [
+          "Ich habe gechattet.",
+          "Wir chatten jeden Abend online.",
+          "Sie chattete mit ihren Freunden über das neue Spiel."
+        ],
+        "emoji": "💬"
+      },
+      {
+        "verb": "hochladen",
+        "definition": "to upload",
+        "conjugation": "lädt hoch · lud hoch · hat hochgeladen",
+        "examples": [
+          "Ich habe Daten hochgeladen.",
+          "Lädt das Video bitte hoch.",
+          "Sie hat ein neues Foto in die Cloud hochgeladen."
+        ],
+        "emoji": "⬆️"
+      },
+      {
+        "verb": "überweisen",
+        "definition": "to transfer (money)",
+        "conjugation": "überweist · überwies · hat überwiesen",
+        "examples": [
+          "Ich habe Geld überwiesen.",
+          "Er überweist die Miete jeden Monat pünktlich.",
+          "Kannst du mir den Betrag schnell überweisen?"
+        ],
+        "emoji": "💳"
+      },
+      {
+        "verb": "spielen",
+        "definition": "to play",
+        "conjugation": "spielt · spielte · hat gespielt",
+        "examples": [
+          "Ich habe gespielt.",
+          "Die Kinder spielen im Garten.",
+          "Hast du das neue Videospiel schon gespielt?"
+        ],
+        "emoji": "🎮"
+      },
+      {
+        "verb": "einchecken",
+        "definition": "to check in",
+        "conjugation": "checkt ein · checkte ein · hat eingecheckt",
+        "examples": [
+          "Ich habe im Schwimmbad eingecheckt.",
+          "Bitte checken Sie am Schalter ein.",
+          "Wir haben im Hotel früh eingecheckt."
+        ],
+        "emoji": "🏊"
+      },
+      {
+        "verb": "scannen",
+        "definition": "to scan",
+        "conjugation": "scannt · scannte · hat gescannt",
+        "examples": [
+          "Ich habe die Speisekarte gescannt.",
+          "Er scannt die Dokumente für die Bewerbung.",
+          "Kannst du den Barcode scannen?"
+        ],
+        "emoji": "📲"
+      },
+      {
+        "verb": "lassen",
+        "definition": "to let, to allow !!! multiple meaning",
+        "conjugation": "lässt · ließ · hat gelassen",
+        "examples": [
+            "Ich lasse ihn gehen.",
+            "Lass ihn spielen.",
+            "Er lässt die Kinder draußen spielen.",
+            "Ich lasse sie entscheiden.",
+            "Sie lässt den Hund frei laufen."
+        ],
+        "emoji": "👐"
+    },
+    {
+        "verb": "lassen",
+        "definition": "to have something done (causative) !!! multiple meaning",
+        "conjugation": "lässt · ließ · hat gelassen",
+        "examples": [
+            "Ich lasse mein Auto reparieren.",
+            "Lass die Fenster putzen.",
+            "Wir lassen das Essen liefern.",
+            "Er lässt sein Fahrrad reparieren.",
+            "Sie lässt ihre Haare schneiden."
+        ],
+        "emoji": "🛠️"
+    },
+    {
+        "verb": "lassen",
+        "definition": "to leave (in a state or position) !!! multiple meaning",
+        "conjugation": "lässt · ließ · hat gelassen",
+        "examples": [
+            "Lass das Buch auf dem Tisch.",
+            "Lass den Computer an.",
+            "Lass die Tür offen.",
+            "Er lässt die Lichter an.",
+            "Lass die Pflanzen in der Sonne."
+        ],
+        "emoji": "📖"
+    },
+    {
+        "verb": "lassen",
+        "definition": "to stop/quit (with imperative) !!! multiple meaning",
+        "conjugation": "lässt · ließ · hat gelassen",
+        "examples": [
+            "Lass das!",
+            "Lass mich in Ruhe!",
+            "Lass diese Diskussion.",
+            "Lass es einfach sein.",
+            "Lass mich das klären."
+        ],
+        "emoji": "✋"
+    },
+    {
+        "verb": "lassen",
+        "definition": "to let go/abandon (figuratively) !!! multiple meaning",
+        "conjugation": "lässt · ließ · hat gelassen",
+        "examples": [
+            "Lass die Vergangenheit los.",
+            "Er lässt seinen Traum nicht los.",
+            "Lass deinen Ärger los.",
+            "Lass deine Zweifel los.",
+            "Lass diese Sorgen los."
+        ],
+        "emoji": "🕊️"
+    },
+    {
+        "verb": "lassen",
+        "definition": "in expressions/idioms !!! multiple meaning",
+        "conjugation": "lässt · ließ · hat gelassen",
+        "examples": [
+            "Lass uns gehen.",
+            "Lass es gut sein.",
+            "Lass uns anfangen.",
+            "Lass uns ehrlich sein.",
+            "Lass uns das gemeinsam machen."
+        ],
+        "emoji": "🤝"
+    }
+    ]
+  }
+  

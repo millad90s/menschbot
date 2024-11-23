@@ -1,0 +1,229 @@
+{
+  "nouns": [
+    {
+      "artikel": "die",
+      "noun": "Currywurst",
+      "definition": "sausage with curry sauce (German fast food dish)",
+      "examples": [
+        {
+          "german": "Die Currywurst ist sehr beliebt in Deutschland.",
+          "english": "The curry sausage is very popular in Germany."
+        },
+        {
+          "german": "Ich habe eine Currywurst zum Mittagessen gegessen.",
+          "english": "I had a curry sausage for lunch."
+        }
+      ]
+    },
+    {
+      "artikel": "der",
+      "noun": "Tisch",
+      "definition": "table",
+      "examples": [
+        {
+          "german": "Kannst du bitte den Tisch decken?",
+          "english": "Can you please set the table?"
+        },
+        {
+          "german": "Der Tisch ist aus Holz.",
+          "english": "The table is made of wood."
+        }
+      ]
+    },
+    {
+      "artikel": "der",
+      "noun": "Durst",
+      "definition": "thirst",
+      "examples": [
+        {
+          "german": "Ich habe großen Durst.",
+          "english": "I am very thirsty."
+        },
+        {
+          "german": "Nach dem Sport habe ich immer Durst.",
+          "english": "After sports, I am always thirsty."
+        }
+      ]
+    },
+    {
+      "artikel": "das",
+      "noun": "Brot",
+      "definition": "bread",
+      "examples": [
+        {
+          "german": "Kannst du mir das Brot geben?",
+          "english": "Can you give me the bread?"
+        },
+        {
+          "german": "Ich esse gerne frisches Brot.",
+          "english": "I like eating fresh bread."
+        }
+      ]
+    },
+    {
+      "artikel": "das",
+      "noun": "Gefühl",
+      "definition": "feeling",
+      "examples": [
+        {
+          "german": "Ich habe ein gutes Gefühl für das neue Projekt.",
+          "english": "I have a good feeling about the new project."
+        },
+        {
+          "german": "Gefühle sind wichtig für unsere Entscheidungen.",
+          "english": "Feelings are important for our decisions."
+        }
+      ]
+    },
+    {
+      "artikel": "der",
+      "noun": "Hunger",
+      "definition": "hunger",
+      "examples": [
+        {
+          "german": "Ich habe großen Hunger.",
+          "english": "I am very hungry."
+        },
+        {
+          "german": "Hunger ist das beste Gewürz.",
+          "english": "Hunger is the best spice."
+        }
+      ]
+    },
+    {
+      "artikel": "die",
+      "noun": "Mikrowelle",
+      "definition": "microwave",
+      "examples": [
+        {
+          "german": "Die Mikrowelle ist sehr praktisch.",
+          "english": "The microwave is very practical."
+        },
+        {
+          "german": "Ich wärme mein Essen in der Mikrowelle auf.",
+          "english": "I heat up my food in the microwave."
+        }
+      ]
+    },
+    {
+      "artikel": "die",
+      "noun": "Mensa",
+      "definition": "cafeteria",
+      "examples": [
+        {
+          "german": "Die Mensa an der Universität ist groß.",
+          "english": "The cafeteria at the university is large."
+        },
+        {
+          "german": "Ich esse oft in der Mensa.",
+          "english": "I often eat in the cafeteria."
+        }
+      ]
+    },
+    {
+      "artikel": "das",
+      "noun": "was",
+      "definition": "something",
+      "examples": [
+        {
+          "german": "Es gibt ja gleich was zu essen.",
+          "english": "We’ll soon get something to eat."
+        },
+        {
+          "german": "Hast du was Interessantes gesehen?",
+          "english": "Did you see something interesting?"
+        }
+      ]
+    },
+    {
+      "artikel": "die",
+      "noun": "Zitrone",
+      "definition": "lemon",
+      "examples": [
+        {
+          "german": "Die Zitrone schmeckt sehr sauer.",
+          "english": "The lemon tastes very sour."
+        },
+        {
+          "german": "Ich brauche eine Zitrone für den Kuchen.",
+          "english": "I need a lemon for the cake."
+        }
+      ]
+    },
+    {
+      "artikel": "die",
+      "noun": "Schärfe",
+      "definition": "spiciness",
+      "examples": [
+        {
+          "german": "Die Schärfe des Essens ist zu hoch.",
+          "english": "The spiciness of the food is too high."
+        },
+        {
+          "german": "Ich mag keine Gerichte mit viel Schärfe.",
+          "english": "I don’t like dishes with a lot of spiciness."
+        }
+      ]
+    },
+    {
+      "artikel": "die",
+      "noun": "Süße",
+      "definition": "sweetness",
+      "examples": [
+        {
+          "german": "Die Süße des Kuchens ist perfekt.",
+          "english": "The sweetness of the cake is perfect."
+        },
+        {
+          "german": "Ich bevorzuge Getränke mit weniger Süße.",
+          "english": "I prefer drinks with less sweetness."
+        }
+      ]
+    },
+    {
+      "artikel": "die",
+      "noun": "Säure",
+      "definition": "acidity",
+      "examples": [
+        {
+          "german": "Die Säure der Zitrone ist stark.",
+          "english": "The acidity of the lemon is strong."
+        },
+        {
+          "german": "Wein hat oft eine leichte Säure.",
+          "english": "Wine often has a slight acidity."
+        }
+      ]
+    },
+    {
+      "artikel": "die",
+      "noun": "Bitterkeit",
+      "definition": "bitterness",
+      "examples": [
+        {
+          "german": "Die Bitterkeit von Kaffee ist angenehm.",
+          "english": "The bitterness of coffee is pleasant."
+        },
+        {
+          "german": "Ich mag keine Bitterkeit im Geschmack.",
+          "english": "I don’t like bitterness in the taste."
+        }
+      ]
+    },
+    {
+      "artikel": "das",
+      "noun": "Essen",
+      "definition": "food",
+      "examples": [
+        {
+          "german": "Das Essen ist superlecker.",
+          "english": "The food is very tasty."
+        },
+        {
+          "german": "Ich liebe gutes Essen.",
+          "english": "I love good food."
+        }
+      ]
+    }
+  ]
+}
