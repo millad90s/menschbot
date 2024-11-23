@@ -1163,6 +1163,7 @@ def main():
         format="%(asctime)s - %(name)s - %(levelname)s - %(message)s",
         level=logging.INFO,
     )
+    logging.debug("Starting bot...")
     
     # Replace 'YOUR_BOT_TOKEN' with your actual bot token
     print(os.getenv("TELEGRAM_API_KEY")[-5:])
