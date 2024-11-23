@@ -55,9 +55,9 @@ keyboards = {
             InlineKeyboardButton("News 📺", callback_data='A2.2_news'),
             InlineKeyboardButton("Podcast 🎧", callback_data='A2.2_podcast'),
         ],
-        [
-            InlineKeyboardButton("Story 🧛", callback_data='a22_story'),
-        ],
+        # [
+        #     InlineKeyboardButton("Story 🧛", callback_data='a22_story'),
+        # ],
         [
             InlineKeyboardButton("Back", callback_data='Back_main_menu'),
         ]],
