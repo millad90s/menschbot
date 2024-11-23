@@ -77,9 +77,9 @@ keyboards = {
             InlineKeyboardButton("⁉️", callback_data='de_artikle'),
             InlineKeyboardButton("⁉️", callback_data='de_artikle'),
         ],
-        [
-          InlineKeyboardButton(" AI Chat", callback_data='a22_ai_chat'),  
-        ],
+        # [
+        #   InlineKeyboardButton(" AI Chat", callback_data='a22_ai_chat'),  
+        # ],
         [
             InlineKeyboardButton("Back", callback_data='Back_main_menu'),
         ]
