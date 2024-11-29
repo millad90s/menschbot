@@ -939,7 +939,26 @@ async def word(update: Update, context: ContextTypes.DEFAULT_TYPE):
     #     await update.message.reply_text(
     #         f"Word: {word['word']}\nDefinition: {word['definition']}\nExample: {word['example']}")
 
-    
+
+### list users and numbers of them
+async def admin_list_users(update: Update, context: ContextTypes.DEFAULT_TYPE):
+    print("User Admin {} requested to view data.".format(update.effective_user.first_name))
+    try:
+        if str(update.effective_user.id) == os.getenv('ADMIN_ID'):
+            conn = sqlite3.connect(os.getenv('DB_PATH'))
+            c = conn.cursor()
+            query = '''
+                SELECT * FROM users
+            '''
+            c.execute(query)
+            users = c.fetchall()
+            num_users = len(users)
+            # c.execute("SELECT COUNT(*) FROM words")
+            # num_words = c.fetchone()[0]
+            conn.close()
+            await context.bot.send_message(chat_id=update.effective_chat.id, text=f"Number of users: {num_users}\n users: {users}")
+    except Exception as e:
+        print(f"An error occurred: {e}")
 ### handle admin_sen_allow , admin can send a message to all users
 async def admin_sen_allow(update: Update, context: ContextTypes.DEFAULT_TYPE):
     ### check if it's coming from admin id 
@@ -1184,6 +1203,7 @@ def main():
     application.add_handler(CommandHandler("get_dialog", get_reply))
     # application.add_handler(CommandHandler("word", word))
     application.add_handler(CommandHandler("admin_send_all", admin_sen_allow))
+    application.add_handler(CommandHandler("admin_list_users", admin_list_users))
     application.add_handler(MessageHandler(filters.TEXT & ~filters.COMMAND, track_message))
     # application.add_handler(CallbackQueryHandler(show_user_data, pattern='^view_data$'))
     # application.add_handler(CallbackQueryHandler(start_learning, pattern='^en_word$'))
