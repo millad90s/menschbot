@@ -20,6 +20,7 @@ import json
 import random, os
 import logging
 import urllib.request
+from functools import wraps
 
 active_polls = {}
 user_navigation_stacks = {}
@@ -173,6 +174,34 @@ keyboard = [
     [InlineKeyboardButton("Donate 😍", callback_data='donate', url="https://paypal.me/millad90s?country.x=DE&locale.x=en_US")]
 ]
     
+def update_user_activity(update: Update):
+    user = update.effective_user
+    logging.info(f"Updating last activity for user {user.id}")
+    query = '''
+        INSERT INTO users (user_id, username, first_name, last_name, language_code, last_active)
+        VALUES (?, ?, ?, ?, ?, CURRENT_TIMESTAMP)
+        ON CONFLICT(user_id) DO UPDATE SET
+            last_active = CURRENT_TIMESTAMP
+    '''
+    try:
+        conn = sqlite3.connect(os.getenv('DB_PATH'))
+        c = conn.cursor()
+        c.execute(query, (user.id, user.username,
+                        user.first_name, user.last_name, 
+                        user.language_code))
+        conn.commit()
+        conn.close()
+    except Exception as e:
+        print("Error updating last activity:", str(e))
+        
+### update last_activity of the user
+def update_activity_decorator(func):
+    @wraps(func)
+    def wrapper(*args, **kwargs):
+        update_user_activity(args[0])
+        return func(*args, **kwargs)
+    return wrapper
+
 # Database initialization
 def init_database():
     print("Initializing database...")
@@ -253,7 +282,28 @@ def add_score(user_id, quiz_name, points):
     conn.commit()
     conn.close()
     
-    
+
+def add_user(user_id, username, first_name, last_name, language_code):
+    try:
+        conn = sqlite3.connect('user_data.db')
+        c = conn.cursor()
+        
+        c.execute('''
+            INSERT INTO users (user_id, username, first_name, last_name, language_code, last_active)
+            VALUES (?, ?, ?, ?, ?, CURRENT_TIMESTAMP)
+            ON CONFLICT(user_id) DO UPDATE SET
+                username = excluded.username,
+                first_name = excluded.first_name,
+                last_name = excluded.last_name,
+                language_code = excluded.language_code,
+                last_active = DATETIME('now', 'localtime')
+        ''', (user_id, username, first_name, last_name, language_code))
+        conn.commit()
+        conn.close()
+        return True
+    except Exception as e:
+        print(f"An error occurred: {e}")
+        return False
 ### fetch users score for all his quizes 
 def get_user_scores(user_id):
     # Connect to the SQLite database
@@ -370,6 +420,7 @@ def get_three_words():
     
     
 ### send german auddio to users
+@update_activity_decorator
 async def de_podcast(update: Update, context: ContextTypes.DEFAULT_TYPE):
     print("User {} requested DE audio.".format(update.effective_user.first_name))
     print(update.message)
@@ -383,6 +434,7 @@ async def de_podcast(update: Update, context: ContextTypes.DEFAULT_TYPE):
     
     
 ### send a audiofile to users
+@update_activity_decorator
 async def podcast(update: Update, context: ContextTypes.DEFAULT_TYPE):
     print("User {} requested EN audio.".format(update.effective_user.first_name))
     print(update.message)
@@ -392,6 +444,7 @@ async def podcast(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await context.bot.send_audio(chat_id=update.effective_chat.id, audio=audio_file, title="504 Lesson "+str(lesson_number), thumbnail='https://englishpodcast.fra1.cdn.digitaloceanspaces.com/504/504_podcast.jpeg', caption="Podcast by Platform124", protect_content=True )
     
 ### handle grammar menu and show grammar keyboard
+@update_activity_decorator
 async def grammar(update: Update, context: ContextTypes.DEFAULT_TYPE):
     print("User {} requested grammar.".format(update.effective_user.first_name))
     reply_markup = InlineKeyboardMarkup(keyboard)
@@ -399,6 +452,7 @@ async def grammar(update: Update, context: ContextTypes.DEFAULT_TYPE):
     
 
 ### handle grammar_quiz menu and show grammar keyboard
+@update_activity_decorator
 async def grammar_quiz(update: Update, context: ContextTypes.DEFAULT_TYPE):
     print("User {} requested grammar.".format(update.effective_user.first_name))
     reply_markup = InlineKeyboardMarkup(keyboard)
@@ -411,6 +465,7 @@ def read_german_nouns(filename: str, count: int):
         noun = random.sample(data, count)
         return noun
     
+@update_activity_decorator
 async def de_quiz(update: Update, context: ContextTypes.DEFAULT_TYPE):
     print("User {} requested Deutsch quiz.".format(update.effective_user.first_name))
     logging.info("User {} requested Deutsch quiz.".format(update.effective_user.first_name))
@@ -446,6 +501,7 @@ def read_german_adjectives():
 #         return modal
 
 ### handle de_quiz_trotzdem button 
+@update_activity_decorator
 async def de_quiz_trotzdem(update: Update, context: ContextTypes.DEFAULT_TYPE):
     print("User {} requested Deutsch quiz for trotzdem.".format(update.effective_user.first_name))
     logging.info("User {} requested Deutsch quiz for trotzdem.".format(update.effective_user.first_name))
@@ -467,6 +523,7 @@ async def de_quiz_trotzdem(update: Update, context: ContextTypes.DEFAULT_TYPE):
     }
     
 ### handle modal_verbs quiz
+@update_activity_decorator
 async def a22_quiz_modal_verbs_func(update: Update, context: ContextTypes.DEFAULT_TYPE):
     print("User {} requested Deutsch quiz for modal verbs.".format(update.effective_user.first_name))
     logging.info("User {} requested Deutsch quiz for modal verbs.".format(update.effective_user.first_name))
@@ -487,6 +544,7 @@ async def a22_quiz_modal_verbs_func(update: Update, context: ContextTypes.DEFAUL
     }
     
 ### handle de_quiz_verben button
+@update_activity_decorator
 async def de_quiz_verben(update: Update, context: ContextTypes.DEFAULT_TYPE):
     print("User {} requested Deutsch quiz for verben.".format(update.effective_user.first_name))
     logging.info("User {} requested Deutsch quiz for verben.".format(update.effective_user.first_name))
@@ -508,6 +566,7 @@ async def de_quiz_verben(update: Update, context: ContextTypes.DEFAULT_TYPE):
     
     # reply_markup = InlineKeyboardMarkup(keyboards.get('keyboard_a22_quiz'))
     # await context.bot.send_message(chat_id=update.effective_chat.id, text="Select an option:", reply_markup=reply_markup)
+@update_activity_decorator
 async def de_reflexiv_quiz(update: Update, context: ContextTypes.DEFAULT_TYPE):
     print("User {} requested Deutsch quiz for reflexiv.".format(update.effective_user.first_name))
     logging.info("User {} requested Deutsch quiz for reflexiv.".format(update.effective_user.first_name))
@@ -538,6 +597,7 @@ def read_german_prepositions():
         pre = random.choice(prepositions)
         return pre
     
+@update_activity_decorator
 async def de_preposition_quiz(update: Update, context: ContextTypes.DEFAULT_TYPE):
     print("User {} requested Deutsch quiz for prepositions.".format(update.effective_user.first_name))
     logging.info("User {} requested Deutsch quiz for prepositions.".format(update.effective_user.first_name))
@@ -558,6 +618,7 @@ async def de_preposition_quiz(update: Update, context: ContextTypes.DEFAULT_TYPE
     }
     
 ### read german_adjectives.json file and prepare the quiz for user
+@update_activity_decorator
 async def dde_adjectives_quiz(update: Update, context: ContextTypes.DEFAULT_TYPE):
     logging.info("User {} requested Deutsch quiz for adjectives.".format(update.effective_user.first_name))
     adj = read_german_adjectives()
@@ -596,6 +657,7 @@ async def menu_a22(update: Update, context: ContextTypes.DEFAULT_TYPE):
     logging.info("User {} requested Deutsch menu A2.2.".format(update.effective_user.first_name))
 
 
+@update_activity_decorator
 async def a22_story(update: Update, context: ContextTypes.DEFAULT_TYPE):
     print("User {} requested Deutsch story A.".format(update.effective_user.first_name))
     reply_markup = InlineKeyboardMarkup(keyboards.get('a22_story_a'))
@@ -603,6 +665,7 @@ async def a22_story(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await update.callback_query.edit_message_text("Select an option:", reply_markup=reply_markup)
     
 ### read story a
+@update_activity_decorator
 async def a22_story_a(update: Update, context: ContextTypes.DEFAULT_TYPE):
     print("User {} requested Deutsch story A.".format(update.effective_user.first_name))
     reply_markup = InlineKeyboardMarkup(keyboards.get('keyboard_story'))
@@ -611,6 +674,7 @@ async def a22_story_a(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await update.callback_query.edit_message_text(f"{story['title']}", reply_markup=reply_markup)
     
 
+@update_activity_decorator
 async def a22_learn(update: Update, context: ContextTypes.DEFAULT_TYPE):
     print("User {} requested Deutsch menu A2.2.".format(update.effective_user.first_name))
     reply_markup = InlineKeyboardMarkup(keyboards.get('keyboard_a22_learn'))
@@ -645,6 +709,7 @@ async def a22_ai_chat_func(update: Update, context: ContextTypes.DEFAULT_TYPE):
         # await context.bot.send_message(chat_id=update.effective_chat.id, text=f"{response} \n limit: {user_data[update.effective_user.id]['quota_limit'] - user_data[update.effective_user.id]['used_chats']}")
             
     
+@update_activity_decorator
 async def a22_learn_modal_func(update: Update, context: ContextTypes.DEFAULT_TYPE):
     print("User {} requested Deutsch menu A2.2. learn modal verbs".format(update.effective_user.first_name))
     ### read related file and show the result to user 
@@ -656,6 +721,7 @@ async def a22_learn_modal_func(update: Update, context: ContextTypes.DEFAULT_TYP
     await context.bot.send_message(chat_id=update.effective_chat.id,text="Select an option:", reply_markup=reply_markup)
 
 ### handle a22 learn verbs
+@update_activity_decorator
 async def a22_learn_verbs(update: Update, context: ContextTypes.DEFAULT_TYPE):
     print("User {} requested Deutsch menu A2.2. learn verb".format(update.effective_user.first_name))
     ### read related file and show the result to user 
@@ -666,6 +732,7 @@ async def a22_learn_verbs(update: Update, context: ContextTypes.DEFAULT_TYPE):
         
         
 ### handle a22_quiz menu
+@update_activity_decorator
 async def a22_quiz(update: Update, context: ContextTypes.DEFAULT_TYPE):
     print("User {} requested Deutsch menu A2.2.".format(update.effective_user.first_name))
     reply_markup = InlineKeyboardMarkup(keyboards.get('keyboard_a22_quiz'))
@@ -687,6 +754,7 @@ def read_stories_json_file(file_name, index):
     
 
 ### handle a22_quiz_fragewort menu
+@update_activity_decorator
 async def a22_quiz_fragewort(update: Update, context: ContextTypes.DEFAULT_TYPE):
     print("User {} requested Deutsch quiz for fragewort A2.2.".format(update.effective_user.first_name))
     ### read from german_fragewort.json
@@ -709,6 +777,7 @@ async def a22_quiz_fragewort(update: Update, context: ContextTypes.DEFAULT_TYPE)
     # reply_markup = InlineKeyboardMarkup(keyboard_a22_quiz)
     # await update.callback_query.edit_message_text("Select an option:", reply_markup=reply_markup)   
     
+@update_activity_decorator
 async def handle_poll_answer(update: Update, context: ContextTypes.DEFAULT_TYPE):
     try:
         poll_id = update.poll_answer.poll_id
@@ -748,6 +817,8 @@ artikle_color = {
     'die': '🔴',
     'das': '🟢' 
 }
+
+@update_activity_decorator
 async def a22_learn_artikles(update: Update, context: ContextTypes.DEFAULT_TYPE):
     print("User {} requested Deutsch menu A2.2 learn artikles".format(update.effective_user.first_name))
     reply_markup = InlineKeyboardMarkup(keyboards.get('keyboard_a22_learn'))
@@ -755,6 +826,7 @@ async def a22_learn_artikles(update: Update, context: ContextTypes.DEFAULT_TYPE)
     color = artikle_color.get(noun.get('artikel'), ' ')
     await context.bot.send_message(chat_id=update.effective_chat.id, text=f"Artikel: {color} {noun['artikel']} {noun['noun']}\nDefinition: {noun['definition']} {noun['emoji']}\nExample: {noun['examples'][0]}", reply_markup=reply_markup)
     
+@update_activity_decorator
 async def de_artikle_quiz(update: Update, context: ContextTypes.DEFAULT_TYPE):
     print("User {} requested German quiz.".format(update.effective_user.first_name))
     options = ['der', 'die', 'das']
@@ -785,6 +857,7 @@ async def de_artikle_quiz(update: Update, context: ContextTypes.DEFAULT_TYPE):
     
     
 ### send a quiz/poll to user from the words
+@update_activity_decorator
 async def quiz(update: Update, context: ContextTypes.DEFAULT_TYPE):
     print("User {} requested quiz.".format(update.effective_user.first_name))
     
@@ -876,6 +949,7 @@ def fetch_news(url, date: str = None, categoty: str = 'entertainment'):
     
     
 # Basic user information collection
+@update_activity_decorator
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     print("User {}  by ID {} started the conversation.".format(update.effective_user.first_name, update.effective_user.id) )
     # await update.message.reply_text("Welcome! I’m here to help you learn 504 essential words. Type /word to get started!")
@@ -925,6 +999,7 @@ async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
     await update.message.reply_text("Select an option:", reply_markup=reply_markup)
 
 ### select a randorm item from 504_words.json and send it to the user
+@update_activity_decorator
 async def word(update: Update, context: ContextTypes.DEFAULT_TYPE):
     print("User {} requested a word.".format(update.effective_user.first_name))
     word  = get_a_word()
@@ -944,6 +1019,7 @@ async def word(update: Update, context: ContextTypes.DEFAULT_TYPE):
 async def admin_list_users(update: Update, context: ContextTypes.DEFAULT_TYPE):
     print("User Admin {} requested to view data.".format(update.effective_user.first_name))
     try:
+        logging.info("User Admin {} requested to view data.".format(update.effective_user.first_name))
         if str(update.effective_user.id) == os.getenv('ADMIN_ID'):
             conn = sqlite3.connect(os.getenv('DB_PATH'))
             c = conn.cursor()
@@ -957,6 +1033,8 @@ async def admin_list_users(update: Update, context: ContextTypes.DEFAULT_TYPE):
             # num_words = c.fetchone()[0]
             conn.close()
             await context.bot.send_message(chat_id=update.effective_chat.id, text=f"Number of users: {num_users}\n users: {users}")
+        else:
+            await update.message.reply_text(" :) ")
     except Exception as e:
         print(f"An error occurred: {e}")
 ### handle admin_sen_allow , admin can send a message to all users
@@ -1031,7 +1109,7 @@ async def track_message(update: Update, context: ContextTypes.DEFAULT_TYPE):
     #                                 "Your data helps personalize your learning experience.")
 
 
-
+@update_activity_decorator
 async def donate(update: Update, context: ContextTypes.DEFAULT_TYPE):
     print("User {} donated.".format(update.effective_user.first_name))
     donation_text = "Thanks for your donation!\n\n https://paypal.me/millad90s?country.x=DE&locale.x=en_US"
@@ -1050,6 +1128,7 @@ def get_de_word():
     
     
 ### get german word 
+@update_activity_decorator
 async def de_word(update: Update, context: ContextTypes.DEFAULT_TYPE):
     print("User {} requested a DE WORD.".format(update.effective_user.first_name))
     word  = get_de_word()
@@ -1090,8 +1169,10 @@ async def settings(update: Update, context: ContextTypes.DEFAULT_TYPE):
     )
     
 ### get deutsch news
+@update_activity_decorator
 async def get_news_de(update: Update, context: ContextTypes.DEFAULT_TYPE):
     print("User {} requested Deutsch news.".format(update.effective_user.first_name))
+    # update_last_activity(update.effective_user.id)
     news = random.sample(read_news(count=10), 1)[0]
     await update.callback_query.edit_message_text(news['description'] +'\n\n'+ news['learning_text'])
     chat_id = update.effective_chat.id
@@ -1103,6 +1184,7 @@ async def get_news_de(update: Update, context: ContextTypes.DEFAULT_TYPE):
         reply_markup=reply_markup
     )
     
+@update_activity_decorator
 async def get_news(update: Update, context: ContextTypes.DEFAULT_TYPE):
     print("User {} requested news.".format(update.effective_user.first_name))
     news = fetch_news('https://api.mediastack.com/v1/news?access_key='+os.getenv('MEDIASTACK_API_KEY')+'&languages=en')
