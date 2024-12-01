@@ -35,12 +35,14 @@ jobs:
     - name: Run tests
       run: |
         source .venv/bin/activate
-        pytest tests/ --maxfail=5 --disable-warnings -v
+        coverage run -m pytest tests/ --maxfail=5 --disable-warnings -v
+        coverage report
+        coverage xml
 
     # Upload pytest results
     - name: Upload test results
       if: always()
       uses: actions/upload-artifact@v3
       with:
-        name: pytest-results
-        path: .pytest_cache
+        name: coverage.xml
+        path: .
